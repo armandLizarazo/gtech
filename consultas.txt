@@ -1,36 +1,3 @@
 Pedido Forro Space
-
-A02s
-A03
-A03s
-A04
-A10
-A10s
-A11
-A13_4G
-A14
-A20
-A20s
-A22_4G
-A24
-A31
-A32_5G
-M13
-S20_FE
-iphone_12_mini
-Y7a
-Y9a
-Y9s
-Moto_E13
-Moto_E30
-Moto_G13
-Moto_G23
-Moto_G32
-Moto_G72
-Oppo_Reno_7
-Oppo_A54
-Poco_X3
-Note 11 x 2
-Redmi_10a
-Redmi_12c
+:wq
 
