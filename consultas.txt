@@ -3,8 +3,6 @@ Adaptadores Europeos Goma x 3
 Bluethoot Conductor
 Cables Play 2 x 3
 Cables Microfono
-Base TV Brazo 55"
-Base TV Fija 55"
 
 SILICON CASE:
 iphone 8 Blanco
@@ -66,4 +64,6 @@ VPG SAS:
 Audifonos BOAT
 Garantia Cargador smart Watch
 Garantia Control Play 2
+Soporte Tv 55" Brazo
+Soporte Tv 55" Fijo
 
