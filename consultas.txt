@@ -54,11 +54,11 @@ Pines V8
 
 EKADI:
 Botones Fisicos Volumen Note 9s
-Cambiar Pacha A13 (No da Tactil)
-Logica de Carga Redmi 10
-Flex de Power A10s
-Pacha A12 (Preguntar si es la misma del A02))
-Pacha Moto G42
+ok Cambiar Pacha A13 (No da Tactil) ok
+ok Logica de Carga Redmi 10 ok
+ok Flex de Power A10s
+ok Pacha A12 (Preguntar si es la misma del A02)) ok
+ok Pacha Moto G42
 
 VPG SAS:
 Audifonos BOAT
