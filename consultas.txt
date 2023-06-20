@@ -47,8 +47,8 @@ ok Silicone Case Y9 Prime Morado
 ok Silicone Case Moto G42
 
 CHIWICELL:
-Puntas Multimetro Aguja
-Cinta Termica
+ok Puntas Multimetro Aguja
+ok Cinta Termica
 
 CELUFLEX:
 Pines V8
