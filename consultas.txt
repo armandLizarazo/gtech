@@ -15,6 +15,11 @@ BATRI CARACAS:
 Pop Socket Astronauta Blanco
 Pop Socket Astronauta Negro
 Llaveros Lilo, Jessie 
+ok silicon Samsung nuevos
+ok Forros cargador iPhone 
+ok Sticks para space
+ok manos libres ligthing org
+ok manos libres ligthing rep
 
 
 JOMA:
@@ -23,16 +28,16 @@ Balacas Bose
 Control Play 2
 
 ANDRES CAPITAL:
-Cargadores Belkin V8
-Cargadores Belkin TC
+ok Cargadores Belkin V8
+ok Cargadores Belkin TC
 Cargador Powerbank iphone
-ML Samsung Caja Negros
+ok ML Samsung Caja Negros
 
 TIGERS NODO:
-Consola SUP Azul
-Plancha Remington Aguacate
-Secador Remington 2032
-Cabina Directa de 120
+ok Consola SUP Azul
+ok Plancha Remington Aguacate
+ok Secador Remington 2032
+ok Cabina Directa de 120
 Masajeador 8 en 1
 
 YOYOS CARACAS:
@@ -62,9 +67,9 @@ ok Pacha A12 (Preguntar si es la misma del A02)
 ok Pacha Moto G42
 
 VPG SAS:
-Audifonos BOAT
-Garantia Cargador smart Watch
-Garantia Control Play 2
+ok Audifonos BOAT
+ok Garantia Cargador smart Watch
+Garantia Control Play 2 no es de ellos
 Soporte Tv 55" Brazo
-Soporte Tv 55" Fijo
+ok Soporte Tv 55" Fijo
 
