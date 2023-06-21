@@ -1,8 +1,10 @@
 CHICAGO 107:
-Adaptadores Europeos Goma x 3
-Bluethoot Conductor
-Cables Play 2 x 3
-Cables Microfono
+ok Adaptadores Europeos Goma x 3
+ok Bluethoot Conductor
+ok Cables Play 2 x 3
+
+Atras Puerto Rico:
+Cables Micrófono
 
 SILICON CASE:
 iphone 8 Blanco
@@ -14,39 +16,38 @@ iphone 8
 BATRI CARACAS:
 Llaveros Lilo, Jessie 
 
-TYD
-Control PS2 Negro
-Control PS2 Rojo
+TYD:
+ok Control PS2 Negro
+ok Garantía Control PS2 Rojo
 Control PS2 Azul
-Silicone Case A10s Amarillo
-Silicone Case A10s Morado
-Silicone Case A13 4G Rojo
-Silicone Case A13 4G Lila
-Silicone Case A30s/A50 Negro
+ok Silicone Case A10s Amarillo
+ok Silicone Case A10s Morado
+ok Silicone Case A13 4G Rojo
+ok Silicone Case A13 4G Lila
+ok Silicone Case A30s/A50 Negro
 Silicone Case Moto G8 Plus Rojo
-Silicone Case Y9 Prime Verde Militar
-Silicone Case S20 FE Blanco
+ok Silicone Case Y9 Prime Verde Militar
+ok Silicone Case S20 FE Blanco
 Silicone Case Poco X3 Negro
 Silicone Case Poco X3 Morado
 Silicoen Case iphone 8 Blanco
-
+ok Astronauta Blanco
+ok Astronauta Negro
+ok Forro Diseños Moto E5 / G6 Play
+ok Armaduras varios
+Simcares Claro
 
 JOMA:
-Pedir Garantia
-Balacas Bose
-Control Play 2
+ok Pedir Garantia
+ok Balacas Bose
 
 ANDRES CAPITAL:
-Cargador Powerbank iphone
-Astronauta Blanco
-Asrtronauta Negro
+Simcares Claro
 
 TIGERS NODO:
 Masajeador 8 en 1
 
 YOYOS CARACAS:
-Forro Diseños Moto E5 / G6 Play
-Forro Cinturon
 
 CHIWICELL:
 
