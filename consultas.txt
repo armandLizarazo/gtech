@@ -55,7 +55,7 @@ Pines V8
 
 EKADI:
 Botones Fisicos Volumen Note 9s
-Pacha Moto G42 Falla tactil
-Pacha A10s c/m
+ok Pacha Moto G42 Falla tactil
+ok Pacha A10s c/m
 
 VPG SAS:
