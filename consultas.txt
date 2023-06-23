@@ -53,6 +53,10 @@ Antenas TDT
 ANDRES CAPITAL:
 
 TIGERS NODO:
+ok parlante 110
+ok secador remington 2003
+ok secador remington 2023
+ok calculadora
 Masajeador 8 en 1
 Nevera Portatil
 
@@ -68,7 +72,7 @@ Calculadora Casio
 ok Garantia aro de luz celular x vidrio
 
 CHIWICELL:
-Tapete antiestatico
+ok Tapete antiestatico
 Cargador tester
 
 CELUFLEX:
