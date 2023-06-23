@@ -15,30 +15,28 @@ Llaveros Stich, Jessie
 ok Forro Audifonos Dinosaurio
 
 TYD:
-Forro Diseños Y7p Caballero
+ok Forro Diseños Y7p Caballero
 Forro Diseños Y7a
-
 Silicone Case A03s Morado
-Silicone Case A03s Rosado
+ok Silicone Case A03s Rosado
 Silicone Case Moto G8 Plus Rojo
-Silicone Case Moto G22 Morado
-Silicone Case moto G22 lila
-Silicone Case Moto E32 4G Amarillo
+ok Silicone Case Moto G22 Morado
+ok Silicone Case moto G22 lila
+ok Silicone Case Moto E32 4G Amarillo
 Silicone Case Moto E32 4G Rosado
-Silicone Case Moto E32 4G Morado
+ok Silicone Case Moto E32 4G Morado
 Silicone Case Moto E32 4G Azul
 Silicone Case Poco X3 Negro
 Silicone Case iphone 8 Blanco
 Silicone Case iphone 11 Blanco
 Silicone Case Y7a Amarillo
-Silocone Case Redmi 10c Negro
+ok Silocone Case Redmi 10c Negro
 Silicone Case Redmi 10c Verde
-Silicone Case Redmi 10c Azul Oscuro
-Silicone Case Note 8 Pro Morado
-Silicone Case note 8 pro Lila
-Armadura Redmi 10c
-
-Simcares WOM
+ok Silicone Case Redmi 10c Azul Oscuro
+ok Silicone Case Note 8 Pro Morado
+ok Silicone Case note 8 pro Lila
+ok Armadura Redmi 10c
+ok Simcares WOM
 
 JOMA:
 Control Ps2 Azul
