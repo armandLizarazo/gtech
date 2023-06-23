@@ -75,12 +75,13 @@ Cargador tester
 
 CELUFLEX:
 Pines V8
+Botones Fisicos Volumen Note 9s
 
 EKADI:
-Botones Fisicos Volumen Note 9s
-Pacha Y7 normal
-Pacha A30/A50 c/m
-Pacha A02s/A03 Cinta amarilla
+ok Pacha Y7/Y7 Prime
+ok Pacha A30/A50 c/m
+ok Pacha A02s/A03 Cinta amarilla
+ok Pacha Note 8 Pro
 
 VPG SAS:
 SmartWatch Ultra Sencillo
