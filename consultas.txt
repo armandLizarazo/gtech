@@ -72,8 +72,8 @@ Tapete antiestatico
 Cargador tester
 
 CELUFLEX:
-Pines V8
-Botones Fisicos Volumen Note 9s
+ok Pines V8 Parlante
+ok Botones Fisicos Volumen Note 9s
 
 EKADI:
 ok Pacha Y7/Y7 Prime
