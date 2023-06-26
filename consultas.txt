@@ -1,7 +1,11 @@
 CHICAGO 107:
+Cable Ext audifonos 3m
+Teatro para PC
 Cargador HP punta azul
 Guantes Gamer
 Parlantes PC eco
+Spliter HDMI 2_2
+Spliter HDMI 2_4
 
 Pelo Lila:
 
@@ -24,6 +28,9 @@ Silicone Case iphone 11 Blanco
 Silicone Case Y7a Amarillo
 Silicone Case Redmi 10c Rojo
 Silicone Case Redmi 10c Verde
+Silicone Case Redmi 12c Rojo
+Silicone Case Redmi 12c Amarillo
+Silicone Case Redmi 12c Morado
 Silicone Case Note 9s Lila
 Silicone Case Note 9s Verde
 Silicone Case Note 12s Rojo
@@ -38,6 +45,10 @@ Carga y Juega XboxOne
 Antenas TDT
 
 ANDRES CAPITAL:
+Ceramico Oppo A54
+Ceramico Redmi 12c
+Templado Redmi 12c
+
 
 TIGERS NODO:
 Parlante 8" Rojo
@@ -47,6 +58,8 @@ Nevera Portatil
 
 YOYOS CARACAS:
 Pulsos Smart Watch
+Forro Space iphone 7 Plus
+Forro Space iphone 6 Normal
 
 CHIWICELL:
 Prensa Alta
@@ -57,7 +70,8 @@ Pines V8
 
 EKADI:
 Pacha Y7a
-
+Pacha A03s Con Marco
+Pacha Y9 Prime Original
 
 VPG SAS:
 Esencia Koaj
