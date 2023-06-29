@@ -1,6 +1,8 @@
 CHICAGO 107:
-Audifonos Conductor
-Cargador PC 8 Pines
+ok Audifonos Conductor
+ok Cargador PC 8 Pines
+ok Mouse Ergonomico
+ok Teclado sencillo combo
 
 Pelo Lila:
 
