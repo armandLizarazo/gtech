@@ -11,41 +11,43 @@ Regueton Clasico
 Regueton Actual
 
 BATRI CARACAS:
-Cables Tablet Samsung
 Llaveros Stich, El Chavo, Chapulin
 
 TYD:
+ok Cargador Tablet Samsung
+ok Cables Tablet Samsung
 Forro Diseños iphone 8
 Forro Diseños Y7a Dama
-Forro Diseños LG K61 Caballero x 3
+ok Forro Diseños LG K61 Caballero x 3
 Forro Diseños Moto G8 Plus Caballero
 Forro Diseños Moto G8 Plus Dama x3
-Forro Diseños Moto G22 Dama
+ok Forro Diseños Moto G22 Dama
 Mouse Ergonomico inalambrico
 Pulso SmartWatch Negro
 Pulso Pasadores Silicona
-Silicone Case A03s Morado
-Silicone Case A32 4G Morado
+ok Silicone Case A03s Morado
+ok Silicone Case A32 4G Morado
 Silicone Case Moto G8 Plus Rojo
 Silicone Case Moto G8 Plus Morado
-Silicone Case Moto E32 4G Rosado
-Silicone Case Moto E32 4G AzulRey
-Silicone Case Moto G60s Rojo
-Silicone Case Moto G60s Negro
-Silicone Case Moto G60
+ok Silicone Case Moto E32 4G Rosado
+ok Silicone Case Moto E32 4G AzulRey
+ok Silicone Case Moto G60s Rojo
+ok Silicone Case Moto G60s Negro
+ok Silicone Case Moto G60 Rojo
+ok Silicone Case Moto G60 Amarillo
 Silicone Case Poco X3 Negro
 Silicone Case iphone 8 Blanco
 Silicone Case iphone 11 Blanco
-Silicone Case iphone 11 Negro
-Silicone Case Y7a Amarillo
-Silicone Case Redmi 10c Rojo
-Silicone Case Redmi 10c Verde
-Silicone Case Redmi 12c Rojo
+ok Silicone Case iphone 11 Negro
+ok Silicone Case Y7a Amarillo
+ok Silicone Case Redmi 10c Rojo
+ok Silicone Case Redmi 10c Verde
+ok Silicone Case Redmi 12c Rojo
 Silicone Case Redmi 12c Amarillo
-Silicone Case Redmi 12c Morado
-Silicone Case Note 9s Lila
+ok Silicone Case Redmi 12c Morado
+ok Silicone Case Note 9s Lila
 Silicone Case Note 9s Verde
-Silicone Case Note 12s Rojo
+ok Silicone Case Note 12s Rojo
 
 JOMA:
 Aro De Luz 30cm
