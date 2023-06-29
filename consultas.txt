@@ -86,15 +86,19 @@ Pines V8
 
 EKADI:
 ok Pacha Honor 8X
-ok pPacha A30 / A50 cm
+ok Pacha A30 / A50 cm
 
 Tablet Store
 ok Forros Universales Grandes
 
 VPG SAS:
 Smart wath Active 2 Rosa
-Esencia Koaj
-Esencia Naranja
-Esencia Cereza
-Esencia Maracuya
+ok Esencia Koaj
+ok Esencia Naranja
+ok Esencia Cereza
+ok Esencia Maracuya
 
+Video Juegos
+ok Juegos Play 2
+ok Juegos 360 5.0
+ok Forros Jostick
