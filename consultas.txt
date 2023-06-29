@@ -57,10 +57,10 @@ Mp3 con pantalla
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 Inpods 12 Blanco
-Inpods 12 Amarillo
-Garantia inpods 12 Verde se descarga uno
+ok Inpods 12 Amarillo
+ok Garantia inpods 12 Verde se descarga uno
 Carga y Juega XboxOne
-Antenas TDT
+ok Antenas TDT
 
 ANDRES CAPITAL:
 Ceramico Oppo A54
