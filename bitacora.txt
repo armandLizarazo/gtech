@@ -11,6 +11,6 @@
 2023-06-29 20:45 "Desmointar Moto G5s para pacha"
 2023-06-29 21:45 "Cierre local"
 2023-06-30 06:20 "Salir a comprar mercancia"
-2023-06-30 "Llegada de comprar mercancia"
+2023-06-30 11:00 "Llegada de comprar mercancia"
 2023-06-30 "Aseo estanteria"
 2023-06-30 "Cierre local"
