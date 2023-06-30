@@ -1,75 +1,56 @@
 CHICAGO 107:
-ok Audifonos Conductor
-ok Cargador PC 8 Pines
-ok Mouse Ergonomico
-ok Teclado sencillo combo
 
 Pelo Lila:
 
 Atras Puerto Rico:
 
 Memorias Musica:
-Regueton Clasico
-Regueton Actual
 
 BATRI CARACAS:
+Cables TC Batri
+Cables V8 Batri
 Llaveros Stich, El Chavo, Chapulin
 
 TYD:
-ok Cargador Tablet Samsung
-ok Cables Tablet Samsung
 Forro Diseños iphone 8
 Forro Diseños Y7a Dama
-ok Forro Diseños LG K61 Caballero x 3
+Forro Diseños Moto E13
 Forro Diseños Moto G8 Plus Caballero
 Forro Diseños Moto G8 Plus Dama x3
-ok Forro Diseños Moto G22 Dama
+Forro Diseños Moto Edge 30 Lite
 Mouse Ergonomico inalambrico
 Pulso SmartWatch Negro
 Pulso Pasadores Silicona
-ok Silicone Case A03s Morado
-ok Silicone Case A32 4G Morado
+Silicone Case A13 Verde
+Silicone Case Moto E13 Negro
+Silicone Case Moto E13 Amarillo
+Silicone Case Moto E13 Lila
+Silicone Case Moto E13 Morado
 Silicone Case Moto G8 Plus Rojo
 Silicone Case Moto G8 Plus Morado
-ok Silicone Case Moto E32 4G Rosado
-ok Silicone Case Moto E32 4G AzulRey
-ok Silicone Case Moto G60s Rojo
-ok Silicone Case Moto G60s Negro
-ok Silicone Case Moto G60 Rojo
-ok Silicone Case Moto G60 Amarillo
+Silicone Case Moto Edge 30 Lite
 Silicone Case Poco X3 Negro
 Silicone Case iphone 8 Blanco
 Silicone Case iphone 11 Blanco
-ok Silicone Case iphone 11 Negro
-ok Silicone Case Y7a Amarillo
-ok Silicone Case Redmi 10c Rojo
-ok Silicone Case Redmi 10c Verde
-ok Silicone Case Redmi 12c Rojo
 Silicone Case Redmi 12c Amarillo
-ok Silicone Case Redmi 12c Morado
-ok Silicone Case Note 9s Lila
 Silicone Case Note 9s Verde
-ok Silicone Case Note 12s Rojo
 
 JOMA:
-Aro De Luz 30cm
 Mp3 con pantalla
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 Inpods 12 Blanco
-ok Inpods 12 Amarillo
-ok Garantia inpods 12 Verde se descarga uno
 Carga y Juega XboxOne
-ok Antenas TDT
 
 ANDRES CAPITAL:
 Ceramico Oppo A54
 Ceramico Redmi 12c
 Templado Oppo Reno 7
 Templado Redmi 12c
-
+Templado A13
 
 TIGERS NODO:
+Plancha Combo
 Parlante 8" Rojo
 Teatro TG-200
 Masajeador 8 en 1
@@ -85,20 +66,16 @@ CELUFLEX:
 Pines V8
 
 EKADI:
-ok Pacha Honor 8X
-ok Pacha A30 / A50 cm
+Pacha Moto G5
+Pacha Redmi 10 (01263692)
 
-Tablet Store
-ok Forros Universales Grandes
+TABLET STORE:
 
 VPG SAS:
 Smart wath Active 2 Rosa
-ok Esencia Koaj
-ok Esencia Naranja
-ok Esencia Cereza
-ok Esencia Maracuya
 
-Video Juegos
-ok Juegos Play 2
-ok Juegos 360 5.0
-ok Forros Jostick
+VIDEO JUEGOS:
+Forros Control Gamer 360
+Forros Control Gamer Xbox One
+Forros Control Gamer PS3
+Forros Control PS4
