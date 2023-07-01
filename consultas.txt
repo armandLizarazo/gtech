@@ -1,6 +1,6 @@
 CHICAGO 107:
-ok Parlantes Pc teatro 
-ok Teclado flexible PC
+Parlantes Pc teatro 
+Teclado flexible PC
 
 Pelo Lila:
 
@@ -53,6 +53,7 @@ Templado Oppo Reno 7
 Templado Redmi 12c
 
 TIGERS NODO:
+Luces Led
 Parlante 8" Rojo
 Teatro TG-200
 Masajeador 8 en 1
@@ -60,8 +61,8 @@ Nevera Portatil
 
 YOYOS CARACAS:
 Space Note 10 Pro
-Space Note 11
-Cobrar Factura mal sumada
+ok Space Note 11
+ok Cobrar Factura mal sumada
 
 CHIWICELL:
 Prensa Alta
