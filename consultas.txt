@@ -1,10 +1,15 @@
 CHICAGO 107:
+ok Parlantes Pc teatro 
+ok Teclado flexible PC
 
 Pelo Lila:
 
 Atras Puerto Rico:
 
 Memorias Musica:
+ok Champeta
+ok crosover 
+ok popular
 
 BATRI CARACAS:
 Cables TC Batri
@@ -14,7 +19,7 @@ Llaveros Stich, El Chavo, Chapulin
 TYD:
 Forro Diseños A13 Dama x3
 Forro Diseños iphone 8
-Forro Diseños Y6 2019
+ok Forro Diseños Y6 2019
 Forro Diseños Y7a Dama
 Forro Diseños Moto E13
 Forro Diseños Moto G8 Plus Caballero
@@ -22,13 +27,17 @@ Forro Diseños Moto One Hyper
 Forro Diseños Moto Edge 30 Lite
 Pulso SmartWatch Negro
 Pulso Pasadores Silicona
-Silicone Case A13 Verde
+ok Silicone Case A13 Verde
+ok Silicone Case A13 Negro
+ok Silicone Case A20 Rosa
 Silicone Case Moto E13 Amarillo
 Silicone Case Moto G8 Plus Rojo
 Silicone Case Moto G8 Plus Morado
 Silicone Case Moto Edge 30 Lite
 Silicone Case Poco X3 Negro
 Silicone Case iphone 8 Blanco
+Silicone Case Spark Pop 5 Lite
+ok Silicone Case Oppo A17
 
 JOMA:
 Mp3 con pantalla
@@ -50,6 +59,8 @@ Masajeador 8 en 1
 Nevera Portatil
 
 YOYOS CARACAS:
+Space Note 10 Pro
+Space Note 11
 Cobrar Factura mal sumada
 
 CHIWICELL:
@@ -60,6 +71,7 @@ CELUFLEX:
 Pines V8
 
 EKADI:
+ok Pacha Samsung A13
 
 TABLET STORE:
 
