@@ -13,36 +13,36 @@ MEMORIAS MUSICA:
 BATRI CARACAS:
 Cables TC Batri
 Cables V8 Batri
-Llaveros Stich, El Chavo, Chapulin
+
 
 ANTICHOQUES:
-Forro Diseños A21s Dama x2
+ok Forro Diseños A21s Dama x2
 Forro Diseños iphone 8
 Forro Diseños Y7a Dama
 Forro Diseños Moto E13
 Forro Diseños Moto E20 Dama x3
-Forro Diseños Moto G8 Plus Caballero
-Forro Diseños Moto One Hyper
+ok Forro Diseños Moto G8 Plus Caballero
+ok Forro Diseños Moto One Hyper
 Forro Diseños Moto Edge 30 Lite
 Forro Diseños Vivo Y16
 
 SILICONE CASE:
-Silicone Case A03s Lila
-Silicone Case Moto E13 Amarillo
+ok Silicone Case A03s Lila
+ok Silicone Case Moto E13 Amarillo
 Silicone Case Moto E20 Rosa
-Silicone Case Moto E20 Morado
-Silicone Case Moto Edge 30 Lite
+ok Silicone Case Moto E20 Morado
+ok Silicone Case Moto Edge 30 Lite
 Silicone Case Moto G8 Plus Rojo
 Silicone Case Moto G8 Plus Morado
-Silicone Case Moto G30 Lila
-Silicone Case Moto G30 Rosa
-Silicone Case Moto G72 Amarillo
-Silicone Case Poco X3 Negro
-Silicone Case iphone 8 Blanco
+ok Silicone Case Moto G30 Lila
+ok Silicone Case Moto G30 Rosa
+ok Silicone Case Moto G72 Amarillo
+ok Silicone Case Poco X3 Negro
+ok Silicone Case iphone 8 Blanco
 Silicone Case iphone 14 Pro Max Negro
 Silicone Case iphone 14 Pro Max Lila
 Silicone Case Spark Pop 5 Lite
-Silicone Case Redmi 9c Negro
+ok Silicone Case Redmi 9c Negro
 
 JOMA:
 Aro de Luz 45cm profesional
@@ -53,7 +53,8 @@ Inpods 12 Blanco
 Carga y Juega XboxOne
 
 ANDRES CAPITAL:
-Cargadores Belkin V8 x10
+ok Llaveros Stich, El Chavo, Chapulin
+ok Cargadores Belkin V8 x5
 Ceramico Oppo A54
 Ceramico Redmi 12c
 Templado Oppo Reno 7
@@ -80,8 +81,8 @@ CELUFLEX:
 Pines V8
 
 EKADI:
-Bateria Moto E5 Play verificar precio
-Pacha J5 Prime Blanca
+ok Bateria Moto E5 Play verificar precio
+ok Pacha J5 Prime Blanca
 
 TABLET STORE:
 
