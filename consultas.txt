@@ -1,10 +1,11 @@
 CHICAGO 107:
-Parlantes Pc teatro 
+ok Parlantes Pc teatro 
 Teclado flexible PC
-Adaptador HDMI2VGA Cable
+ok Adaptador HDMI2VGA Cable
 Cargador pilas AAA 
 
 PELO LILA:
+Consola Poly Nes
 
 ATRAS PR:
 No Pila CR2025
@@ -46,7 +47,6 @@ Silicone Case Spark Pop 5 Lite
 
 JOMA:
 Airdots Pro
-Consola Poly Nes
 ok TV Box
 ok Aro de Luz 45cm profesional
 Mp3 con pantalla
