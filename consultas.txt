@@ -23,7 +23,7 @@ Cables V8 Batri
 Manos Libres T iphone colores
 
 ANTICHOQUES:
-Forro Diseños A21s Caballero
+ok Forro Diseños A21s Caballero
 Forro Diseños iphone 8
 Forro Diseños Y7a Dama
 Forro Diseños Moto E13
@@ -32,16 +32,16 @@ Forro Diseños Moto Edge 30 Lite
 Forro Diseños Vivo Y16
 
 SILICONE CASE:
-Silicone Case A21s Amarillo
+ok Silicone Case A21s Amarillo
 Silicone Case Moto E20 Rosa
 Silicone Case Moto Edge 30 Neo
-Silicone Case Moto G8 Plus Rojo
-Silicone Case Moto G8 Plus Morado
+ok Silicone Case Moto G8 Plus Rojo
+ok Silicone Case Moto G8 Plus Morado
 Silicone Case Moto One Fusion Rojo
 Silicone Case Moto One Fusion Rosa
 Silicone Case Moto One Fusion Morado
-Silicone Case iphone 14 Pro Max Negro
-Silicone Case iphone 14 Pro Max Lila
+ok Silicone Case iphone 14 Pro Max Negro
+ok Silicone Case iphone 14 Pro Max Lila
 Silicone Case Oppo Reno 7 4G Amarillo
 Silicone Case Spark Pop 5 Lite
 
@@ -60,26 +60,26 @@ Manos Libres S6 Blanco
 Manos Libres S6 Negro
 Manos Libres Tipo Ace Blanco
 Manos Libres Tipo Ace Negro
-Ceramico Oppo A54
+ok Ceramico Oppo A54
 Ceramico Redmi 12c
-Templado S21 FE
-Templado Moto One Fusion
-Templado Moto G8 Plus
-Templado Oppo Reno 7
+ok Templado S21 FE
+ok Templado Moto One Fusion
+ok Templado Moto G8 Plus
+ok Templado Oppo Reno 7
 Templado Redmi 12c
 
 TIGERS NODO:
 ok Luces Led
 ok Acné pore cleaner
 Parlante 8" Negro
-Parlante 8" Rojo
+ok Parlante 8" Rojo
 Teatro TG-200
 Masajeador 8 en 1
 Nevera Portatil
 
 YOYOS CARACAS:
 A31
-A04
+ok A04
 A14
 A24
 A34
