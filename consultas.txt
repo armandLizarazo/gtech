@@ -33,7 +33,7 @@ Forro Diseños Vivo Y16
 
 SILICONE CASE:
 ok Silicone Case A21s Amarillo
-Silicone Case Moto E20 Rosa
+ok Silicone Case Moto E20 Rosa
 Silicone Case Moto Edge 30 Neo
 ok Silicone Case Moto G8 Plus Rojo
 ok Silicone Case Moto G8 Plus Morado
@@ -42,7 +42,7 @@ Silicone Case Moto One Fusion Rosa
 Silicone Case Moto One Fusion Morado
 ok Silicone Case iphone 14 Pro Max Negro
 ok Silicone Case iphone 14 Pro Max Lila
-Silicone Case Oppo Reno 7 4G Amarillo
+ok Silicone Case Oppo Reno 7 4G Amarillo
 Silicone Case Spark Pop 5 Lite
 
 JOMA:
@@ -56,10 +56,10 @@ Inpods 12 Blanco
 Carga y Juega XboxOne
 
 ANDRES CAPITAL:
-Manos Libres S6 Blanco
-Manos Libres S6 Negro
-Manos Libres Tipo Ace Blanco
-Manos Libres Tipo Ace Negro
+ok Manos Libres S6 Blanco
+ok Manos Libres S6 Negro
+ok Manos Libres Tipo Ace Blanco
+ok Manos Libres Tipo Ace Negro
 ok Ceramico Oppo A54
 Ceramico Redmi 12c
 ok Templado S21 FE
