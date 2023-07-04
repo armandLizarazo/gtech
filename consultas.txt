@@ -11,7 +11,7 @@ ATRAS PR:
 No Pila CR2025
 No Pila LR41
 No LR1130
-Pila LR44
+
 Pila CR2032
 Pila CR2016
 
@@ -46,7 +46,6 @@ Silicone Case Oppo Reno 7 4G Amarillo
 Silicone Case Spark Pop 5 Lite
 
 JOMA:
-Airdots Pro
 ok TV Box
 ok Aro de Luz 45cm profesional
 Mp3 con pantalla
@@ -102,6 +101,8 @@ Pacha A10 c/m
 TABLET STORE:
 
 VPG SAS:
+ok Pila LR44
+ok Airdots Pro
 Audifonos M19
 Smart wath Active 2 Rosa
 
