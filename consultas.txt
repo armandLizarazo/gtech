@@ -5,7 +5,7 @@ ok Adaptador HDMI2VGA Cable
 Cargador pilas AAA 
 
 PELO LILA:
-Consola Poly Nes
+ok Consola Poly Nes
 
 ATRAS PR:
 No Pila CR2025
@@ -69,7 +69,8 @@ Templado Oppo Reno 7
 Templado Redmi 12c
 
 TIGERS NODO:
-Luces Led 
+ok Luces Led
+ok Acné pore cleaner
 Parlante 8" Negro
 Parlante 8" Rojo
 Teatro TG-200
@@ -95,8 +96,9 @@ CELUFLEX:
 Pines V8
 
 EKADI:
-Visor Camara A21s
-Pacha A10 c/m
+ok Visor Camara A21s
+ok Visor Camara A22 4g
+ok Pacha A10 c/m
 
 TABLET STORE:
 
