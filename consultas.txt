@@ -1,17 +1,15 @@
 CHICAGO 107:
-ok Parlantes Pc teatro 
 Teclado flexible PC
-ok Adaptador HDMI2VGA Cable
-Cargador pilas AAA 
+Cargador pilas AAA
 
 PELO LILA:
-ok Consola Poly Nes
+Consola juegos NES
+Consola Juegos SEGA
 
 ATRAS PR:
 No Pila CR2025
 No Pila LR41
 No LR1130
-
 Pila CR2032
 Pila CR2016
 
@@ -23,7 +21,6 @@ Cables V8 Batri
 Manos Libres T iphone colores
 
 ANTICHOQUES:
-ok Forro Diseños A21s Caballero
 Forro Diseños iphone 8
 Forro Diseños Y7a Dama
 Forro Diseños Moto E13
@@ -32,54 +29,33 @@ Forro Diseños Moto Edge 30 Lite
 Forro Diseños Vivo Y16
 
 SILICONE CASE:
-ok Silicone Case A21s Amarillo
-ok Silicone Case Moto E20 Rosa
-Silicone Case Moto Edge 30 Neo
-ok Silicone Case Moto G8 Plus Rojo
-ok Silicone Case Moto G8 Plus Morado
+Silicone Case Moto E20 Rosa
+Silicone Case Moto G22 Amarillo
 Silicone Case Moto One Fusion Rojo
 Silicone Case Moto One Fusion Rosa
 Silicone Case Moto One Fusion Morado
-ok Silicone Case iphone 14 Pro Max Negro
-ok Silicone Case iphone 14 Pro Max Lila
-ok Silicone Case Oppo Reno 7 4G Amarillo
 Silicone Case Spark Pop 5 Lite
 
 JOMA:
-ok TV Box
-ok Aro de Luz 45cm profesional
 Mp3 con pantalla
 Control Ps2 Azul
-ok Inpods 12 negro 
+Inpods 12 negro 
 Inpods 12 AzulOscuro
 Inpods 12 Blanco
 Carga y Juega XboxOne
 
 ANDRES CAPITAL:
-ok Manos Libres S6 Blanco
-ok Manos Libres S6 Negro
-ok Manos Libres Tipo Ace Blanco
-ok Manos Libres Tipo Ace Negro
-ok Ceramico Oppo A54
 Ceramico Redmi 12c
-ok Templado S21 FE
-ok Templado Moto One Fusion
-ok Templado Moto G8 Plus
-ok Templado Oppo Reno 7
 Templado Redmi 12c
 
 TIGERS NODO:
-ok Luces Led
-ok Acné pore cleaner
 Parlante 8" Negro
-ok Parlante 8" Rojo
 Teatro TG-200
 Masajeador 8 en 1
 Nevera Portatil
 
 YOYOS CARACAS:
 A31
-ok A04
 A14
 A24
 A34
@@ -96,15 +72,10 @@ CELUFLEX:
 Pines V8
 
 EKADI:
-ok Visor Camara A21s
-ok Visor Camara A22 4g
-ok Pacha A10 c/m
 
 TABLET STORE:
 
 VPG SAS:
-ok Pila LR44
-ok Airdots Pro
 Audifonos M19
 Smart wath Active 2 Rosa
 
