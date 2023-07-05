@@ -58,11 +58,19 @@ Masajeador 8 en 1
 Nevera Portatil
 
 YOYOS CARACAS:
+<<<<<<< HEAD
 Space A31
 Space A14
 Space A24
 Space A34
 Space Moto E13
+=======
+A31
+A14
+A24
+A34
+Moto E13
+>>>>>>> 29ea5b747cb6e02531f5065407254d906a153e6f
 Space Note 10 Pro
 Space Moto E13
 Space Moto G13
@@ -79,7 +87,10 @@ EKADI:
 TABLET STORE:
 
 VPG SAS:
+<<<<<<< HEAD
 Barra de sonido ROCK
+=======
+>>>>>>> 29ea5b747cb6e02531f5065407254d906a153e6f
 Audifonos M19
 Smart wath Active 2 Rosa
 
