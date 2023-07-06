@@ -1,0 +1,6 @@
+NUEVOS REGISTROS:
+INSERT INTO models
+(id_brand, name_model, color, type, marco, price, buy, sell, status, Sold, cliente)
+VALUES (1, "", "", "", "", 0, "2023-", "", "Stock", "No", "")
+
+
