@@ -19,6 +19,7 @@ Protector Smartwatch Ultra
 Lentes iphone 14 Pro Max
 
 MEMORIAS MUSICA:
+Duelo de Caballos Vicente y Antonio
 
 BATRI CARACAS:
 Cables TC Batri
@@ -26,12 +27,21 @@ Cables V8 Batri
 Manos Libres Tipo iphone colores
 
 TYD:
-Bateria Moto E5 Play
-Cargador original Motorola
-Pulsos pasador Smartwatch caballero
+ok Bateria Moto E5 Play
+ok Cargador original Motorola
+ok Space A03 Core
+ok Space A12
+ok Space Moto G22 x2
+ok Forro Diseños A10s Caballero x3 Heroes
+ok Forro Diseños Oppo A15 Dama
+ok Silicone Case Honor X7a
+ok Silicone Case Honor X8a Rojo
+ok Silicone Case Moto G22 Amarillo
+ok Silicone Case Moto E20 Rosa
+ok Silicone Case Moto One Fusion Rosa
+ok Silicone Case Moto One Fusion Morado
 
 ANTICHOQUES:
-Forro Diseños A10s Caballero x3 Heroes
 Forro Diseños iphone 8
 Forro Diseños Honor X7a
 Forro Diseños Y7a Dama
@@ -41,20 +51,14 @@ Forro Diseños Moto G7 Power Caballero
 Forro Diseños Moto G7 Power Dama
 Forro Diseños Moto G20 Dama
 Forro Diseños Moto Edge 30 Lite
-Forro Diseños Oppo A15
+Forro Diseños Oppo A15 Caballero
 Forro Diseños Vivo Y16
 
 SILICONE CASE:
-Silicone Case Honor X7a
-Silicone Case Honor X8a Rojo
 Silicoen Case Honor X8a Amarillo
-Silicone Case Moto E20 Rosa
 Silicone Case moto G7 Power Rojo
 Silicone Case Moto G7 Power Lila
-Silicone Case Moto G22 Amarillo
 Silicone Case Moto One Fusion Rojo
-Silicone Case Moto One Fusion Rosa
-Silicone Case Moto One Fusion Morado
 Silicone Case Spark Pop 5 Lite
 
 JOMA:
@@ -77,15 +81,13 @@ Nevera Portatil
 YOYOS CARACAS:
 Space ahonor X7a
 Space Honor X8a
-Space A03 Core
 Space A31
 Space A14
-Space A12
 Space A24
 Space A34
 Space Moto E13
-Space Moto G22 x2
 Space Mi11 T Pro
+Pulsos pasador Smartwatch caballero
 
 CHIWICELL:
 Prensa Alta
@@ -97,8 +99,8 @@ Pines V8
 EKADI:
 Bandeja Moto E31
 Bandeja Note 10s
-Pacha Note 10s
-Pacha Mate 20 Lite
+ok Pacha Note 10s
+ok Pacha Mate 20 Lite
 
 TABLET STORE:
 
