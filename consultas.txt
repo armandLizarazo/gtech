@@ -1,9 +1,6 @@
 CHICAGO 107:
-ok parlante teatro pc
-Cables USB a Caiman
+Cable HDMI + adaptadores
 Teclado flexible PC
-ok pulas carbon Aaa
-ok Cargador pilas mixta
 
 PELO LILA:
 Consola juegos NES
@@ -16,6 +13,11 @@ No LR1130
 Pila CR2032
 Pila CR2016
 
+SAFARI:
+Protector completo camara iphone 11
+Protector Smartwatch Ultra
+Lentes iphone 14 Pro Max
+
 MEMORIAS MUSICA:
 
 BATRI CARACAS:
@@ -24,21 +26,31 @@ Cables V8 Batri
 Manos Libres Tipo iphone colores
 
 TYD:
+Bateria Moto E5 Play
 Cargador original Motorola
-Pulsos pasador caballero
+Pulsos pasador Smartwatch caballero
 
 ANTICHOQUES:
+Forro Diseños A10s Caballero x3 Heroes
 Forro Diseños iphone 8
+Forro Diseños Honor X7a
 Forro Diseños Y7a Dama
 Forro Diseños Moto E13
 Forro Diseños Moto E20 Dama x3
+Forro Diseños Moto G7 Power Caballero
+Forro Diseños Moto G7 Power Dama
+Forro Diseños Moto G20 Dama
 Forro Diseños Moto Edge 30 Lite
+Forro Diseños Oppo A15
 Forro Diseños Vivo Y16
 
 SILICONE CASE:
+Silicone Case Honor X7a
 Silicone Case Honor X8a Rojo
 Silicoen Case Honor X8a Amarillo
 Silicone Case Moto E20 Rosa
+Silicone Case moto G7 Power Rojo
+Silicone Case Moto G7 Power Lila
 Silicone Case Moto G22 Amarillo
 Silicone Case Moto One Fusion Rojo
 Silicone Case Moto One Fusion Rosa
@@ -47,15 +59,15 @@ Silicone Case Spark Pop 5 Lite
 
 JOMA:
 Control Ps2 Azul
-Inpods 12 negro 
 Inpods 12 AzulOscuro
-Inpods 12 Blanco
 
 ANDRES CAPITAL:
+Armadura Moto Moto G22
 Ceramico Redmi 12c
 Templado Redmi 12c
 
 TIGERS NODO:
+Flecha Tiger
 Teatro TG-200
 Parlante 8" Negro
 Teatro TG-200
@@ -64,11 +76,15 @@ Nevera Portatil
 
 YOYOS CARACAS:
 Space Honor X8a
+Space A03 Core
 Space A31
 Space A14
+Space A12
 Space A24
 Space A34
 Space Moto E13
+Space Moto G22 x2
+Space Mi11 T Pro
 
 CHIWICELL:
 Prensa Alta
@@ -78,13 +94,14 @@ CELUFLEX:
 Pines V8
 
 EKADI:
-Pacha Tecno Camon 15 Air
+Bandeja Moto E31
+Bandeja Note 10s
+Pacha Note 10s
+Pacha Mate 20 Lite
 
 TABLET STORE:
 
 VPG SAS:
-Barra de sonido ROCK
-Audifonos M19
 Smart wath Active 2 Rosa
 
 VIDEO JUEGOS:
