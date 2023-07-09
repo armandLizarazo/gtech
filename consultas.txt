@@ -27,44 +27,55 @@ Cables V8 Batri
 Manos Libres Tipo iphone colores
 
 TYD:
+Forro audifonos Serie 3
 Simcard WOM
+Pilas Recargables SONY
 
 ANTICHOQUES:
-Forro Diseños iphone 8
-Forro Diseños Honor X7a
-Forro Diseños Y7a Dama
-Forro Diseños Moto E13
-Forro Diseños Moto E20 Dama x3
-Forro Diseños Moto G7 Power Caballero
-Forro Diseños Moto G7 Power Dama
-Forro Diseños Moto G20 Dama
-Forro Diseños Moto Edge 30 Lite
-Forro Diseños Oppo A15 Caballero
-Forro Diseños Vivo Y16
+iphone 8
+Honor X7a
+Y7a Dama
+Moto E13
+Moto E20 Dama x3
+Moto G7 Power Caballero
+Moto G7 Power Dama
+Moto G20 Dama
+Moto Edge 30 Lite
+Oppo A15 Caballero
+Vivo Y16
 
 SILICONE CASE:
-Silicone Case iphone 14 Amarillo
-Silicone Case iphone 14 Lila
-Silicone Case iphone 14 Morado
-Silicone Case iphone 14 Rosa
-Silicone Case iphone 14 Pro Amarillo
-Silicone Case iphone 14 Pro Lila
-Silicone Case iphone 14 Pro Rosa
-Silicone Case iphone 14 Max Amarillo
-Silicone Case iphone 14 Max Lila
-Silicone Case iphone 14 Pro Max Rosa
-Silicone Case Honor X8a Amarillo
-Silicone Case moto G7 Power Rojo
-Silicone Case Moto G7 Power Lila
-Silicone Case Moto One Fusion Rojo
-Silicone Case Oppo A57 Verde Militar
-Silicone Case Note 11 Morado
+A34 Amarillo
+A34 Rojo
+A34 Morado
+S21FE Rojo
+iphone 13 Pro Blanco sin protector
+iphone 14 Amarillo
+iphone 14 Lila
+iphone 14 Morado
+iphone 14 Rosa
+iphone 14 Pro Amarillo
+iphone 14 Pro Lila
+iphone 14 Pro Rosa
+iphone 14 Max Amarillo
+iphone 14 Max Lila
+iphone 14 Pro Max Rosa
+Honor X8a Amarillo
+Moto G7 Power Rojo
+Moto G7 Power Lila
+Moto One Fusion Rojo
+Oppo A57 Verde Militar
+Note 11 Morado
+Vivo Y15 Lila
 
 JOMA:
+Control Xbox 360 Cable/PC
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
+Cargadores Belkin V8
+Cargadores Belkin TC
 Armadura Moto Moto G22
 Ceramico Redmi 12c
 Templado Redmi 12c
@@ -77,17 +88,18 @@ Parlante 8" Negro
 Masajeador 8 en 1
 Nevera Portatil
 
-YOYOS CARACAS:
-Space iphone 14
-Space ahonor X7a
-Space Honor X8a
-Space A31
-Space A14
-Space A24
-Space A34
-Space Moto E20 x2
-Space Moto E13
-Space Mi11 T Pro
+FORRO SPACE:
+iphone 14
+honor X7a
+Honor X8a
+A31
+A14
+A24
+A34
+S21 FE
+Moto E20 x2
+Moto E13
+Mi11 T Pro
 Pulsos pasador Smartwatch caballero
 
 CHIWICELL:
@@ -110,4 +122,4 @@ VIDEO JUEGOS:
 Forros Control Gamer 360
 Forros Control Gamer Xbox One
 Forros Control Gamer PS3
-Forros Control PS4
+
