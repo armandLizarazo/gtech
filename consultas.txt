@@ -1,4 +1,6 @@
 CHICAGO 107:
+Mouse Eco Blanco
+Mouse Eco Rosa
 Cable HDMI + adaptadores
 Teclado flexible PC
 
@@ -76,9 +78,16 @@ Inpods 12 AzulOscuro
 ANDRES CAPITAL:
 Cargadores Belkin V8
 Cargadores Belkin TC
-Armadura Moto Moto G22
-Ceramico Redmi 12c
-Templado Redmi 12c
+
+ARMADURA:
+A32 4G
+Moto Moto G22
+
+CERAMICO:
+Redmi 12c
+
+TEMPLADO:
+Redmi 12c
 
 TIGERS NODO:
 Cepillo Secador
@@ -89,6 +98,7 @@ Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
+iphone 13 Pro
 iphone 14
 honor X7a
 Honor X8a
