@@ -39,39 +39,39 @@ Honor X7a
 Y7a Dama
 Moto E13
 Moto E20 Dama x3
-Moto G7 Power Caballero
-Moto G7 Power Dama
-Moto G20 Dama
+ok Moto G7 Power Caballero
+ok Moto G7 Power Dama
+ok Moto G20 Dama
 Moto Edge 30 Lite
 Oppo A15 Caballero
 Vivo Y16
 
 SILICONE CASE:
-A21s Negro
-A21s Morado
-A21s Lila
+ok A21s Negro
+ok A21s Morado
+ok A21s Lila
 A34 Amarillo
 A34 Rojo
 A34 Morado
-S21FE Rojo
+ok S21FE Rojo
 iphone 13 Pro Blanco sin protector
 iphone 14 Amarillo
-iphone 14 Lila
+ok iphone 14 Lila
 iphone 14 Morado
 iphone 14 Rosa
-iphone 14 Pro Amarillo
-iphone 14 Pro Lila
+ok iphone 14 Pro Amarillo
+ok iphone 14 Pro Lila
 iphone 14 Pro Rosa
-iphone 14 Max Amarillo
+ok iphone 14 Max Amarillo
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
-Honor X8a Amarillo
-Huawei P30 lite
+ok Honor X8a Amarillo
+ok Huawei P30 lite
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto One Fusion Rojo
-Oppo A57 Verde Militar
-Note 11 Morado
+ok Oppo A57 Verde Militar
+ok Note 11 Morado
 Note 12 pro 5G
 Vivo Y15 Lila
 
@@ -105,36 +105,36 @@ Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
-iphone 13 Pro
-iphone 14
+ok iphone 13 Pro
+ok iphone 14
 honor X7a
 Honor X8a
 A31
 A14
 A24
 A34
-S21 FE
-Moto E20 x2
-Moto E13
-Mi11 T Pro
+ok S21 FE
+ok Moto E20 x2
+ok Moto E13
+ok Mi11 T Pro
 Note 10 Pro 5G
 Oppo A17
 Oppo A54
 
 YOYOS CARACAS:
 Pulsos pasador Smartwatch caballero
-Audifonos Bluethoot Y60
-Audifonos Bluethoot Pro 60
+ok Audifonos Bluethoot Y60
+ok Audifonos Bluethoot Pro 60
 
 CHIWICELL:
 Prensa Alta
 Cargador tester
 
 CELUFLEX:
-Pines V8
+ok Pines V8
 
 EKADI:
-Pacha Pop 5 Lite
+ok Pacha Pop 5 Lite
 Bandeja Moto E31
 Bandeja Note 10s
 
