@@ -55,9 +55,9 @@ A34 Rojo
 A34 Morado
 ok S21FE Rojo
 iphone 13 Pro Blanco sin protector
-iphone 14 Amarillo
+ok iphone 14 Amarillo
 ok iphone 14 Lila
-iphone 14 Morado
+ok iphone 14 Morado
 iphone 14 Rosa
 ok iphone 14 Pro Amarillo
 ok iphone 14 Pro Lila
