@@ -96,10 +96,10 @@ TEMPLADO:
 Redmi 12c
 
 TIGERS NODO:
-Garantia Cepillo 3 en 1
-Cepillo Secador
-Luces Led x3
-Flecha Tiger
+ok Garantia Cepillo 3 en 1
+ok Cepillo Secador
+ok Luces Led x3
+ok Flecha Tiger
 Parlante 8" Negro
 Masajeador 8 en 1
 Nevera Portatil
