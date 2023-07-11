@@ -47,6 +47,9 @@ Oppo A15 Caballero
 Vivo Y16
 
 SILICONE CASE:
+A21s Negro
+A21s Morado
+A21s Lila
 A34 Amarillo
 A34 Rojo
 A34 Morado
@@ -63,11 +66,13 @@ iphone 14 Max Amarillo
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
 Honor X8a Amarillo
+Huawei P30 lite
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto One Fusion Rojo
 Oppo A57 Verde Militar
 Note 11 Morado
+Note 12 pro 5G
 Vivo Y15 Lila
 
 JOMA:
@@ -90,6 +95,7 @@ TEMPLADO:
 Redmi 12c
 
 TIGERS NODO:
+Garantia Cepillo 3 en 1
 Cepillo Secador
 Luces Led x3
 Flecha Tiger
@@ -110,7 +116,14 @@ S21 FE
 Moto E20 x2
 Moto E13
 Mi11 T Pro
+Note 10 Pro 5G
+Oppo A17
+Oppo A54
+
+YOYOS CARACAS:
 Pulsos pasador Smartwatch caballero
+Audifonos Bluethoot Y60
+Audifonos Bluethoot Pro 60
 
 CHIWICELL:
 Prensa Alta
@@ -120,6 +133,7 @@ CELUFLEX:
 Pines V8
 
 EKADI:
+Pacha Pop 5 Lite
 Bandeja Moto E31
 Bandeja Note 10s
 
