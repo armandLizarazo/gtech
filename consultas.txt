@@ -12,7 +12,7 @@ ATRAS PR:
 No Pila CR2025
 No Pila LR41
 No LR1130
-Pila CR2032
+ok Pila CR2032
 Pila CR2016
 
 SAFARI:
@@ -76,8 +76,9 @@ Note 12 pro 5G
 Vivo Y15 Lila
 
 JOMA:
-Control Xbox 360 Cable/PC
+ok Control Xbox 360 Cable/PC
 Control Ps2 Azul
+ok inpods 12 negro
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
