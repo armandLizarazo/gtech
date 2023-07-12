@@ -12,7 +12,6 @@ ATRAS PR:
 No Pila CR2025
 No Pila LR41
 No LR1130
-ok Pila CR2032
 Pila CR2016
 
 SAFARI:
@@ -38,47 +37,27 @@ iphone 8
 Honor X7a
 Y7a Dama
 Moto E13
-Moto E20 Dama x3
-ok Moto G7 Power Caballero
-ok Moto G7 Power Dama
-ok Moto G20 Dama
 Moto Edge 30 Lite
 Oppo A15 Caballero
 Vivo Y16
 
 SILICONE CASE:
-ok A21s Negro
-ok A21s Morado
-ok A21s Lila
 A34 Amarillo
 A34 Rojo
 A34 Morado
-ok S21FE Rojo
 iphone 13 Pro Blanco sin protector
-ok iphone 14 Amarillo
-ok iphone 14 Lila
-ok iphone 14 Morado
 iphone 14 Rosa
-ok iphone 14 Pro Amarillo
-ok iphone 14 Pro Lila
 iphone 14 Pro Rosa
-ok iphone 14 Max Amarillo
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
-ok Honor X8a Amarillo
-ok Huawei P30 lite
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto One Fusion Rojo
-ok Oppo A57 Verde Militar
-ok Note 11 Morado
 Note 12 pro 5G
 Vivo Y15 Lila
 
 JOMA:
-ok Control Xbox 360 Cable/PC
 Control Ps2 Azul
-ok inpods 12 negro
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
@@ -96,45 +75,31 @@ TEMPLADO:
 Redmi 12c
 
 TIGERS NODO:
-ok Garantia Cepillo 3 en 1
-ok Cepillo Secador
-ok Luces Led x3
-ok Flecha Tiger
 Parlante 8" Negro
 Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
-ok iphone 13 Pro
-ok iphone 14
 honor X7a
 Honor X8a
 A31
 A14
 A24
 A34
-ok S21 FE
-ok Moto E20 x2
-ok Moto E13
-ok Mi11 T Pro
 Note 10 Pro 5G
 Oppo A17
 Oppo A54
 
 YOYOS CARACAS:
 Pulsos pasador Smartwatch caballero
-ok Audifonos Bluethoot Y60
-ok Audifonos Bluethoot Pro 60
 
 CHIWICELL:
 Prensa Alta
 Cargador tester
 
 CELUFLEX:
-ok Pines V8
 
 EKADI:
-ok Pacha Pop 5 Lite
 Bandeja Moto E31
 Bandeja Note 10s
 
