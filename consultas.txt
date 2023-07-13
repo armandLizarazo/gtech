@@ -52,6 +52,9 @@ iphone 14 Max Lila
 iphone 14 Pro Max Rosa
 Moto G7 Power Rojo
 Moto G7 Power Lila
+Moto G32 Rojo
+Moto G32 Verde
+Moto G32 Morado
 Moto One Fusion Rojo
 Note 12 pro 5G
 Vivo Y15 Lila
@@ -61,8 +64,14 @@ Control Ps2 Azul
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
+Memorias micro 4GB x3
+Memorias micro 16GB x2
+Memorias USB 4GB x2
+Memorias USB 8GB x2
+Memorias USB 16GB x2
 Cargadores Belkin V8
 Cargadores Belkin TC
+Vidrio Templado Moto G20
 
 ARMADURA:
 A32 4G
