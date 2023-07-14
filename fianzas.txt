@@ -8,5 +8,7 @@ Vendedora Empanadas : 2023-07-01 : Paga        : Minikeyboard     :      34.000
 Armando   Rodriguez : 2023-07-07 : Adeuda      : Pilas Carbon AA  :       4.000
 Armando   Rodriguez : 2023-07-08 : Paga        : Pilas Carbon AA  :       4.000
 Jose      Cuervo    : 2023-07-08 : Adeuda      : Prestamo         :   1.000.000 
+Jose      Cuervo    : 2023-07-13 : Paga        : Prestamo         :   1.000.000
 Blanca    Ramirez   : 2023-07-03 : Adeuda      : Prestamo         :   1.000.000
+Blanca    Ramirez   : 2023-07-10 : Abona       : Prestamo         :     500.000
 Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000

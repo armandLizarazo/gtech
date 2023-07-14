@@ -56,10 +56,12 @@ Moto G32 Rojo
 Moto G32 Verde
 Moto G32 Morado
 Moto One Fusion Rojo
+Note 11 Negro
 Note 12 pro 5G
 Vivo Y15 Lila
 
 JOMA:
+Pilas Recargables AA con cargador
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
@@ -84,6 +86,8 @@ TEMPLADO:
 Redmi 12c
 
 TIGERS NODO:
+Cepillo Secador x2
+Mini Plancha Lila
 Parlante 8" Negro
 Masajeador 8 en 1
 Nevera Portatil
@@ -98,6 +102,7 @@ A34
 Note 10 Pro 5G
 Oppo A17
 Oppo A54
+Vivo Y53s/Y31/Y51 x2
 
 YOYOS CARACAS:
 Pulsos pasador Smartwatch caballero
@@ -109,6 +114,9 @@ Cargador tester
 CELUFLEX:
 
 EKADI:
+Altavoz A10s
+Bateria Mate 20 Lite
+Bateria Samsung A51
 Bandeja Moto E31
 Bandeja Note 10s
 
