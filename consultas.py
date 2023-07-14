@@ -1,10 +1,24 @@
-archivo = open ("consultas.txt", "w")
+import csv
+import sqlite3
 
-consulta = input ("Ingrese datos...")
+# Conectarse a la base de datos
+conn = sqlite3.connect('Repuestos.sqbpro')
+cursor = conn.cursor()
 
-dato = consulta
+# Ejecutar la consulta SQL
+cursor.execute("SELECT * FROM Games")
 
-archivo.write(dato)
+# Obtener los resultados de la consulta
+results = cursor.fetchall()
 
+# Especificar el nombre del archivo de salida
+nombre_archivo = 'games.csv'
 
-archivo.close()
+# Exportar los resultados a un archivo CSV
+with open(nombre_archivo, 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerows(results)
+
+# Cerrar la conexión a la base de datos
+cursor.close()
+conn.close()
