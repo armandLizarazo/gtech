@@ -15,7 +15,7 @@ No LR1130
 Pila CR2016
 
 RACO:
-Cargador Pilas AAA 
+ok Cargador Pilas AAA 
 
 SAFARI:
 Protector completo camara iphone 11
@@ -69,7 +69,7 @@ Vivo Y15 Lila
 
 JOMA:
 Control Gamer Caja Negra
-Pilas Recargables AA con cargador
+ok Pilas Recargables AA con cargador
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
@@ -128,7 +128,9 @@ CELUFLEX:
 
 EKADI:
 Altavoz A10s
-Bateria Mate 20 Lite
+ok Pacha Moto G20
+ok Pacha Moto E13
+ok Bateria Mate 20 Lite
 Bateria Samsung A51
 Bandeja Moto E31
 Bandeja Note 10s
