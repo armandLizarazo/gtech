@@ -1,0 +1,76 @@
+item,id_model,id_brand,name_model,color,type,marco,price,buy,sell,status,Sold,cliente
+Pacha,3,4,Y6 2018,Black,Incell,No,50000,2023-06-10,No,Stock,0,0
+Pacha,4,4,Y9 2019 / Y8s,Black,Incell,No,85000,2023-06-03,No,Stock,0,0
+Pacha,5,4,Y9 Prime Org,Black,Full,No,83000,2023-05-19,2023-06-25,Vendido,140000,Felipe Palacios
+Pacha,6,4,Mate 10 Lite,Black,Incell,No,55000,2023-04-18,No,Stock,0,0
+Pacha,7,4,Y7a,Black,Incell,No,69000,2023-05-02,No,Stock,0,0
+Pacha,8,4,P20 Lite,Black,Incell,No,63000,2023-03-31,No,Stock,0,0
+Pacha,9,4,Y7 2018,White,Incell,No,55000,2023-01-28,No,Stock,0,0
+Pacha,10,4,PSmart 2019,Black,Incell,No,70000,2023-03-27,No,Stock,0,0
+Pacha,11,4,Y7 2019,Black,Incell,No,55000,2023-03-07,No,Stock,0,0
+Pacha,12,4,Y5 2018,Black,Incell,No,53000,2023-03-16,No,Stock,0,0
+Pacha,13,6,Y20s,Black,Incell,No,68000,2023-01-13,No,Stock,0,0
+Pacha,14,5,A54,Black,Incell,No,95000,2022-12-17,No,Stock,0,0
+Pacha,15,4,PSmart 2018,Black,incell,no,53000,2023-03-16,No,Stock,0,0
+Pacha,16,2,Moto G42,Negro,Incell,No,140000,2023-0621,2023-06-21,Vendido,180000,Luis Angel Aguilar
+Pacha,17,1,A10s,Negro,Incell,Si,65000,2023-06-21,No,Stock,0,0
+Pacha,19,4,Y7,Negro,Incell,No,60000,2023-06-23,2023-06-23,Vendido,120000,Luz Amparo Gualteros
+Pacha,21,1,A30 / A50,Negro,Incell,Si,70000,2023-06-23,2023-07-11,Vendido,135000,Kevin Zapata
+Pacha,22,3,Note 8 Pro,Negro,Incell,No,65000,2023-06-23,No,Stock,0,0
+Pacha,23,1,A03s / cm,Negro,Incell,Si,65000,2023-06-26,2023-06-28,Vendido,145000,Nicolas Martinez
+Pacha,25,4,Y9 Prime Org,Negro,FULL,No,75000,2023-06-26,No,Stock,0,0
+Pacha,26,4,Y7 P,Negro,FULL,No,65000,2023-06-26,2023-06-26,Vendido,135000,Ruben Arango
+Pacha,27,3,Note 10s,Negro,Incell,No,70000,2023-06-17,2023-07-02,Vendido,110000,Jesus Gnzalez
+Pacha,28,3,Redmi 10c,Negro,Incell,No,55000,2023-06-10,No,Stock,0,0
+Pacha,29,3,Redmi 10,Negro,Incell,No,75000,2023-04-02,No,Stock,0,0
+Pacha,30,3,Note10 Pro,Negro,Incell,No,73000,2023-06-10,No,Stock,0,0
+Pacha,31,3,Note 11,Negro,Incell,No,80000,2023-06-03,No,Stock,0,0
+Pacha,32,3,Poco X3 NFC,Negro,Incell,No,85000,2023-04-08,No,Stock,0,0
+Pacha,33,3,Redmi 9,Negro,Incell,No,60000,2023-06-14,No,Stock,0,0
+Pacha,34,3,Redmi 9a / 9c / 10a,Negro,Incell,No,60000,2023-01-14,No,Instalada,0,Wiliam Parrilla
+Pacha,35,3,Redmi 9t / Poco M3,Negro,Incell,No,70000,2023-02-28,No,Stock,0,0
+Pacha,36,3,Note 9,Negro,Incell,No,65000,2023-03-27,No,Stock,0,0
+Pacha,37,3,Note 9s / Note 9 Pro,Negro,Incell,No,70000,2023-03-01,No,Stock,0,0
+Pacha,38,3,Note 8,Negro,Incell,No,65000,2023-05-02,No,Stock,0,0
+Pacha,39,3,Note 7,Negro,Incell,No,70000,2023-04-29,No,Stock,0,0
+Pacha,41,2,Moto E6 Plus,Negro,Incell,No,55000,2023-01-10,No,Stock,0,0
+Pacha,42,2,Moto E7 Plus / Moto G9 Play,Negro,Incell,No,63000,2023-05-02,No,Stock,0,0
+Pacha,43,2,Moto E20,Negro,Incell,No,60000,2023-04-15,No,Stock,0,0
+Pacha,44,2,Moto G20,Negro,Incell,No,60000,2023-05-25,No,Stock,0,0
+Pacha,45,2,Moto G9 Power,Negro,Incell,No,75000,2023-02-15,No,Stock,0,0
+Pacha,46,2,Moto G7 Power,Negro,Incell,No,65000,2023-06-10,No,Stock,0,0
+Pacha,47,2,Moto G8 Power Lite,Negro,Incell,No,65000,2023-04-03,No,Stock,0,0
+Pacha,48,2,Moto G30,Negro,Incell,No,65000,2023-04-15,No,Stock,0,0
+Pacha,49,2,Moto G8 Plus,Negro,Original,No,80000,2023-01-29,No,Stock,0,0
+Pacha,50,2,Moto G8 Play / One Macro,Negro,Incell,No,60000,2023-06-06,No,Stock,0,0
+Pacha,51,2,Moto One Fusion,Negro,Incell,No,65000,2023-01-05,No,Stock,0,0
+Pacha,52,4,Honor 8X Full,Negro,Full,No,75000,2023-06-29,No,Instalada,0,0
+Pacha,53,1,J2 Core PR,Negro,Para Visor,No,0,2023-02-01,No,Stock,0,0
+Pacha,54,1,J5 Prime,Blanco,Incell,No,55000,2023-05-26,2023-07-01,Vendido,115000,Regular
+Pacha,55,1,J7 Prime,Negro,Incell,No,60000,2023-03-04,No,Stock,0,0
+Pacha,56,1,J7 Prime,Blanco,Incell,No,63000,2023-05-28,No,Stock,0,0
+Pacha,57,1,J5 Prime,Negro,Incell,No,58000,2023-05-21,No,Stock,0,0
+Pacha,58,1,J4 Plus / J6 Plus,Negro,Incell,No,60000,2023-06-06,No,Stock,0,0
+Pacha,59,1,A02s / A03 / A03s,Negro,Incell,No,55000,2023-06-23,No,Laboratorio,0,Nicolas Martinez
+Pacha,60,1,A03 Core,Negro,Incell,Si,55000,2023-06-23,No,Stock,0,0
+Pacha,61,1,A13,Negro,Incell,No,65000,2023-05-21,2023-06-30,Vendido,125000,Wiliam Ortiz
+Pacha,62,1,A02 /  M12 / M32 5G / A32 5G,Negro,Incell,No,65000,2023-06-19,No,Stock,0,0
+Pacha,63,1,A10s ,Negro,Incell,Si,65000,2023-06-20,No,Stock,0,0
+Pacha,64,1,A10 ,Negro,Incell,Si,65000,2023-04-20,2023-07-03,Vendido,110000,Jean Pierre Padron
+Pacha,65,1,A20s ,Negro,Incell,No,65000,2023-03-02,No,Stock,0,0
+Pacha,66,1,A20,Negro,Incell,Si,75000,2022-12-10,No,Stock,0,0
+Pacha,67,1,A21s,Negro,Incell,No,68000,2023-05-27,No,Stock,0,0
+Pacha,68,1,A22 4G,Negro,Incell,No,75000,2023-06-06,No,Stock,0,0
+Pacha,69,1,A30s,Negro,Incell,Si,75000,2023-05-08,No,Stock,0,0
+Pacha,70,1,A31,Negro,Incell,Si,75000,2023-05-27,No,Stock,0,0
+Pacha,71,1,A30 / A50,Negro,Incell,Si,70000,2023-06-29,No,Stock,0,0
+Pacha,72,1,A13,Negro,Incell,No,65000,2023-07-01,2023-07-02,Vendido,125000,Regular
+Pacha,73,1,J5 Prime,Blanco,Incell,No,55000,2023-07-02,No,Stock,0,0
+Pacha,74,1,A13,Negro,Incell,No,65000,2023-07-03,No,Stock,0,0
+Pacha,75,3,Redmi 9a / 9c / 10c,Negro,Incell,No,50000,2023-07-03,No,Stock,0,0
+Pacha,76,3,Note 10s,Negro,Incell,No,70000,2023-07-03,2023-07-10,Vendido,130000,Regular NIE
+Pacha,77,1,A10,Negro,Incell,Si,65000,2023-07-04,No,Stock,0,0
+Pacha,78,7,Pouvoir 4,Negro,Incell,No,80000,2023-07-06,2023-07-06,Vendido,145000,Jhon Carlos
+Pacha,79,3,Note 10s,Negro,Incell,No,65000,2023-07-07,No,Stock,No,0
+Pacha,80,4,Mate 20 Lite,Negro,Incell,No,65000,2023-07-07,No,Stock,No,0
+Pacha,81,7,Pop 5 Lite,Negro,Incell,No,80000,2023-07-11,No,Instalada,0,Nicolas Franco

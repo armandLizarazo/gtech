@@ -1,0 +1,49 @@
+id_game,consola,name_game,type,version,status,cantidad
+1,PS2,Ben 10 Protector  of Earth,Adventure,all,Stock,1
+2,PS2,Tekken 5,Fights,all,Stock,1
+3,PS2,Sonic Riders,Cars,all,Stock,1
+4,PS2,Manhunt,Adventure,all,Stock,1
+5,PS2,Ben 10 Ultimate Alien,Adventure,all,Stock,1
+6,PS2,Spiderman 2,Adventure,all,Stock,1
+7,PS2,50 Cent Bulletproof,Adventure,all,Stock,1
+8,PS2,WWE 2K17,Fights,all,Stock,1
+9,PS2,Dragon Ball Z AF,Fights,all,Stock,1
+10,PS2,Naruto Uzumaky Chronicles,Fights,all,Stock,1
+11,PS2,Grand Theft Auto V,Adventure,all,Stock,1
+12,PS2,The king of Figthers 95,Fights,all,Stock,1
+13,PS2,Need for Speed Hot Pursuit,Cars,all,Stock,1
+14,PS2,Need for Speed Undercover,Cars,all,Stock,1
+15,PS2,Mortal Combat Shaolin Monks,Fights,all,Stock,1
+16,PS2,Gran Theft Auto Liberty City,Adventure,all,Stock,1
+17,PS2,Silent Hill Origins,Adventure,all,Stock,1
+18,PS2,Gran Turismo 4,Cars,all,Stock,1
+19,PS2,Colling Mcrae Rally,Cars,all,Stock,1
+20,PS2,Burnout Dominator,Cars,all,Stock,1
+21,PS2,F1 06,Cars,all,Stock,1
+22,PS2,Champions League,Football,all,Stock,1
+23,PS2,Fifa Street 2,Football,all,Stock,1
+24,PS2,Copa Mustang,Football,all,Stock,1
+25,Xbox 360,Residen Evil Operation Raccoon City,Adventure,5.0,Stock,1
+26,Xbox 360,Farcry 2,Adventure,5.0,Stock,1
+27,Xbox 360,Forza Horizon 2,Cars,5.0,Stock,1
+28,Xbox 360,Need for Speed Most Wanted,Cars,5.0,Stock,1
+29,Xbox 360,Forza Horizont,Cars,5.0,Stock,1
+30,Xbox 360,Truck Racer,Cars,5.0,Stock,1
+31,Xbox 360,Dirt 3,Cars,5.0,Stock,1
+32,Xbox 360,Need For Speed Hot Pursuit,Cars,5.0,Stock,1
+33,Xbox 360,Crash Lucha de Titanes,Cars,5.0,Stock,1
+34,Xbox 360,Silen Hill Colection,Adventure,5.0,Stock,1
+35,Xbox 360,Harry potter and the Half Blood Prince,Adventure,5.0,Stock,1
+36,Xbox 360,Bornout Paradise,Cars,5.0,Stock,1
+37,Xbox 360,Left 4 Dead 2,Adventure,5.0,Stock,1
+38,Xbox 360,Naruto Ultimate Ninja Storm Generations,Fights,5.0,Stock,1
+39,Xbox 360,Spiderman Friend or Foe,Adventure,5.0,Stock,1
+40,Xbox 360,Dragon Ball Z Burst Limit,Fights,5.0,Stock,1
+41,Xbox 360,Batman Arkham Origins,Adventure,5.0,Stock,1
+42,Xbox 360,Moto GP 15,Motos,5.0,Stock,1
+43,Xbox 360,Minecraft Story Mode,Adventure,5.0,Stock,1
+44,Xbox 360,Assassin`s Creed Brother Hood,Adventure,5.0,Stock,1
+45,Xbox 360,Los Simpson El Videojuego,Adventure,5.0,Stock,1
+46,Xbox 360,Grand Theft Auto San Andreas,Adventure,5.0,Stock,1
+47,Xbox 360,Resident Evil 4,Adventure,5.0,Stock,1
+48,Xbox 360,Sniper Elite III,Adventure,5.0,Stock,1

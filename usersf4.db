@@ -1,0 +1,203 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "brand" (
+	"id_brand"	INTEGER,
+	"name"	TEXT,
+	"country"	TEXT,
+	PRIMARY KEY("id_brand" AUTOINCREMENT)
+);
+CREATE TABLE IF NOT EXISTS "Coustomer" (
+	"id_coustomer"	INTEGER,
+	"name"	TEXT,
+	"celular"	TEXT,
+	PRIMARY KEY("id_coustomer" AUTOINCREMENT)
+);
+CREATE TABLE IF NOT EXISTS "credits" (
+	"id_credit"	INTEGER,
+	"id_coustomer"	INTEGER,
+	"date_ad"	TEXT,
+	"concept"	TEXT,
+	"debt"	INTEGER,
+	"paid"	TEXT,
+	"status"	TEXT,
+	PRIMARY KEY("id_credit" AUTOINCREMENT)
+);
+CREATE TABLE IF NOT EXISTS "models" (
+	"item"	TEXT DEFAULT Pacha,
+	"id_model"	INTEGER,
+	"id_brand"	INTEGER,
+	"name_model"	TEXT,
+	"color"	TEXT,
+	"type"	TEXT,
+	"marco"	TEXT,
+	"price"	NUMERIC,
+	"buy"	DATE,
+	"sell"	TEXT,
+	"status"	TEXT,
+	"Sold"	INTEGER,
+	"cliente"	TEXT,
+	PRIMARY KEY("id_model" AUTOINCREMENT)
+);
+CREATE TABLE IF NOT EXISTS "Games" (
+	"id_game"	INTEGER,
+	"consola"	TEXT,
+	"name_game"	TEXT,
+	"type"	TEXT,
+	"version"	TEXT,
+	"status"	TEXT,
+	"cantidad"	TEXT,
+	PRIMARY KEY("id_game" AUTOINCREMENT)
+);
+INSERT INTO "brand" VALUES (1,'Samsung','Corea del Sur');
+INSERT INTO "brand" VALUES (2,'Motorola','USA');
+INSERT INTO "brand" VALUES (3,'Xiaomi','China');
+INSERT INTO "brand" VALUES (4,'Huawei','China');
+INSERT INTO "brand" VALUES (5,'Oppo','China');
+INSERT INTO "brand" VALUES (6,'Vivo','China');
+INSERT INTO "brand" VALUES (7,'Tecno','China');
+INSERT INTO "Coustomer" VALUES (1,'Stella Lizarazo','311 559 9537');
+INSERT INTO "Coustomer" VALUES (2,'Jose Cuervo','311 487 3834');
+INSERT INTO "Coustomer" VALUES (3,'Migdalia Lizarazo','312 372 5307');
+INSERT INTO "Coustomer" VALUES (4,'Armando Rodriguez','320 447 9608');
+INSERT INTO "Coustomer" VALUES (5,'Luis Angel Aguilar','310 814 7373');
+INSERT INTO "Coustomer" VALUES (6,'Luz Amparo','310 851 1376');
+INSERT INTO "Coustomer" VALUES (7,'Ruben Arango','311 421 7300');
+INSERT INTO "Coustomer" VALUES (8,'Jesus Gonzalez','No');
+INSERT INTO "Coustomer" VALUES (9,'Wiliam Ortiz','320 367 0305');
+INSERT INTO "Coustomer" VALUES (10,'Jean Pierre','No');
+INSERT INTO "Coustomer" VALUES (11,'Jhon Carlos','322 239 9883');
+INSERT INTO "Coustomer" VALUES (12,'Vendedora Empanadas','No');
+INSERT INTO "Coustomer" VALUES (13,'Yineth Albornoz','321 362 7939');
+INSERT INTO "Coustomer" VALUES (14,'Blanca Ramirez','322 207 6059');
+INSERT INTO "Coustomer" VALUES (15,'Nicolas Franco','300 546 0519');
+INSERT INTO "Coustomer" VALUES (16,'Nicolas Martinez','323 464 9176');
+INSERT INTO "credits" VALUES (1,1,'2023-06-23','Recarga movistar',16000,'2023-06-29','Pagado');
+INSERT INTO "credits" VALUES (2,12,'2023-06-25','Pilas Carbon AAA',4000,'2023-07-01','Pagado');
+INSERT INTO "credits" VALUES (3,12,'2023-06-25','Minikeyboard',32000,'2023-07-01','Pagado');
+INSERT INTO "credits" VALUES (4,4,'2023-07-07','Pilas Carbon AA',4000,'2023-07-08','Pagado');
+INSERT INTO "credits" VALUES (5,2,'2023-07-08','Prestamo',1000000,'No','Deuda');
+INSERT INTO "credits" VALUES (6,13,'2023-07-04','Ventas a Credito',372000,'No','Deuda');
+INSERT INTO "credits" VALUES (7,14,'2023-07-03','Prestamo',1000000,'No','Deuda');
+INSERT INTO "models" VALUES ('Pacha',3,4,'Y6 2018','Black','Incell','No',50000,'2023-06-10','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',4,4,'Y9 2019 / Y8s','Black','Incell','No',85000,'2023-06-03','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',5,4,'Y9 Prime Org','Black','Full','No',83000,'2023-05-19','2023-06-25','Vendido',140000,'Felipe Palacios');
+INSERT INTO "models" VALUES ('Pacha',6,4,'Mate 10 Lite','Black','Incell','No',55000,'2023-04-18','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',7,4,'Y7a','Black','Incell','No',69000,'2023-05-02','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',8,4,'P20 Lite','Black','Incell','No',63000,'2023-03-31','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',9,4,'Y7 2018','White','Incell','No',55000,'2023-01-28','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',10,4,'PSmart 2019','Black','Incell','No',70000,'2023-03-27','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',11,4,'Y7 2019','Black','Incell','No',55000,'2023-03-07','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',12,4,'Y5 2018','Black','Incell','No',53000,'2023-03-16','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',13,6,'Y20s','Black','Incell','No',68000,'2023-01-13','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',14,5,'A54','Black','Incell','No',95000,'2022-12-17','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',15,4,'PSmart 2018','Black','incell','no',53000,'2023-03-16','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',16,2,'Moto G42','Negro','Incell','No',140000,'2023-0621','2023-06-21','Vendido',180000,'Luis Angel Aguilar');
+INSERT INTO "models" VALUES ('Pacha',17,1,'A10s','Negro','Incell','Si',65000,'2023-06-21','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',19,4,'Y7','Negro','Incell','No',60000,'2023-06-23','2023-06-23','Vendido',120000,'Luz Amparo Gualteros');
+INSERT INTO "models" VALUES ('Pacha',21,1,'A30 / A50','Negro','Incell','Si',70000,'2023-06-23','2023-07-11','Vendido',135000,'Kevin Zapata');
+INSERT INTO "models" VALUES ('Pacha',22,3,'Note 8 Pro','Negro','Incell','No',65000,'2023-06-23','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',23,1,'A03s / cm','Negro','Incell','Si',65000,'2023-06-26','2023-06-28','Vendido',145000,'Nicolas Martinez');
+INSERT INTO "models" VALUES ('Pacha',25,4,'Y9 Prime Org','Negro','FULL','No',75000,'2023-06-26','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',26,4,'Y7 P','Negro','FULL','No',65000,'2023-06-26','2023-06-26','Vendido',135000,'Ruben Arango');
+INSERT INTO "models" VALUES ('Pacha',27,3,'Note 10s','Negro','Incell','No',70000,'2023-06-17','2023-07-02','Vendido',110000,'Jesus Gnzalez');
+INSERT INTO "models" VALUES ('Pacha',28,3,'Redmi 10c','Negro','Incell','No',55000,'2023-06-10','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',29,3,'Redmi 10','Negro','Incell','No',75000,'2023-04-02','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',30,3,'Note10 Pro','Negro','Incell','No',73000,'2023-06-10','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',31,3,'Note 11','Negro','Incell','No',80000,'2023-06-03','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',32,3,'Poco X3 NFC','Negro','Incell','No',85000,'2023-04-08','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',33,3,'Redmi 9','Negro','Incell','No',60000,'2023-06-14','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',34,3,'Redmi 9a / 9c / 10a','Negro','Incell','No',60000,'2023-01-14','No','Instalada',0,'Wiliam Parrilla');
+INSERT INTO "models" VALUES ('Pacha',35,3,'Redmi 9t / Poco M3','Negro','Incell','No',70000,'2023-02-28','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',36,3,'Note 9','Negro','Incell','No',65000,'2023-03-27','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',37,3,'Note 9s / Note 9 Pro','Negro','Incell','No',70000,'2023-03-01','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',38,3,'Note 8','Negro','Incell','No',65000,'2023-05-02','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',39,3,'Note 7','Negro','Incell','No',70000,'2023-04-29','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',41,2,'Moto E6 Plus','Negro','Incell','No',55000,'2023-01-10','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',42,2,'Moto E7 Plus / Moto G9 Play','Negro','Incell','No',63000,'2023-05-02','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',43,2,'Moto E20','Negro','Incell','No',60000,'2023-04-15','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',44,2,'Moto G20','Negro','Incell','No',60000,'2023-05-25','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',45,2,'Moto G9 Power','Negro','Incell','No',75000,'2023-02-15','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',46,2,'Moto G7 Power','Negro','Incell','No',65000,'2023-06-10','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',47,2,'Moto G8 Power Lite','Negro','Incell','No',65000,'2023-04-03','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',48,2,'Moto G30','Negro','Incell','No',65000,'2023-04-15','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',49,2,'Moto G8 Plus','Negro','Original','No',80000,'2023-01-29','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',50,2,'Moto G8 Play / One Macro','Negro','Incell','No',60000,'2023-06-06','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',51,2,'Moto One Fusion','Negro','Incell','No',65000,'2023-01-05','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',52,4,'Honor 8X Full','Negro','Full','No',75000,'2023-06-29','No','Instalada',0,'0');
+INSERT INTO "models" VALUES ('Pacha',53,1,'J2 Core PR','Negro','Para Visor','No',0,'2023-02-01','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',54,1,'J5 Prime','Blanco','Incell','No',55000,'2023-05-26','2023-07-01','Vendido',115000,'Regular');
+INSERT INTO "models" VALUES ('Pacha',55,1,'J7 Prime','Negro','Incell','No',60000,'2023-03-04','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',56,1,'J7 Prime','Blanco','Incell','No',63000,'2023-05-28','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',57,1,'J5 Prime','Negro','Incell','No',58000,'2023-05-21','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',58,1,'J4 Plus / J6 Plus','Negro','Incell','No',60000,'2023-06-06','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',59,1,'A02s / A03 / A03s','Negro','Incell','No',55000,'2023-06-23','No','Laboratorio',0,'Nicolas Martinez');
+INSERT INTO "models" VALUES ('Pacha',60,1,'A03 Core','Negro','Incell','Si',55000,'2023-06-23','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',61,1,'A13','Negro','Incell','No',65000,'2023-05-21','2023-06-30','Vendido',125000,'Wiliam Ortiz');
+INSERT INTO "models" VALUES ('Pacha',62,1,'A02 /  M12 / M32 5G / A32 5G','Negro','Incell','No',65000,'2023-06-19','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',63,1,'A10s ','Negro','Incell','Si',65000,'2023-06-20','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',64,1,'A10 ','Negro','Incell','Si',65000,'2023-04-20','2023-07-03','Vendido',110000,'Jean Pierre Padron');
+INSERT INTO "models" VALUES ('Pacha',65,1,'A20s ','Negro','Incell','No',65000,'2023-03-02','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',66,1,'A20','Negro','Incell','Si',75000,'2022-12-10','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',67,1,'A21s','Negro','Incell','No',68000,'2023-05-27','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',68,1,'A22 4G','Negro','Incell','No',75000,'2023-06-06','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',69,1,'A30s','Negro','Incell','Si',75000,'2023-05-08','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',70,1,'A31','Negro','Incell','Si',75000,'2023-05-27','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',71,1,'A30 / A50','Negro','Incell','Si',70000,'2023-06-29','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',72,1,'A13','Negro','Incell','No',65000,'2023-07-01','2023-07-02','Vendido',125000,'Regular');
+INSERT INTO "models" VALUES ('Pacha',73,1,'J5 Prime','Blanco','Incell','No',55000,'2023-07-02','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',74,1,'A13','Negro','Incell','No',65000,'2023-07-03','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',75,3,'Redmi 9a / 9c / 10c','Negro','Incell','No',50000,'2023-07-03','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',76,3,'Note 10s','Negro','Incell','No',70000,'2023-07-03','2023-07-10','Vendido',130000,'Regular NIE');
+INSERT INTO "models" VALUES ('Pacha',77,1,'A10','Negro','Incell','Si',65000,'2023-07-04','No','Stock',0,'0');
+INSERT INTO "models" VALUES ('Pacha',78,7,'Pouvoir 4','Negro','Incell','No',80000,'2023-07-06','2023-07-06','Vendido',145000,'Jhon Carlos');
+INSERT INTO "models" VALUES ('Pacha',79,3,'Note 10s','Negro','Incell','No',65000,'2023-07-07','No','Stock','No','0');
+INSERT INTO "models" VALUES ('Pacha',80,4,'Mate 20 Lite','Negro','Incell','No',65000,'2023-07-07','No','Stock','No','0');
+INSERT INTO "models" VALUES ('Pacha',81,7,'Pop 5 Lite','Negro','Incell','No',80000,'2023-07-11','No','Instalada',0,'Nicolas Franco');
+INSERT INTO "Games" VALUES (1,'PS2','Ben 10 Protector  of Earth','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (2,'PS2','Tekken 5','Fights','all','Stock','1');
+INSERT INTO "Games" VALUES (3,'PS2','Sonic Riders','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (4,'PS2','Manhunt','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (5,'PS2','Ben 10 Ultimate Alien','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (6,'PS2','Spiderman 2','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (7,'PS2','50 Cent Bulletproof','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (8,'PS2','WWE 2K17','Fights','all','Stock','1');
+INSERT INTO "Games" VALUES (9,'PS2','Dragon Ball Z AF','Fights','all','Stock','1');
+INSERT INTO "Games" VALUES (10,'PS2','Naruto Uzumaky Chronicles','Fights','all','Stock','1');
+INSERT INTO "Games" VALUES (11,'PS2','Grand Theft Auto V','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (12,'PS2','The king of Figthers 95','Fights','all','Stock','1');
+INSERT INTO "Games" VALUES (13,'PS2','Need for Speed Hot Pursuit','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (14,'PS2','Need for Speed Undercover','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (15,'PS2','Mortal Combat Shaolin Monks','Fights','all','Stock','1');
+INSERT INTO "Games" VALUES (16,'PS2','Gran Theft Auto Liberty City','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (17,'PS2','Silent Hill Origins','Adventure','all','Stock','1');
+INSERT INTO "Games" VALUES (18,'PS2','Gran Turismo 4','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (19,'PS2','Colling Mcrae Rally','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (20,'PS2','Burnout Dominator','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (21,'PS2','F1 06','Cars','all','Stock','1');
+INSERT INTO "Games" VALUES (22,'PS2','Champions League','Football','all','Stock','1');
+INSERT INTO "Games" VALUES (23,'PS2','Fifa Street 2','Football','all','Stock','1');
+INSERT INTO "Games" VALUES (24,'PS2','Copa Mustang','Football','all','Stock','1');
+INSERT INTO "Games" VALUES (25,'Xbox 360','Residen Evil Operation Raccoon City','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (26,'Xbox 360','Farcry 2','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (27,'Xbox 360','Forza Horizon 2','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (28,'Xbox 360','Need for Speed Most Wanted','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (29,'Xbox 360','Forza Horizont','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (30,'Xbox 360','Truck Racer','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (31,'Xbox 360','Dirt 3','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (32,'Xbox 360','Need For Speed Hot Pursuit','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (33,'Xbox 360','Crash Lucha de Titanes','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (34,'Xbox 360','Silen Hill Colection','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (35,'Xbox 360','Harry potter and the Half Blood Prince','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (36,'Xbox 360','Bornout Paradise','Cars','5.0','Stock','1');
+INSERT INTO "Games" VALUES (37,'Xbox 360','Left 4 Dead 2','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (38,'Xbox 360','Naruto Ultimate Ninja Storm Generations','Fights','5.0','Stock','1');
+INSERT INTO "Games" VALUES (39,'Xbox 360','Spiderman Friend or Foe','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (40,'Xbox 360','Dragon Ball Z Burst Limit','Fights','5.0','Stock','1');
+INSERT INTO "Games" VALUES (41,'Xbox 360','Batman Arkham Origins','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (42,'Xbox 360','Moto GP 15','Motos','5.0','Stock','1');
+INSERT INTO "Games" VALUES (43,'Xbox 360','Minecraft Story Mode','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (44,'Xbox 360','Assassin`s Creed Brother Hood','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (45,'Xbox 360','Los Simpson El Videojuego','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (46,'Xbox 360','Grand Theft Auto San Andreas','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (47,'Xbox 360','Resident Evil 4','Adventure','5.0','Stock','1');
+INSERT INTO "Games" VALUES (48,'Xbox 360','Sniper Elite III','Adventure','5.0','Stock','1');
+COMMIT;
