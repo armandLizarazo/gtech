@@ -15,7 +15,6 @@ No LR1130
 Pila CR2016
 
 RACO:
-ok Cargador Pilas AAA 
 
 SAFARI:
 Protector completo camara iphone 11
@@ -52,6 +51,7 @@ A34 Amarillo
 A34 Rojo
 A34 Morado
 iphone 8 Plus Negro
+iphone 11 Morado
 iphone 13 Pro Blanco sin protector
 iphone 14 Rosa
 iphone 14 Pro Rosa
@@ -64,12 +64,13 @@ Moto G32 Verde
 Moto G32 Morado
 Moto One Fusion Rojo
 Note 11 Negro
+Redmi 10c Rosa
+Note 12 no negro
 Note 12 pro 5G
 Vivo Y15 Lila
 
 JOMA:
-Control Gamer Caja Negra
-ok Pilas Recargables AA con cargador
+Control Xbox One
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
@@ -96,8 +97,6 @@ TEMPLADO:
 Redmi 12c
 
 TIGERS NODO:
-Rizador
-Cepillo Secador x2
 Mini Plancha Lila
 Parlante 8" Negro
 Masajeador 8 en 1
@@ -118,6 +117,7 @@ Oppo A54
 Vivo Y53s/Y31/Y51 x2
 
 YOYOS CARACAS:
+Pulso Mi band 6 Negro
 Pulsos pasador Smartwatch caballero
 
 CHIWICELL:
@@ -128,9 +128,6 @@ CELUFLEX:
 
 EKADI:
 Altavoz A10s
-ok Pacha Moto G20
-ok Pacha Moto E13
-ok Bateria Mate 20 Lite
 Bateria Samsung A51
 Bandeja Moto E31
 Bandeja Note 10s
