@@ -1,4 +1,6 @@
 CHICAGO 107:
+Cargador Lenovo PC yoga
+Europeos Goma
 Mouse Eco Blanco
 Mouse Eco Rosa
 Cable HDMI + adaptadores
@@ -47,6 +49,7 @@ Vivo Y16
 SILICONE CASE:
 A04 Negro
 A04 Morado
+A21s Azul Rey
 A34 Amarillo
 A34 Rojo
 A34 Morado
@@ -70,11 +73,16 @@ Note 12 pro 5G
 Vivo Y15 Lila
 
 JOMA:
+Audifonos Marvel
+Balacas Luigy
+Garantia Audifonos Bose
 Control Xbox One
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
+Garantias Audifonos
+Manos Libres J5 Negro x10
 Manos Libres S6 Negro x10
 Memorias micro 4GB x3
 Memorias micro 16GB x2
@@ -83,6 +91,8 @@ Memorias USB 8GB x2
 Memorias USB 16GB x2
 Cargadores Belkin V8
 Cargadores Belkin TC
+Vidrio Templado Note 10s
+Vidrio Templado Moto G41
 Vidrio Templado Moto G20
 Vidrio Sencillo A21s
 
@@ -90,13 +100,10 @@ ARMADURA:
 A32 4G
 Moto Moto G22
 
-CERAMICO:
-Redmi 12c
-
-TEMPLADO:
-Redmi 12c
-
 TIGERS NODO:
+Plancha Combo
+Secador Remington 5000w
+Consola SUP Gris
 Mini Plancha Lila
 Parlante 8" Negro
 Masajeador 8 en 1
@@ -112,6 +119,9 @@ A14
 A24
 A34
 Note 10 Pro 5G
+Note 11 x3
+Moto G42 x2
+Moto E30 x2
 Oppo A17
 Oppo A54
 Vivo Y53s/Y31/Y51 x2
@@ -127,6 +137,7 @@ Cargador tester
 CELUFLEX:
 
 EKADI:
+Pacha A21s
 Altavoz A10s
 Bateria Samsung A51
 Bandeja Moto E31
