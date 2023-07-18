@@ -1,9 +1,6 @@
 CHICAGO 107:
-ok Cargador Lenovo PC yoga
-ok Europeos Goma
 Mouse Eco Blanco
 Mouse Eco Rosa
-ok Cable HDMI + adaptadores
 Teclado flexible PC
 
 PELO LILA:
@@ -50,14 +47,8 @@ Oppo A15 Caballero
 Vivo Y16
 
 SILICONE CASE:
-ok A04 Negro
-ok A04 Morado
 A21s Azul Rey
 A34 Amarillo
-ok A34 Rojo
-ok A34 Morado
-ok iphone 8 Plus Negro
-ok iphone 11 Morado
 iphone 13 Pro Blanco sin protector
 iphone 14 Rosa
 iphone 14 Pro Rosa
@@ -69,43 +60,24 @@ Moto G32 Rojo
 Moto G32 Verde
 Moto G32 Morado
 Moto One Fusion Rojo
-ok Note 11 Negro
-ok Redmi 10c Rosa
-ok Note 12 no negro
+Redmi 9c Morado
 Note 12 pro 5G
-ok Vivo Y15 Lila
 
 JOMA:
-ok Audifonos Marvel
-ok Balacas unicornio 
-ok Garantia Audifonos Bose
 Control Xbox One
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
-ok Garantias Audifonos
-ok Manos Libres J5 Negro x10
-ok Manos Libres S6 Negro x10
-ok Memorias micro 4GB x3
-ok Memorias micro 16GB x2
-ok Memorias USB 4GB x2
-ok Memorias USB 8GB x2
-ok Memorias USB 16GB x2
-ok Cargadores Belkin V8
-ok Cargadores Belkin TC
-ok Vidrio Templado Note 10s
+Vidrio Templado A10s
 Vidrio Templado Moto G41
-ok Vidrio Templado Moto G20
-ok Vidrio Sencillo A21s
+Vidrio Templado Redmi Note 8
 
 ARMADURA:
 A32 4G
 Moto Moto G22
 
 TIGERS NODO:
-ok Plancha Combo
-Secador Remington 5000w
 Consola SUP Gris
 Mini Plancha Lila
 Parlante 8" Negro
@@ -113,24 +85,15 @@ Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
-ok iphone 8 Plus
 iphone XS Max
-ok honor X7a
 Honor X8a
 A31
-ok A14
 A24
 A34
 Note 10 Pro 5G
-ok Note 11 x3
-ok Moto G42 x2
-ok Moto E30 x2
 Oppo A17
-ok Oppo A54
-ok Vivo Y53s/Y31/Y51 x2
 
 YOYOS CARACAS:
-ok Pulso Mi band 6 Negro andres capital
 Pulsos pasador Smartwatch caballero
 
 CHIWICELL:
@@ -140,9 +103,6 @@ Cargador tester
 CELUFLEX:
 
 EKADI:
-ok Pacha A21s
-ok Altavoz A10s fyr
-ok bandeja xs fyr
 Bateria Samsung A51
 Bandeja Moto E31
 Bandeja Note 10s
@@ -153,7 +113,6 @@ VPG SAS:
 Smart Watch Active 2 Rosa
 
 VIDEO JUEGOS:
-Forros Control Gamer 360
 Forros Control Gamer Xbox One
 Forros Control Gamer PS3
 
