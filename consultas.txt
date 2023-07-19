@@ -45,6 +45,7 @@ Honor X7a
 Y7a Dama
 Moto E13
 Moto Edge 30 Lite
+Note 9 Dama x3
 Oppo A15 Caballero
 Vivo Y16
 
@@ -66,12 +67,15 @@ Redmi 9c Morado
 Note 12 pro 5G
 
 JOMA:
+Aro de luz 26cm RGB
+Aro de luz 26cm Blanco
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
 Pulsos banda 6
 Vidrio Templado A10s
+Vidrio Templado Moto E20
 Vidrio Templado Moto G41
 Vidrio Templado Redmi Note 8
 
