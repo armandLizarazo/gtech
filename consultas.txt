@@ -8,18 +8,13 @@ Consola juegos NES
 Consola Juegos SEGA
 
 ATRAS PR:
-No Pila CR2025
-No Pila LR41
-No LR1130
 Pila CR2016
 
 RACO:
 Control Xbox One
 
 SAFARI:
-Protector completo camara iphone 11
 Protector Smartwatch Ultra
-Lentes iphone 14 Pro Max
 
 MEMORIAS MUSICA:
 Vallenatos clasicos 
@@ -35,12 +30,11 @@ Manos Libres Tipo iphone colores
 TYD:
 Cargador Smart Watch Pinza
 Forro audifonos Serie 3
-Simcard WOM
 Pilas Recargables SONY
 
 ANTICHOQUES:
-A04 Dama x2
 iphone 8
+Honor X6s
 Honor X7a
 Y7a Dama
 Moto E13
@@ -57,13 +51,13 @@ iphone 14 Rosa
 iphone 14 Pro Rosa
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
+Honor X6s
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto G32 Rojo
 Moto G32 Verde
 Moto G32 Morado
 Moto One Fusion Rojo
-Redmi 9c Morado
 Note 12 pro 5G
 
 JOMA:
@@ -74,16 +68,13 @@ Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
 Pulsos banda 6
-Vidrio Templado A10s
-Vidrio Templado Moto E20
-Vidrio Templado Moto G41
-Vidrio Templado Redmi Note 8
 
 ARMADURA:
 A32 4G
 Moto Moto G22
 
 TIGERS NODO:
+Teatro TG-300
 Soporte Celular Moto Espejo
 Consola SUP Gris
 Mini Plancha Lila
@@ -92,7 +83,6 @@ Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
-iphone XS Max
 Honor X8a
 A31
 A24
