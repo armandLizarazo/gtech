@@ -28,7 +28,7 @@ Cables V8 Batri
 Manos Libres Tipo iphone colores
 
 TYD:
-Cargador Smart Watch Pinza
+ok Cargador Smart Watch Pinza
 Forro audifonos Serie 3
 Pilas Recargables SONY
 
@@ -48,7 +48,7 @@ Vivo Y16
 Vivo V21
 
 SILICONE CASE:
-A20 Morado
+ok A20 Morado
 A21s Azul Rey
 A34 Amarillo
 iphone 13 Pro Blanco sin protector
@@ -67,13 +67,16 @@ Moto G7 Power Lila
 Moto G32 Rojo
 Moto G32 Verde
 Moto G32 Morado
-Moto G42 Amarillo
-Moto G42 Rosado
-Moto One
+ok Moto G42 Amarillo
+ok Moto G42 Rosado
+Moto One Rojo
+Moto One Negro
 Moto One Fusion Rojo
 Redmi Note 9 Morado
 Note 12 pro 5G
-Vivo V21
+Vivo V21 Rojo
+Vivo V21 Negro
+Vivo V21 Lila
 
 JOMA:
 Control Ps4 Negro
@@ -93,8 +96,8 @@ A32 4G
 Moto Moto G22
 
 TIGERS NODO:
-Teatro TG-200
-Luces Led
+ok Teatro TG-200
+ok Luces Led
 Soporte Celular Moto Espejo
 Consola SUP Gris
 Mini Plancha Lila
@@ -124,8 +127,9 @@ Cargador tester
 CELUFLEX:
 
 EKADI:
-Tapa Note 9s Negra o Azul Brillante
-Pacha Moto Moto E6 Play
+ok Tapa Note 9s Negra o Azul Brillante
+ok Pacha Moto Moto E6 Play
+ok pacha Moto E32
 Pacha A04s
 Pacha Vivo Y51
 Bateria Samsung A51
