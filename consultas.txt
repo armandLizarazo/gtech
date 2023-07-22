@@ -36,27 +36,27 @@ ANTICHOQUES:
 iphone 8
 Honor X6s
 Honor X7a
-Y9 prime Dama x2
-Y9 Prime Caballero x2
+ok Y9 prime Dama x2
+ok Y9 Prime Caballero x2
 Y7a Dama
-Moto E13
+ok Moto E13
 Moto Edge 30 Lite
-Note 9 Dama x3
-Redmi 9c Caballero
-Oppo A15 Caballero
-Vivo Y16
+ok Note 9 Dama x3
+ok Redmi 9c Caballero
+ok Oppo A15 Caballero
+okVivo Y16
 Vivo V21
 
 SILICONE CASE:
 ok A20 Morado
 A21s Azul Rey
-A34 Amarillo
+ok A34 Amarillo
 iphone 13 Pro Blanco sin protector
 iphone 14 Rosa
 iphone 14 Pro Rosa
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
-Honor X6s Rojo
+ok Honor X6s Rojo
 Honor X6s Verde
 Honor X6s Lila 
 Honor X7a Amarillo
@@ -64,15 +64,15 @@ Honor X7a Verde
 Honor X7a Lila
 Moto G7 Power Rojo
 Moto G7 Power Lila
-Moto G32 Rojo
+ok Moto G32 Rojo
 Moto G32 Verde
 Moto G32 Morado
 ok Moto G42 Amarillo
 ok Moto G42 Rosado
 Moto One Rojo
-Moto One Negro
-Moto One Fusion Rojo
-Redmi Note 9 Morado
+ok Moto One Negro
+ok Moto One Fusion Rojo
+ok Redmi Note 9 Morado
 Note 12 pro 5G
 Vivo V21 Rojo
 Vivo V21 Negro
@@ -87,8 +87,8 @@ Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
 Pulsos banda 6
-Vidrio Templado A21s
-Vidrio Moto G42
+ok Vidrio Templado A21s
+ok Vidrio Moto G42
 Vidrio Templado Moto G7 Power
 
 ARMADURA:
