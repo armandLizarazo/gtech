@@ -1,5 +1,4 @@
 CHICAGO 107:
-ok multipuerto usb 
 Mouse Eco Blanco
 Mouse Eco Rosa
 Teclado flexible PC
@@ -37,10 +36,13 @@ ANTICHOQUES:
 iphone 8
 Honor X6s
 Honor X7a
+Y9 prime Dama x2
+Y9 Prime Caballero x2
 Y7a Dama
 Moto E13
 Moto Edge 30 Lite
 Note 9 Dama x3
+Redmi 9c Caballero
 Oppo A15 Caballero
 Vivo Y16
 
@@ -53,31 +55,43 @@ iphone 14 Pro Rosa
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
 Honor X6s Rojo
-Honor X6s Amarillo 
+Honor X6s Verde
+Honor X6s Lila 
+Honor X7a Amarillo
+Honor X7a Verde
+Honor X7a Lila
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto G32 Rojo
 Moto G32 Verde
 Moto G32 Morado
+Moto G42 Amarillo
+Moto G42 Rosado
+Moto One
 Moto One Fusion Rojo
+Redmi Note 9 Morado
 Note 12 pro 5G
 
 JOMA:
-ok Aro de luz 26cm RGB
-ok Aro de luz 30cm RGB
+Control Ps4 Negro
+Aro de luz 26cm RGB x2
 Aro de luz 26cm Blanco
 Control Ps2 Azul
 Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
 Pulsos banda 6
+Vidrio Templado A21s
+Vidrio Moto G42
+Vidrio Templado Moto G7 Power
 
 ARMADURA:
 A32 4G
 Moto Moto G22
 
 TIGERS NODO:
-ok Teatro TG-300
+Teatro TG-200
+Luces Led
 Soporte Celular Moto Espejo
 Consola SUP Gris
 Mini Plancha Lila
@@ -86,12 +100,16 @@ Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
+Honor X6s
+Honor X7
 Honor X8a
 A31
 A24
 A34
+Note 9s
 Note 10 Pro 5G
 Oppo A17
+Vivo V21
 
 YOYOS CARACAS:
 Pulsos pasador Smartwatch caballero
@@ -103,7 +121,8 @@ Cargador tester
 CELUFLEX:
 
 EKADI:
-Pacha A21s
+Tapa Note 9s Negra o Azul Brillante
+Pacha Moto Moto E6 Play
 Pacha A04s
 Pacha Vivo Y51
 Bateria Samsung A51
@@ -113,8 +132,8 @@ Bandeja Note 10s
 TABLET STORE:
 
 VPG SAS:
-ok parlante t&g
-ok barra rock
+Parlante JBL Bicicleta
+Parlante TG 344
 Smart Watch Active 2 Rosa
 
 VIDEO JUEGOS:
