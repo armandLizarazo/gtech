@@ -28,51 +28,40 @@ Cables V8 Batri
 Manos Libres Tipo iphone colores
 
 TYD:
-ok Cargador Smart Watch Pinza
 Forro audifonos Serie 3
 Pilas Recargables SONY
 
 ANTICHOQUES:
+A12 Niña
 iphone 8
 Honor X6s
 Honor X7a
-ok Y9 prime Dama x2
-ok Y9 Prime Caballero x2
+Y9 prime Dama x2
 Y7a Dama
-ok Moto E13
 Moto Edge 30 Lite
-ok Note 9 Dama x3
-ok Redmi 9c Caballero
-ok Oppo A15 Caballero
-okVivo Y16
 Vivo V21
 
 SILICONE CASE:
-ok A20 Morado
-A21s Azul Rey
-ok A34 Amarillo
+A12 Negro
+A12 Morado
 iphone 13 Pro Blanco sin protector
 iphone 14 Rosa
 iphone 14 Pro Rosa
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
-ok Honor X6s Rojo
 Honor X6s Verde
 Honor X6s Lila 
-Honor X7a Amarillo
 Honor X7a Verde
 Honor X7a Lila
+Moto E6s Negro
+Moto E6s Rojo
+Moto E6s Lila
+Moto E6s Morado
+Moto E6 Plus Rojo
+Moto E6 Plus Amarillo
+Moto E6 Plus Negro
 Moto G7 Power Rojo
 Moto G7 Power Lila
-ok Moto G32 Rojo
-Moto G32 Verde
-Moto G32 Morado
-ok Moto G42 Amarillo
-ok Moto G42 Rosado
-Moto One Rojo
-ok Moto One Negro
-ok Moto One Fusion Rojo
-ok Redmi Note 9 Morado
 Note 12 pro 5G
 Vivo V21 Rojo
 Vivo V21 Negro
@@ -87,8 +76,6 @@ Inpods 12 AzulOscuro
 
 ANDRES CAPITAL:
 Pulsos banda 6
-ok Vidrio Templado A21s
-ok Vidrio Moto G42
 Vidrio Templado Moto G7 Power
 
 ARMADURA:
@@ -96,8 +83,6 @@ A32 4G
 Moto Moto G22
 
 TIGERS NODO:
-ok Teatro TG-200
-ok Luces Led
 Soporte Celular Moto Espejo
 Consola SUP Gris
 Mini Plancha Lila
@@ -127,9 +112,6 @@ Cargador tester
 CELUFLEX:
 
 EKADI:
-ok Tapa Note 9s Negra o Azul Brillante
-ok Pacha Moto Moto E6 Play
-ok pacha Moto E32
 Pacha A04s
 Pacha Vivo Y51
 Bateria Samsung A51
