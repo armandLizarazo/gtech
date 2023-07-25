@@ -30,6 +30,7 @@ Cables V8 Batri
 Manos Libres Tipo iphone colores
 
 TYD:
+Cargador Samsung 45w
 Forro audifonos Serie 3
 Pilas Recargables SONY
 
@@ -54,6 +55,9 @@ iphone 14 Rosa
 iphone 14 Pro Rosa
 iphone 14 Max Lila
 iphone 14 Pro Max Rosa
+Huawei Y7 2018 Negro
+Huawei Y7 2018 Rojo
+Huawei Y7 2018 Lila
 Honor X6s Verde
 Honor X6s Lila 
 Honor X7a Verde
@@ -68,13 +72,21 @@ Moto E6 Plus Negro
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto G22 Negro
+Mi 11 Lite Negro
+Mi 11 Lite Morado
+Mi 11 Lite Azul Rey
+Note 12s Rosa
 Note 12 pro 5G
+Oppo A17 Morado
+Oppo Reno 6 Lite Rojo
+Oppo Reno 6 Lite Morado
+Oppo Reno 7 5G Rojo
+Oppo Reno 7 5G Morado
 Vivo V21 Rojo
 Vivo V21 Negro
 Vivo V21 Lila
 
 JOMA:
-Control Ps4 Negro
 Aro de luz 26cm RGB x2
 Aro de luz 26cm Blanco
 Control Ps2 Azul
@@ -97,6 +109,7 @@ Masajeador 8 en 1
 Nevera Portatil
 
 FORRO SPACE:
+iphone 7/8 x2
 Honor X6s
 Honor X7
 Honor X8a
@@ -105,6 +118,9 @@ A24
 A34
 Note 9s
 Note 10 Pro 5G
+Mi 11 Lite x2
+Oppo Reno 6 Lite
+Oppo Reno 7 5G
 Oppo A17
 Vivo V21
 
