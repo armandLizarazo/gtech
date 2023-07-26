@@ -23,12 +23,12 @@ MEMORIAS MUSICA:
 
 ___________________________________
 BATRI CARACAS:
-Cable USB iphone
+ok Cable USB iphone
 Cable TC iphone
 Cable Auxiliar con microfono
-Cables TC Batri
-Cables V8 Batri
-Manos Libres Tipo iphone colores
+ok Cables TC Batri
+ok Cables V8 Batri
+ok Manos Libres Tipo iphone colores
 ___________________________________
 TYD:
 Cargador Samsung 45w
@@ -36,7 +36,7 @@ Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
-A12 Caballero
+ok A12 Caballero
 A12 Niña
 iphone 8
 Honor X6s
@@ -63,24 +63,24 @@ Huawei Y7 2018 Lila
 Honor X6s Verde
 Honor X6s Lila 
 Honor X7a Verde
-Honor X7a Lila
-Moto E6s Negro
-Moto E6s Rojo
-Moto E6s Lila
-Moto E6s Morado
+ok Honor X7a Lila
+ok Moto E6s Negro
+ok Moto E6s Rojo
+ok Moto E6s Lila
+ok Moto E6s Morado
 Moto E6 Plus Rojo
-Moto E6 Plus Amarillo
-Moto E6 Plus Negro
+ok Moto E6 Plus Amarillo
+ok Moto E6 Plus Negro
 Moto G7 Power Rojo
 Moto G7 Power Lila
 Moto G22 Negro
 Mi 11 Lite Negro
 Mi 11 Lite Morado
 Mi 11 Lite Azul Rey
-Note 12s Rosa
+ok Note 12s Rosa
 Note 12 pro 5G
 Oppo A17 Morado
-Oppo Reno 6 Lite Rojo
+ok Oppo Reno 6 Lite Rojo
 Oppo Reno 6 Lite Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
@@ -96,8 +96,8 @@ ___________________________________
 ANDRES CAPITAL:
 Vidrio Templado A13
 Vidrio Templado A30
-Vidrio Templado Moto E6 Play
-Vidrio Templado J5 Prime Negro
+ok Vidrio Templado Moto E6 Play
+ok Vidrio Templado J5 Prime Negro
 Vidrio Templado Moto G7 Power
 ___________________________________
 ARMADURA:
@@ -113,19 +113,19 @@ Masajeador 8 en 1
 Nevera Portatil
 ___________________________________
 FORRO SPACE:
-iphone 7/8 x2
-Honor X6s
+ok iphone 7/8 x2
+ok Honor X6s
 Honor X7
 Honor X8a
-A31
+ok A31
 A24
 A34
 Note 9s
 Note 10 Pro 5G
-Mi 11 Lite x2
-Oppo Reno 6 Lite
+ok Mi 11 Lite x2
+ok Oppo Reno 6 Lite
 Oppo Reno 7 5G
-Oppo A17
+ok Oppo A17
 Vivo V21
 ___________________________________
 YOYOS CARACAS:
