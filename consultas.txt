@@ -31,7 +31,7 @@ ok Cables V8 Batri
 ok Manos Libres Tipo iphone colores
 ___________________________________
 TYD:
-Cargador Samsung 45w
+ok Cargador Samsung 45w
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
@@ -41,15 +41,15 @@ A12 Niña
 iphone 8
 Honor X6s
 Honor X7a
-Y9 prime Dama x2
+ok Y9 prime Dama x2
 Y7a Dama
-Moto G22 caballero serio x2
+ok Moto G22 caballero serio x2
 Moto Edge 30 Lite
 Vivo V21
 ___________________________________
 SILICONE CASE:
 A12 Negro
-A12 Morado
+ok A12 Morado
 A12 AzulClaro
 iphone 8 Negro
 iphone 13 Pro Blanco sin protector
@@ -94,11 +94,11 @@ Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
 ANDRES CAPITAL:
-Vidrio Templado A13
-Vidrio Templado A30
+ok Vidrio Templado A13
+ok Vidrio Templado A30
 ok Vidrio Templado Moto E6 Play
 ok Vidrio Templado J5 Prime Negro
-Vidrio Templado Moto G7 Power
+ok Vidrio Templado Moto G7 Power
 ___________________________________
 ARMADURA:
 A32 4G
