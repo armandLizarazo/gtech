@@ -1,12 +1,8 @@
 ___________________________________
 CHICAGO 107:
-Controles TV plano smart
-Control Muchacha emparamadas
-Manos libres conductor
 Cable USB Hembra Hembra
 Mouse Eco Blanco
 Mouse Eco Rosa
-Teclado Seisa Gamer teclas rojas x2
 Teclado flexible PC
 ___________________________________
 PELO LILA:
@@ -29,7 +25,6 @@ Cable TC iphone
 Cable Auxiliar con microfono
 ___________________________________
 TYD:
-Cargador iPhone 20w
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
@@ -63,6 +58,8 @@ LG K61 Rosa
 Moto E6 Plus Rojo
 Moto G7 Power Rojo
 Moto G7 Power Lila
+Moto G20 Negro
+Moto G20 Azul Rey
 Moto G22 Negro
 Mi 11 Lite Negro
 Mi 11 Lite Morado
@@ -84,6 +81,7 @@ ___________________________________
 ANDRES CAPITAL:
 ___________________________________
 ARMADURA:
+A12
 A32 4G
 Moto Moto G22
 ___________________________________
@@ -112,10 +110,8 @@ Prensa Alta
 Cargador tester
 ___________________________________
 CELUFLEX:
-
 ___________________________________
 EKADI:
-Tactil T5100
 ___________________________________
 TABLET STORE:
 ___________________________________

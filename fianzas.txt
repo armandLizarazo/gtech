@@ -1,4 +1,4 @@
-NOMBRE    APELLIDO..: FECHA_M....: MOVIMIENTO..: CONCEPTO.........:  VALOR......: ST
+NOMBRE....APELLIDO..:.FECHA_M....:.MOVIMIENTO..:.CONCEPTO.........:..VALOR......: ST
 Stella    Lizarazo  : 2023-06-23 : Adeuda      : Recarga movistar :      16.000 : OK
 Stella    Lizarazo  : 2023-06-29 : Paga        : Recarga movistar :      16.000 : OK
 Yarlyn    Empanadas : 2023-06-25 : Adeuda      : Pilas AAA        :       4.000 : OK
@@ -16,3 +16,4 @@ Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000 
 Yarlyn    Empanadas : 2023-07-22 : Adeuda      : Pacha Moto E6Play:     115.000 : --
 Stella    Lizarazo  : 2023-07-18 : Adeuda      : Prestamo         :     250.000 : --
 Jose      Cuervo    : 2023-07-20 : Adeuda      : Prestamo         :     750.000 : --
+Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :      60.000 : --
