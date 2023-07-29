@@ -115,9 +115,11 @@ ___________________________________
 CELUFLEX:
 ___________________________________
 EKADI:
-Bateria Y9 Prime
-Pacha Y9 Prime
-Logica A50
+ok Bateria Y9 Prime
+ok Pacha Y9 Prime
+ok Logica A50
+Pacha A21s
+
 ___________________________________
 TABLET STORE:
 ___________________________________
