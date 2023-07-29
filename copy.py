@@ -1,7 +1,5 @@
-import pyperclip
+import tkinter
 
-num1 = 5
+ventana = tkinter.tk()
 
-mensaje = "Hola mundos!"
-pyperclip.copy(num1)
-print(mensaje)
+ventana.mainloop()

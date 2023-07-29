@@ -64,6 +64,8 @@ Moto G22 Negro
 Mi 11 Lite Negro
 Mi 11 Lite Morado
 Mi 11 Lite Azul Rey
+Redmi 10 negro
+Redmi 10 Lila
 Note 12 pro 5G
 Oppo A17 Morado
 Oppo Reno 6 Lite Morado
@@ -98,6 +100,7 @@ Honor X7
 Honor X8a
 A24
 A34
+A50
 Note 9s
 Note 10 Pro 5G
 Oppo Reno 7 5G
@@ -112,6 +115,9 @@ ___________________________________
 CELUFLEX:
 ___________________________________
 EKADI:
+Bateria Y9 Prime
+Pacha Y9 Prime
+Logica A50
 ___________________________________
 TABLET STORE:
 ___________________________________
