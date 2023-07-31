@@ -29,17 +29,17 @@ Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
-A12 Niña
+ok A12 Niña
 iphone 8
 Honor X6s
 Honor X7a
-Y7a Dama
+ok Y7a Dama
 Moto Edge 30 Lite
 Vivo V21
 ___________________________________
 SILICONE CASE:
 A12 Negro
-A12 AzulClaro
+ok A12 AzulClaro
 A20s Rosa
 iphone 13 Pro Blanco sin protector
 iphone 14 Rosa
@@ -57,9 +57,8 @@ LG K61 Amarillo
 Moto E6 Plus Rojo
 Moto G7 Power Rojo
 Moto G7 Power Lila
-Moto G20 Azul Rey
-Moto G22 Negro
-Redmi 10 negro
+ok Moto G20 Azul Rey
+ok Redmi 10 negro
 Note 12 pro 5G
 Oppo A17 Morado
 Oppo Reno 6 Lite Morado
@@ -78,11 +77,14 @@ ANDRES CAPITAL:
 Manos Libres AKG
 ___________________________________
 ARMADURA:
-A12
-A32 4G
+ok A12
+ok A32 4G
 Moto Moto G22
 ___________________________________
 TIGERS NODO:
+ok Teatro TG-300
+ok transporte gata
+ok Termo 
 Soporte Celular Moto Espejo
 Consola SUP Gris
 Mini Plancha Lila
@@ -112,11 +114,11 @@ ___________________________________
 CELUFLEX:
 ___________________________________
 EKADI:
-Pacha A11
-Pacha Moto E20
+ok Pacha A11
+ok Pacha Moto E20
 Pacha K61
-Pacha A31 con marco
-Bateria Moto E6 Plus
+ok Pacha A31 con marco
+ok Bateria Moto E6 Plus
 ___________________________________
 TABLET STORE:
 ___________________________________
