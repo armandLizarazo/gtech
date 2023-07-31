@@ -40,7 +40,7 @@ ___________________________________
 SILICONE CASE:
 A12 Negro
 A12 AzulClaro
-iphone 8 Negro
+A20s Rosa
 iphone 13 Pro Blanco sin protector
 iphone 14 Rosa
 iphone 14 Pro Rosa
@@ -54,18 +54,12 @@ Honor X6s Lila
 Honor X7a Verde
 LG K61 Morado
 LG K61 Amarillo
-LG K61 Rosa
 Moto E6 Plus Rojo
 Moto G7 Power Rojo
 Moto G7 Power Lila
-Moto G20 Negro
 Moto G20 Azul Rey
 Moto G22 Negro
-Mi 11 Lite Negro
-Mi 11 Lite Morado
-Mi 11 Lite Azul Rey
 Redmi 10 negro
-Redmi 10 Lila
 Note 12 pro 5G
 Oppo A17 Morado
 Oppo Reno 6 Lite Morado
@@ -81,6 +75,7 @@ Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
 ANDRES CAPITAL:
+Manos Libres AKG
 ___________________________________
 ARMADURA:
 A12
@@ -98,10 +93,11 @@ ___________________________________
 FORRO SPACE:
 Honor X7
 Honor X8a
+A20s
+M23
 A24
 A34
-A50
-Note 9s
+A54
 Note 10 Pro 5G
 Oppo Reno 7 5G
 Vivo V21
@@ -109,14 +105,18 @@ ___________________________________
 YOYOS CARACAS:
 ___________________________________
 CHIWICELL:
+Cinta 3M angosta
 Prensa Alta
 Cargador tester
 ___________________________________
 CELUFLEX:
 ___________________________________
 EKADI:
+Pacha A11
 Pacha Moto E20
 Pacha K61
+Pacha A31 con marco
+Bateria Moto E6 Plus
 ___________________________________
 TABLET STORE:
 ___________________________________

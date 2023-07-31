@@ -12,8 +12,11 @@ Jose      Cuervo    : 2023-07-13 : Paga        : Prestamo         :   1.000.000 
 Blanca    Ramirez   : 2023-07-03 : Adeuda      : Prestamo         :   1.000.000 : OK
 Blanca    Ramirez   : 2023-07-10 : Abona       : Prestamo         :     500.000 : OK
 Blanca    Ramirez   : 2023-07-15 : Paga        : Prestamo         :     500.000 : OK
+tella     Lizarazo  : 2023-07-18 : Adeuda      : Prestamo         :     250.000 : OK
+Stella    Lizarazo  : 2023-07-28 : Paga        : Prestamo         :     250.000 : OK
+Jose      Cuervo    : 2023-07-20 : Adeuda      : Prestamo         :     750.000 : OK
+Jose      Cuervo    : 2023-07-28 : Paga        : Prestamo         :     750.000 : OK
 Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000 : --
 Yarlyn    Empanadas : 2023-07-22 : Adeuda      : Pacha Moto E6Play:     115.000 : --
-Stella    Lizarazo  : 2023-07-18 : Adeuda      : Prestamo         :     250.000 : --
-Jose      Cuervo    : 2023-07-20 : Adeuda      : Prestamo         :     750.000 : --
 Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :      60.000 : --
+Stella    Lizarazo  : 2023-07-29 : Adeuda      : Prestamo Harina  :     200.000 : --
