@@ -16,7 +16,10 @@ tella     Lizarazo  : 2023-07-18 : Adeuda      : Prestamo         :     250.000 
 Stella    Lizarazo  : 2023-07-28 : Paga        : Prestamo         :     250.000 : OK
 Jose      Cuervo    : 2023-07-20 : Adeuda      : Prestamo         :     750.000 : OK
 Jose      Cuervo    : 2023-07-28 : Paga        : Prestamo         :     750.000 : OK
-Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000 : --
-Yarlyn    Empanadas : 2023-07-22 : Adeuda      : Pacha Moto E6Play:     115.000 : --
+Yarlyn    Empanadas : 2023-07-22 : Adeuda      : Pacha Moto E6Play:     110.000 : OK
+Yarlyn    Empanadas : 2023-07-31 : Paga        : Pacha Moto E6Play:     110.000 : OK
+Stella    Lizarazo  : 2023-07-29 : Adeuda      : Prestamo Harina  :     200.000 : OK
+Stella    Lizarazo  : 2023-07-30 : Paga        : Prestamo Harina  :     200.000 : OK
 Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :      60.000 : --
-Stella    Lizarazo  : 2023-07-29 : Adeuda      : Prestamo Harina  :     200.000 : --
+Jose      Cuervo    : 2023-07-31 : Adeuda      : Prestamo         :     700.000 : --
+Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000 : --
