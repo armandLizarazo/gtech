@@ -21,5 +21,11 @@ Yarlyn    Empanadas : 2023-07-31 : Paga        : Pacha Moto E6Play:     110.000 
 Stella    Lizarazo  : 2023-07-29 : Adeuda      : Prestamo Harina  :     200.000 : OK
 Stella    Lizarazo  : 2023-07-30 : Paga        : Prestamo Harina  :     200.000 : OK
 Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :      60.000 : --
+Yarlyn    Empanadas : 2023-07-31 : Apartado    : Balaca Bluethoot :      55.000 : --
+Yarlyn    Empanadas : 2023-07-31 : Abona       : Balaca Bluethoot :      20.000 : --
 Jose      Cuervo    : 2023-07-31 : Adeuda      : Prestamo         :     700.000 : --
+Stella    Lizarazo  : 2023-08-01 : Adeuda      : Recarga mes      :      16.000 : --
 Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000 : --
+Yineth    Albornoz  : 2023-07-15 : Adeuda      : Paga CepilloSec  :      60.000 : --
+Yineth    Albornoz  : 2023-07-15 : Adeuda      : Abona A Celular  :      50.000 : --
+
