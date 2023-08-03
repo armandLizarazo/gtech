@@ -1,5 +1,8 @@
 ___________________________________
 CHICAGO 107:
+Cable Lan 20m
+Cable Lan 15m
+Repetidor Wifi
 Convertidor jack st
 Cable USB Hembra Hembra
 Mouse Eco Blanco
@@ -23,8 +26,10 @@ ___________________________________
 MEMORIAS MUSICA:
 ___________________________________
 BATRI CARACAS:
+Cargadores Digo V8 eco
+Manos Libres B10 Negro x3
+Manod Libres B10 Blanco x3
 Cable TC iphone
-Cable Auxiliar con microfono
 ___________________________________
 TYD:
 Forro audifonos Serie 3
@@ -71,6 +76,7 @@ Inpods 12 AzulOscuro
 ___________________________________
 ANDRES CAPITAL:
 Manos Libres AKG
+Ceramico Note 10s
 ___________________________________
 ARMADURA:
 Moto Moto G22
@@ -102,7 +108,8 @@ Cinta 3M angosta
 Prensa Alta
 Cargador tester
 ___________________________________
-CELUFLEX:
+CELUFLEX F&R:
+Pines V8
 ___________________________________
 EKADI:
 Pacha Note 10 Pro
