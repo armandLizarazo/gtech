@@ -32,6 +32,7 @@ if init != [0, 1]:
         print(f"Ganancia: {round (gnc,2)}")
         print(f"{ahora_d} {ahora_dn} {ahora_m} {ahora_y} {date_format}")
         vlscopy = round(vlbs)-1
+        gnccopy = round(gnc,2)
         pyperclip.copy(vlscopy)
         parar = input("pulsa 'e' para salir o cualquier otra tecla para continuar...")
         if parar == "e":

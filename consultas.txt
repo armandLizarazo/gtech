@@ -1,5 +1,6 @@
 ___________________________________
 CHICAGO 107:
+Gatillos W11
 Cable Lan 20m
 Cable Lan 15m
 Repetidor Wifi
