@@ -37,7 +37,7 @@ Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
-Y9 2019 Caballero
+ok Y9 2019 Caballero
 iphone 8
 Honor X6s
 Honor X7a
@@ -55,10 +55,10 @@ Huawei Y7 2018 Negro
 Huawei Y7 2018 Rojo
 Huawei Y7 2018 Lila
 Honor X6s Verde
-Honor X6s Lila 
+ok Honor X6s Lila 
 Honor X7a Verde
 LG K61 Morado
-LG K61 Amarillo
+ok LG K61 Amarillo
 Moto E6 Plus Rojo
 Moto G7 Power Rojo
 Moto G7 Power Lila
@@ -67,9 +67,9 @@ Oppo A17 Morado
 Oppo Reno 6 Lite Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
-Vivo V21 Rojo
-Vivo V21 Negro
-Vivo V21 Lila
+ok Vivo V21 Rojo
+ok Vivo V21 Negro
+ok Vivo V21 Lila
 ___________________________________
 JOMA:
 Aro de luz 26cm Blanco
@@ -92,14 +92,14 @@ Masajeador 8 en 1
 Nevera Portatil
 ___________________________________
 FORRO SPACE:
-Honor X7
-Honor X8a
-A20s
-M23
-A24
+ok Honor X7
+ok Honor X8a
+ok A20s
+ok M23
+ok A24
 A34
 A54
-Redmi 9a x2
+ok Redmi 9a x2
 Note 10 Pro 5G
 Oppo Reno 7 5G
 Vivo V21
