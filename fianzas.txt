@@ -1,35 +1,38 @@
 NOMBRE....APELLIDO..:.FECHA_M....:.MOVIMIENTO..:.CONCEPTO.........:..VALOR......:.ST
-Stella    Lizarazo  : 2023-06-23 : Adeuda      : Recarga movistar :      16.000 : OK
+Stella    Lizarazo  : 2023-06-23 : Adeuda      : Recarga movistar :     -16.000 : OK
 Stella    Lizarazo  : 2023-06-29 : Paga        : Recarga movistar :      16.000 : OK
-Yarlyn    Empanadas : 2023-06-25 : Adeuda      : Pilas AAA        :       4.000 : OK
+Yarlyn    Empanadas : 2023-06-25 : Adeuda      : Pilas AAA        :      -4.000 : OK
 Yarlyn    Empanadas : 2023-07-01 : Paga        : Pilas AAA        :       4.000 : OK
-Yarlyn    Empanadas : 2023-06-23 : Adeuda      : Minikeyboard     :      34.000 : OK
+Yarlyn    Empanadas : 2023-06-23 : Adeuda      : Minikeyboard     :     -34.000 : OK
 Yarlyn    Empanadas : 2023-07-01 : Paga        : Minikeyboard     :      34.000 : OK
-Armando   Rodriguez : 2023-07-07 : Adeuda      : Pilas Carbon AA  :       4.000 : OK
+Armando   Rodriguez : 2023-07-07 : Adeuda      : Pilas Carbon AA  :      -4.000 : OK
 Armando   Rodriguez : 2023-07-08 : Paga        : Pilas Carbon AA  :       4.000 : OK
-Jose      Cuervo    : 2023-07-08 : Adeuda      : Prestamo         :   1.000.000 : OK
+Jose      Cuervo    : 2023-07-08 : Adeuda      : Prestamo         :  -1.000.000 : OK
 Jose      Cuervo    : 2023-07-13 : Paga        : Prestamo         :   1.000.000 : OK
-Blanca    Ramirez   : 2023-07-03 : Adeuda      : Prestamo         :   1.000.000 : OK
-Blanca    Ramirez   : 2023-07-10 : Abona       : Prestamo         :     500.000 : OK
+Blanca    Ramirez   : 2023-07-03 : Adeuda      : Prestamo         :  -1.000.000 : OK
+Blanca    Ramirez   : 2023-07-10 : Abona       : Prestamo         :    -500.000 : OK
 Blanca    Ramirez   : 2023-07-15 : Paga        : Prestamo         :     500.000 : OK
-tella     Lizarazo  : 2023-07-18 : Adeuda      : Prestamo         :     250.000 : OK
+tella     Lizarazo  : 2023-07-18 : Adeuda      : Prestamo         :    -250.000 : OK
 Stella    Lizarazo  : 2023-07-28 : Paga        : Prestamo         :     250.000 : OK
-Jose      Cuervo    : 2023-07-20 : Adeuda      : Prestamo         :     750.000 : OK
+Jose      Cuervo    : 2023-07-20 : Adeuda      : Prestamo         :    -750.000 : OK
 Jose      Cuervo    : 2023-07-28 : Paga        : Prestamo         :     750.000 : OK
-Yarlyn    Empanadas : 2023-07-22 : Adeuda      : Pacha Moto E6Play:     110.000 : OK
+Yarlyn    Empanadas : 2023-07-22 : Adeuda      : Pacha Moto E6Play:    -110.000 : OK
 Yarlyn    Empanadas : 2023-07-31 : Paga        : Pacha Moto E6Play:     110.000 : OK
-Stella    Lizarazo  : 2023-07-29 : Adeuda      : Prestamo Harina  :     200.000 : OK
+Stella    Lizarazo  : 2023-07-29 : Adeuda      : Prestamo Harina  :    -200.000 : OK
 Stella    Lizarazo  : 2023-07-30 : Paga        : Prestamo Harina  :     200.000 : OK
-Stella    Lizarazo  : 2023-08-01 : Adeuda      : Recarga mes      :      16.000 : OK
+Stella    Lizarazo  : 2023-08-01 : Adeuda      : Recarga mes      :     -16.000 : OK
 Stella    Lizarazo  : 2023-08-02 : Paga        : Recarga mes      :      16.000 : OK
-Stella    Lizarazo  : 2023-08-01 : Adeuda      : Arreglo Cel      :      10.000 : OK
+Stella    Lizarazo  : 2023-08-01 : Adeuda      : Arreglo Cel      :     -10.000 : OK
 Stella    Lizarazo  : 2023-08-01 : Paga        : Arreglo Cel      :      10.000 : OK
-Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :     372.000 : OK
-Yineth    Albornoz  : 2023-07-15 : Adeuda      : Paga CepilloSec  :      60.000 : OK
-Yineth    Albornoz  : 2023-07-15 : Adeuda      : Abona A Celular  :      50.000 : OK
-Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :      60.000 : --
-Yarlyn    Empanadas : 2023-07-31 : Apartado    : Balaca Bluethoot :      55.000 : --
+Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :    -372.000 : OK
+Yineth    Albornoz  : 2023-07-15 : Adeuda      : Paga CepilloSec  :     -60.000 : OK
+Yineth    Albornoz  : 2023-07-15 : Adeuda      : Abona A Celular  :     -50.000 : OK
+Yineth    Albornoz  : 2023-07-15 : Adeuda      : Deuda Pendiente  :    -262.000 : OK
+Yineth    Albornoz  : 2023-07-15 : Abona       : Lampara St802    :      30.000 : OK
+Yineth    Albornoz  : 2023-07-15 : Adeuda      : Popsocket Pepas  :      12.000 : OK
+Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :     -60.000 : --
+Yarlyn    Empanadas : 2023-07-31 : Apartado    : Balaca Bluethoot :     -55.000 : --
 Yarlyn    Empanadas : 2023-07-31 : Abona       : Balaca Bluethoot :      20.000 : --
-Jose      Cuervo    : 2023-07-31 : Adeuda      : Prestamo         :     700.000 : --
-Yineth    Albornoz  : 2023-07-15 : Adeuda      : Deuda Pendiente  :     262.000 : --
+Jose      Cuervo    : 2023-07-31 : Adeuda      : Prestamo         :    -700.000 : --
+Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :    -230.000 : --
 
