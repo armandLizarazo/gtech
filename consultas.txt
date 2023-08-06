@@ -1,17 +1,12 @@
 ___________________________________
 CHICAGO 107:
-ok Gatillos W11
-ok Cable Lan 20m
-ok Cable Lan 15m
-ok Repetidor Wifi
-ok Convertidor jack st
 Cable USB Hembra Hembra
 Mouse Eco Blanco
 Mouse Eco Rosa
 Teclado flexible PC
 ___________________________________
 PELO LILA:
-ok Control Minikeyboard
+Control Minikeyboard
 Consola juegos NES
 Consola Juegos SEGA
 ___________________________________
@@ -37,7 +32,6 @@ Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
-ok Y9 2019 Caballero
 iphone 8
 Honor X6s
 Honor X7a
@@ -55,10 +49,8 @@ Huawei Y7 2018 Negro
 Huawei Y7 2018 Rojo
 Huawei Y7 2018 Lila
 Honor X6s Verde
-ok Honor X6s Lila 
 Honor X7a Verde
 LG K61 Morado
-ok LG K61 Amarillo
 Moto E6 Plus Rojo
 Moto G7 Power Rojo
 Moto G7 Power Lila
@@ -67,9 +59,6 @@ Oppo A17 Morado
 Oppo Reno 6 Lite Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
-ok Vivo V21 Rojo
-ok Vivo V21 Negro
-ok Vivo V21 Lila
 ___________________________________
 JOMA:
 Aro de luz 26cm Blanco
@@ -92,15 +81,8 @@ Masajeador 8 en 1
 Nevera Portatil
 ___________________________________
 FORRO SPACE:
-ok Honor X7
-ok Honor X8a
-ok A20s
-ok M23
-ok A24
 A34
 A54
-ok Redmi 9a x2
-Note 10 Pro 5G
 Oppo Reno 7 5G
 Vivo V21
 ___________________________________
@@ -115,11 +97,6 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-Pacha Note 10 Pro
-Bateria Redmi Note 8
-Pacha A30/A50
-Tapa Note 9s Azul
-Visor camara LG K42
 ___________________________________
 TABLET STORE:
 ___________________________________
