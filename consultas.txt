@@ -62,6 +62,7 @@ LG K61 Morado
 Moto E6 Plus Rojo
 Moto G7 Power Rojo
 Moto G7 Power Lila
+Note 8 Morado
 Note 12 pro 5G
 Oppo A17 Morado
 Oppo Reno 6 Lite Morado
@@ -77,8 +78,8 @@ Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
 ANDRES CAPITAL:
-Manos Libres AKG
-Ceramico Note 10s
+ok Manos Libres AKG
+ok Ceramico Note 10s
 ___________________________________
 ARMADURA:
 Moto Moto G22
