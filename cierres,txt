@@ -1,5 +1,4 @@
-Category_Id	    Ref	                 Ventas	         Costo	         Utilidad	Date
-________________________________________________________________________________________________
+Category_Id_________Ref__________________Ventas__________Costo___________Utilidad_______Date____
 Cables	            Para Barbera Largo	 $7.000          $2.000 	 $5.000 	06/08/23
 Cargadores	    V8	                 $10.000 	 $2.300 	 $7.700 	06/08/23
 Cargadores	    TC 45w	         $50.000 	 $24.000 	 $26.000 	06/08/23
@@ -19,3 +18,37 @@ Vidrio Sencillo	    A20	                 $5.000 	 $800 	         $4.200 	06/08/2
 Vidrio Tortuga	    Reno 6 Lite	         $15.000 	 $2.800 	 $12.200 	06/08/23
 ________________________________________________________________________________________________
 Total general		                 $299.500 	 $166.117 	 $133.383 	06/08/23
+
+Category_Id_________Ref__________________Ventas__________Costo___________Utilidad_______Date____
+Adaptadores	    OTG TC	         $7.000 	 $2.500 	 $4.500 	07/08/23
+Audifonos Bluethoothinpods 12	         $35.000 	 $18.000 	 $17.000 	07/08/23
+Control TV	    Control TV Samsung	 $19.000 	 $8.000 	 $11.000 	07/08/23
+Forro Diseños	    Y9 2019	         $10.000 	 $3.500 	 $6.500 	07/08/23
+Forro Space	    A02	                 $20.000 	 $5.000 	 $15.000 	07/08/23
+Hydrogel	    Redmi 9c	         $20.000 	 $5.000 	 $15.000 	07/08/23
+Hydrogel	    Mate 20 Lite	 $20.000 	 $5.000 	 $15.000 	07/08/23
+Impresiones	    Impresión	         $2.000 	 $- 	         $2.000 	07/08/23
+Manos Libres	    Colores	         $10.000 	 $2.800 	 $7.200 	07/08/23
+Pacha	            A12	                 $120.000 	 $65.000 	 $55.000 	07/08/23
+Pacha	            A30 / A50 c/m	 $130.000 	 $70.000 	 $60.000 	07/08/23
+Pop Socket	    Pop Socket Hello Kit $12.000 	 $6.000 	 $6.000 	07/08/23
+Pop Socket	    Pop Socket Redondo	 $5.000 	 $1.700 	 $3.300 	07/08/23
+Recargas	    Paquetes Tigo	 $10.000 	 $9.344 	 $656 	        07/08/23
+Recargas	    Paquetes Claro	 $32.000 	 $29.902 	 $2.098 	07/08/23
+Servicio Tecnico    Pin de Carga Y7 2019 $20.000 	 $- 	         $20.000 	07/08/23
+Servicio Tecnico    Pin de carga Parlante$18.000 	 $- 	         $18.000 	07/08/23
+Servicio Tecnico    Limpiar Camara A30	 $10.000 	 $- 	         $10.000 	07/08/23
+Servicio Tecnico    Señal A20s	         $10.000 	 $- 	         $10.000 	07/08/23
+Servicio Tecnico    Despegar Pila Realme $7.000 	 $- 	         $7.000 	07/08/23
+Silicone Case	    A20s	         $20.000 	 $7.000 	 $13.000 	07/08/23
+Silicone Case	    Mate 20 Lite	 $20.000 	 $8.000 	 $12.000 	07/08/23
+Sin Registro	    Sin Registro	 $4.000 	 $2.000 	 $2.000 	07/08/23
+Vidrio Ceramico	    A54	                 $10.000 	 $900 	         $9.100 	07/08/23
+Vidrio Templado	    A20s                 $10.000 	 $1.100 	 $8.900 	07/08/23
+Vidrio Templado	    Y9 2019	         $10.000 	 $1.100 	 $8.900 	07/08/23
+Vidrio Templado	    A30	                 $10.000 	 $1.100 	 $8.900 	07/08/23
+Vidrio Templado	    7i	                 $10.000 	 $1.100 	 $8.900 	07/08/23
+Vidrio Templado	    M12	                 $5.000 	 $1.100 	 $3.900 	07/08/23
+Visor Camara	    K42	                 $20.000 	 $8.000 	 $12.000 	07/08/23
+________________________________________________________________________________________________
+Total general		                 $636.000 	 $263.146 	 $372.854 	/23
