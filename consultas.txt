@@ -88,7 +88,7 @@ ___________________________________
 YOYOS CARACAS:
 ___________________________________
 CHIWICELL:
-Cinta 3M angosta
+ok Cinta 3M angosta 8000
 Prensa Alta
 Cargador tester
 ___________________________________
@@ -97,9 +97,12 @@ Pines V8
 ___________________________________
 EKADI:
 Altavoz Oppo a54
-Pacha A20
-Pacha A20s
-Pacha Redmi 9a
+ok Pacha A20
+ok Pacha A20s
+ok Pacha Redmi 9a
+ok flex Moto G9 Power
+ok Flex A20
+Total 216000
 ___________________________________
 TABLET STORE:
 ___________________________________
