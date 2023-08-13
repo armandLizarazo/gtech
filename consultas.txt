@@ -1,6 +1,5 @@
 ___________________________________
 CHICAGO 107:
-Cable USB Hembra Hembra
 Teclado flexible PC
 ___________________________________
 PELO LILA:
@@ -13,8 +12,6 @@ RACO:
 Control Xbox One
 ___________________________________
 SAFARI:
-
-ok Protector Camara Redmi 11T
 Protector Smartwatch Ultra
 ___________________________________
 MEMORIAS MUSICA:
@@ -23,9 +20,6 @@ BATRI CARACAS:
 Cable TC iphone
 ___________________________________
 TYD:
-ok Cargador 45w Samsung x2
-ok Cadenas
-ok sim claro
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
@@ -37,17 +31,12 @@ Moto Edge 30 Lite
 Vivo V21
 ___________________________________
 SILICONE CASE:
-iPhone X Negro
 iPhone X Azul Rey
-iphone X Azul Oscuro
-ok A20s Rojo
-ok A20s Rosa
 Huawei Mate 20 Lite Azul Rey
 Huawei Y7 2018 Negro
 Huawei Y7 2018 Rojo
 Huawei Y7 2018 Lila
 LG K61 Negro
-ok LG K61 AzulOscuro 7500
 LG K61 Morado
 Redmi Note 8 Morado
 Note 12 pro 5G
@@ -59,10 +48,11 @@ Vivo Y16 Amarillo
 Vivo Y53s Negro
 ___________________________________
 JOMA:
-ok Tvbox x2
 En proceso Garantia inpods blanco 
+Control X3
 Parlantes Mini
 Aro de luz 26cm Blanco
+Inpods 12 AzulClaro
 Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
@@ -78,7 +68,6 @@ Masajeador 8 en 1
 Nevera Portatil
 ___________________________________
 FORRO SPACE:
-iPhone X x2
 A02
 Y7a
 Note 11 Pro x2
@@ -93,7 +82,6 @@ Audifonos Pro 60 x2
 total 50000
 ___________________________________
 CHIWICELL:
-ok Cinta 3M angosta 8000
 Prensa Alta
 Cargador tester
 ___________________________________
@@ -102,18 +90,10 @@ Pines V8
 ___________________________________
 EKADI:
 Altavoz Oppo a54
-ok Pacha A20
-ok Pacha A20s
-ok Pacha Redmi 9a
-ok flex Moto G9 Power
-ok Flex A20
-Total 216000
 ___________________________________
 TABLET STORE:
 ___________________________________
 VPG SAS:
-ok Juguete Nuevo
-ok Parlante TG-299 Verde Militar
 Parlante TG-299 Rojo
 Parlante JBL Bicicleta
 Parlante TG 344
