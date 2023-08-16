@@ -29,24 +29,24 @@ iPhone 8
 A34 Dama
 A34 Caballero
 A13 Caballero x4
-P20 lite Dama x3
-P20 lite Caballero x3
+ok P20 lite Dama x3
+ok P20 lite Caballero x3
 Honor X6s
 Honor X7a
 Moto Edge 30 Lite
 Vivo V21
 ___________________________________
 SILICONE CASE:
-A03s Rojo
-A34 Rosa
-A34 Lila
+ok A03s Rojo
+ok A34 Rosa
+ok A34 Lila
 iPhone X Azul Rey
 Mate 20 Lite Azul Rey
-P20 lite Rojo
-P20 lite Azul
-P20 Lite Lila
-P20 Lite Amarillo
-X7a Rojo
+ok P20 lite Rojo
+ok P20 lite Azul
+ok P20 Lite Lila
+ok P20 Lite Amarillo
+ok X7a Rojo
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
