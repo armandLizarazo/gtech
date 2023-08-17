@@ -1,6 +1,5 @@
 ___________________________________
 CHICAGO 107:
-Cargador Universal PC 8 Puntas
 Teclado flexible PC
 ___________________________________
 PELO LILA:
@@ -21,6 +20,8 @@ BATRI CARACAS:
 Cable TC iphone
 ___________________________________
 TYD:
+Cables TC
+OTG TC
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
@@ -37,16 +38,11 @@ Moto Edge 30 Lite
 Vivo V21
 ___________________________________
 SILICONE CASE:
-ok A03s Rojo
-ok A34 Rosa
-ok A34 Lila
 iPhone X Azul Rey
 Mate 20 Lite Azul Rey
-ok P20 lite Rojo
-ok P20 lite Azul
-ok P20 Lite Lila
-ok P20 Lite Amarillo
-ok X7a Rojo
+Moto G9 Power Negro
+Moto G9 Power Amarillo
+Moto G72 Negro
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
@@ -63,12 +59,9 @@ Vivo Y16 Amarillo
 Vivo Y53s Negro
 ___________________________________
 JOMA:
-ok Control PS4 GTA V
 En proceso Garantia inpods blanco 
-ok Control X3
 Parlantes Mini
 Aro de luz 26cm Blanco
-ok Inpods 12 AzulClaro
 Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
@@ -79,7 +72,7 @@ ARMADURA:
 Moto Moto G22
 ___________________________________
 TIGERS NODO:
-Parlante 8" Negro
+Cepillo Secador
 Masajeador 8 en 1
 Nevera Portatil
 ___________________________________
@@ -106,15 +99,15 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-Pacha A03 Core
-Altavoz Oppo a54
+Bandeja de Sim  Y5 2018 Cuero
+Pacha A03 Core x2
+Altavoz Moto One Action
+Logica Note 10s
+
 ___________________________________
 TABLET STORE:
 ___________________________________
 VPG SAS:
-ok parlante pilas 
-ok Smart Watch Garantia
-ol m19
 ___________________________________
 VIDEO JUEGOS:
 360 Left 4 Live 2
