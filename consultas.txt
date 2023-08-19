@@ -44,7 +44,7 @@ ok Moto G22 Rojo
 ok Moto g22 Lila
 ok Moto G9 Power Negro
 Moto G9 Power Amarillo
-Moto G72 Negro
+ok Moto G72 Negro
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
