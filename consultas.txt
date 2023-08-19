@@ -27,11 +27,10 @@ Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
 iPhone 8
-A34 Dama
-A34 Caballero
-A13 Caballero x4
-Honor X6s
-Honor X7a
+ok A34 Dama
+ok A13 Caballero x4
+ok Honor X6s
+ok Honor X7a dama
 Moto Edge 30 Lite
 Vivo V21
 ___________________________________
@@ -43,27 +42,27 @@ iPhone 12 Verde
 iPhone X Azul Rey
 Mate 20 Lite Azul Rey
 Moto G22 Negro
-Moto G22 Rojo
-Moto g22 Lila
-Moto G9 Power Negro
+ok Moto G22 Rojo
+ok Moto g22 Lila
+ok Moto G9 Power Negro
 Moto G9 Power Amarillo
 Moto G72 Negro
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-LG K61 Negro
-LG K61 Morado
-Redmi 10 Fuccia
-Redmi 10 Azul Rey
+ok LG K61 Negro
+ok LG K61 Morado
+ok Redmi 10 Fuccia
+ok Redmi 10 Azul Rey
 Redmi 10 Morado
-Redmi Note 8 Morado
+ok Redmi Note 8 Morado
 Note 11 Negro
 Note 12 pro 5G
 Oppo A17 Morado
 Oppo Reno 6 Lite Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
-Vivo Y16 Amarillo
+on Vivo Y16 Amarillo
 Vivo Y53s Negro
 ___________________________________
 JOMA:
@@ -96,8 +95,6 @@ Oppo Reno 7 5G
 Vivo V21
 ___________________________________
 YOYOS CARACAS:
-Audifonos Pro 60 x2 
-total 50000
 ___________________________________
 CHIWICELL:
 Prensa Alta
@@ -107,8 +104,8 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-Pacha Redmi Note 9
-Huella Note 10 pro
+ok Pacha Redmi Note 9
+ok Huella Note 10 pro
 ___________________________________
 TABLET STORE:
 ___________________________________
