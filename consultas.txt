@@ -59,13 +59,13 @@ Masajeador 8 en 1
 Nevera Portatil
 ___________________________________
 FORRO SPACE:
-A02
-A21s
-Galaxy S10
+ok A02
+ok A21s
+ok Galaxy S10
 S23 Plus
 Y7a
 Moto G9 Play
-Note 11 Pro x2
+ok Note 11 Pro x2
 Note 12c
 Redmi Note 12
 Redmi 12
