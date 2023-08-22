@@ -80,8 +80,11 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
+<<<<<<< HEAD
 Boton Power A20s
 Tapa Samsung A13 no Gris
+=======
+>>>>>>> cce8943aae3a59f05cc938003765fb333f59cc9a
 Garantia Tactil L8 (Falla)
 ___________________________________
 TABLET STORE:
