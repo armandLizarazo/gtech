@@ -16,10 +16,11 @@ ___________________________________
 MEMORIAS MUSICA:
 ___________________________________
 BATRI CARACAS:
+Forro Cables
+Cargador 1100
 Cable TC iphone
 ___________________________________
 TYD:
-Forro Cables
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
@@ -60,6 +61,7 @@ TIGERS NODO:
 Garantia Teatro TG-300 ruido bass
 Garantia depilador Body Mujer
 Depilador Woman
+Plancha Combo x2
 ___________________________________
 FORRO SPACE:
 Y7a
@@ -71,6 +73,7 @@ Oppo Reno 7 5G
 Vivo V21
 ___________________________________
 YOYOS CARACAS:
+Cargador 1100
 ___________________________________
 CHIWICELL:
 Prensa Alta
@@ -80,11 +83,11 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-<<<<<<< HEAD
 Boton Power A20s
 Tapa Samsung A13 no Gris
-=======
->>>>>>> cce8943aae3a59f05cc938003765fb333f59cc9a
+Pacha Moto E13
+Pacha Y21s
+Visor Camara Y21s
 Garantia Tactil L8 (Falla)
 ___________________________________
 TABLET STORE:
