@@ -21,16 +21,19 @@ Cargador 1100
 Cable TC iphone
 ___________________________________
 TYD:
-Balaca Naisu x2
+ok Vidrios Tortuga 
+ok Balaca Naisu x2
+ok holder carro
 Cargador solo cabeza TC x3
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
 iPhone 8
-Moto Edge 30 Lite
-Redmi Note 12 Dama
-Redmi Note 12 Caballero
+ok Moto Edge 30 Lite
+ok Moto G52 dama y caballero
+ok Redmi Note 12 Dama
+ok Redmi Note 12 Caballero
 Vivo Y01
 Vivo V21
 ___________________________________
@@ -38,7 +41,7 @@ SILICONE CASE:
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-Moto G52
+ok Moto G52
 Note 8 Rojo
 Note 12 pro 5G
 Oppo A17 Morado
@@ -54,9 +57,13 @@ Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
 ANDRES CAPITAL:
-5D Moto G50/E13/ZTE curva camara
-5D Y70/10c/ Realme C53
-5D Redmi 10
+ok garantia cargador belkin tc
+ok Cargadores Bwlkin TC
+ok cables TC
+ok cargador Samsung 65w
+ok 5D Moto G50/E13/ZTE curva camara
+ok 5D Y70/10c/ Realme C53
+ok 5D Redmi 10
 ___________________________________
 ARMADURA:
 Moto Moto G22
@@ -69,6 +76,7 @@ ___________________________________
 FORRO SPACE:
 Y7a
 Moto G9 Play
+Moto G52
 Note 12c
 Redmi Note 12
 Redmi 12
