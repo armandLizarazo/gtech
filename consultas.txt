@@ -21,19 +21,12 @@ Cargador 1100
 Cable TC iphone
 ___________________________________
 TYD:
-ok Vidrios Tortuga 
-ok Balaca Naisu x2
-ok holder carro
 Cargador solo cabeza TC x3
 Forro audifonos Serie 3
 Pilas Recargables SONY
 ___________________________________
 ANTICHOQUES:
 iPhone 8
-ok Moto Edge 30 Lite
-ok Moto G52 dama y caballero
-ok Redmi Note 12 Dama
-ok Redmi Note 12 Caballero
 Vivo Y01
 Vivo V21
 ___________________________________
@@ -57,13 +50,6 @@ Inpods 12 Negro
 Inpods 12 AzulOscuro
 ___________________________________
 ANDRES CAPITAL:
-ok garantia cargador belkin tc
-ok Cargadores Bwlkin TC
-ok cables TC
-ok cargador Samsung 65w
-ok 5D Moto G50/E13/ZTE curva camara
-ok 5D Y70/10c/ Realme C53
-ok 5D Redmi 10
 ___________________________________
 ARMADURA:
 Moto Moto G22
@@ -71,12 +57,10 @@ ___________________________________
 TIGERS NODO:
 En proceso Garantia Teatro TG-300 ruido
 Depilador Woman
-ok Plancha Combo x2
 ___________________________________
 FORRO SPACE:
 Y7a
 Moto G9 Play
-Moto G52
 Note 12c
 Redmi Note 12
 Redmi 12
@@ -94,15 +78,9 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-ok Garantia Pacha Moto Y7 2019
-ok Tapa Y7 2019
-ok Bandeja Y7 2019
-ok Pacha Y7 2019
-ok Pacha A21s x2
-ok Pacha Y9 Prime Full
-ok Pacha Redmi 9a / 9c / 10a
-ok Pacha Moto E7 / E7i Power
-ok Garantia Boton Power A20s
+Cambiar Tapa Y7 2019
+Pacha Y6 2019
+Pacha Y50
 ___________________________________
 TABLET STORE:
 ___________________________________
