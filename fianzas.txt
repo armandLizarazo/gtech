@@ -30,9 +30,12 @@ Yineth    Albornoz  : 2023-07-15 : Adeuda      : Abona A Celular  :     -50.000 
 Yineth    Albornoz  : 2023-07-15 : Adeuda      : Deuda Pendiente  :    -262.000 : OK
 Yineth    Albornoz  : 2023-07-15 : Abona       : Lampara St802    :      30.000 : OK
 Yineth    Albornoz  : 2023-07-15 : Adeuda      : Popsocket Pepas  :      12.000 : OK
-Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :     -60.000 : --
-Yarlyn    Empanadas : 2023-07-31 : Apartado    : Balaca Bluethoot :     -55.000 : --
-Yarlyn    Empanadas : 2023-07-31 : Abona       : Balaca Bluethoot :      20.000 : --
-Jose      Cuervo    : 2023-07-31 : Adeuda      : Prestamo         :    -700.000 : --
+Yarlyn    Empanadas : 2023-07-27 : Adeuda      : Control Magic LG :     -60.000 : OK
+Yarlyn    Empanadas : 2023-08-15 : Adeuda      : Control Magic LG :      60.000 : OK
+Yarlyn    Empanadas : 2023-07-31 : Apartado    : Balaca Bluethoot :     -65.000 : OK
+Yarlyn    Empanadas : 2023-07-31 : Abona       : Balaca Bluethoot :      20.000 : OK
+Yarlyn    Empanadas : 2023-08-15 : Paga        : Balaca Bluethoot :      45.000 : OK
+Jose      Cuervo    : 2023-07-31 : Adeuda      : Prestamo         :    -700.000 : OK
+Jose      Cuervo    : 2023-08-05 : Paga        : Prestamo         :     700.000 : OK
 Yineth    Albornoz  : 2023-07-03 : Adeuda      : Deuda Pendiente  :    -230.000 : --
-
+Luz_Mery  Lizarazo  : 2023-08-29 : Adeuda      : Aro de Luz 26cm  :      -65000 : --
