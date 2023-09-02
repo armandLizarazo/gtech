@@ -40,7 +40,7 @@ Vivo V21
 ___________________________________
 SILICONE CASE:
 A20s Rosa
-iPhone 11 Rojo x2
+ok iPhone 11 Rojo x1
 iPhone 11 Palo Rosa
 iPhone 11 Lila
 Y7 2018 Negro
@@ -54,7 +54,7 @@ Note 12 pro 5G
 Oppo A17 Morado
 Oppo A57 Negro
 Oppo A57 Morado
-Oppo Reno 6 Lite Morado
+ok Oppo Reno 6 Lite Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
 ___________________________________
@@ -91,7 +91,7 @@ Oppo Reno 7 5G
 Vivo V21
 ___________________________________
 YOYOS CARACAS:
-Audifonos Pro60 x2
+ok Audifonos Pro60 x2
 ___________________________________
 CHIWICELL:
 Prensa Alta
@@ -101,8 +101,8 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-Preguntar por cambio de tapa iphone 11 pro max
-Pacha A30 / A50 x2
+fail Preguntar por cambio de tapa iphone 11 pro max
+ok Pacha A30 / A50 x2
 pd llevar A30 fallo
 ___________________________________
 TABLET STORE:
