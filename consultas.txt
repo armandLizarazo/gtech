@@ -1,11 +1,11 @@
 ___________________________________
 CHICAGO 107:
-Parlantes pequeños
+ok Parlantes pequeños
 Soporte TV Fijo
 Soporte TV Brazo
 Teclado flexible PC
-Tripode bafle
-Pilas bafle
+ok Tripode bafle
+ok Pilas bafle
 ___________________________________
 PELO LILA:
 Consola Juegos SEGA
@@ -59,9 +59,9 @@ Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
 ___________________________________
 JOMA:
-Inpods 12 Rosa x2
-Inpods 12 AzulOscuro
-Inpods 12 Verde x2
+ok Inpods 12 Rosa x2
+ok Inpods 12 AzulOscuro
+ok Inpods 12 Verde x2
 En proceso Garantia balaca Bose
 Parlantes Mini
 Aro de luz 26cm Blanco
@@ -76,7 +76,7 @@ Note 11
 Moto Moto G22
 ___________________________________
 TIGERS NODO:
-Radios x4
+ok Radios x4
 Pedir cable bafle NIA
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
@@ -109,7 +109,7 @@ ___________________________________
 TABLET STORE:
 ___________________________________
 VPG SAS:
-M19
+ok M19
 Multitoma USB-7 x2
 ___________________________________
 VIDEO JUEGOS:
