@@ -35,7 +35,7 @@ J7 2017 Caballero
 Y7 2018 Dama
 Y7 2018 Caballero
 iPhone 8
-Vivo Y01
+Vivo Y01 es el Y51
 Vivo V21
 ___________________________________
 SILICONE CASE:
@@ -101,8 +101,9 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-fail Preguntar por cambio de tapa iphone 11 pro max
+Tapa iphone 11 pro max mejor con estacion
 ok Pacha A30 / A50 x2
+fail pacha y bat iph6s 
 pd llevar A30 fallo
 ___________________________________
 TABLET STORE:
