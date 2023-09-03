@@ -1,4 +1,4 @@
-﻿Op_id;Date;Mov;ClPv;Cant;Cat;Brand;Ref;Con;Color;Com;Other;Cost;Sale;Subt_Cost;Mov2;Dia;Mes;Año
+﻿op_id;date;Mov;clpv;cant;cat;brand;ref;conect;Colores;comp;other;cost;sale;utl;cod_mv;dia;mes;año
 1;2022-05-22;CMP;SmartPlus;5;Cables;Smart Plus;SMP-C1V;V8;Rojo;Caja;Datos;$4.500;$10.000;-$22.500;5;22;5;2022
 2;2022-05-22;CMP;SmartPlus;5;Cables;Smart Plus;SMP-C1T;TC;Rojo;Caja;Datos;$4.500;$10.000;-$22.500;5;22;5;2022
 3;2022-05-22;CMP;SmartPlus;5;Manos Libres;Samsung;Bolsa;Plug 3.5;SE;SE;SE;$3.500;$9.000;-$17.500;5;22;5;2022
@@ -486,7 +486,7 @@
 485;2022-06-11;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Note 9s;SE;SE;SE;SE;$1.000;$10.000;$9.000;-1;11;6;2022
 486;2022-06-11;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;11;6;2022
 487;2022-06-11;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$2.805;$3.000;$195;-1;11;6;2022
-488;2022-06-12;VNT;Yobani Martinez;1;Servicio Tecnico;Xiaomi;F4 Redmi 9a;SE;SE;Software RX;SE;$0;$30.000;$30.000;-1;12;6;2022
+488;2022-06-12;VNT;Giovany Martinez;1;Servicio Tecnico;Xiaomi;F4 Redmi 9a;SE;SE;Software RX;SE;$0;$30.000;$30.000;-1;12;6;2022
 489;2022-06-12;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;12;6;2022
 490;2022-06-12;VNT;Regular;1;Recargas;Claro;Saldo Claro;SE;SE;SE;SE;$935;$1.000;$65;-1;12;6;2022
 491;2022-06-12;VNT;Regular;1;Servicio Tecnico;Samsung;Pacha A12;SE;SE;SE;SE;$0;$50.000;$50.000;-1;12;6;2022
@@ -512,7 +512,7 @@
 511;2022-06-12;VNT;Regular;1;Manos Libres;unicornio;U28;Plug 3.5;SE;SE;SE;$2.800;$10.000;$7.200;-1;12;6;2022
 512;2022-06-12;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;12;6;2022
 513;2022-06-12;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$5.610;$6.000;$390;-1;12;6;2022
-514;2022-06-13;VNT;Yobani Martinez;1;Servicio Tecnico;Huawei;FRP Y6 2019;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;13;6;2022
+514;2022-06-13;VNT;Giovany Martinez;1;Servicio Tecnico;Huawei;FRP Y6 2019;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;13;6;2022
 515;2022-06-13;VNT;Regular;1;Rollo Cinta Led;Generico;RGB Cinta Led;SE;SE;SE;SE;$30.000;$43.000;$13.000;-1;13;6;2022
 516;2022-06-13;VNT;Regular;1;Pago de Facturas;Movistar;Movistar Movil;SE;SE;SE;SE;$35.000;$35.200;$200;-1;13;6;2022
 517;2022-06-13;VNT;Regular;1;Ceramico Antiespia;Motorola;Moto E20 / Redmi 10c;SE;SE;SE;SE;$4.200;$15.000;$10.800;-1;13;6;2022
@@ -728,8 +728,8 @@
 727;2022-06-22;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.545;$7.000;$455;-1;22;6;2022
 728;2022-06-22;VNT;Regular;1;Minutos;Claro;Minutos;SE;SE;SE;SE;$0;$600;$600;-1;22;6;2022
 729;2022-06-22;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$1.000;$3.000;$2.000;-1;22;6;2022
-730;2022-06-23;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP J8;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;23;6;2022
-731;2022-06-23;VNT;Yobani Martinez;1;Servicio Tecnico;Huawei;FRP Mate 20 lite;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;23;6;2022
+730;2022-06-23;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP J8;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;23;6;2022
+731;2022-06-23;VNT;Giovany Martinez;1;Servicio Tecnico;Huawei;FRP Mate 20 lite;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;23;6;2022
 732;2022-06-23;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Redmi Note 8;SE;SE;SE;SE;$1.000;$10.000;$9.000;-1;23;6;2022
 733;2022-06-23;VNT;Regular;1;Recargas;Virgin;Paquetes Virgin;SE;SE;SE;SE;$2.805;$3.000;$195;-1;23;6;2022
 734;2022-06-23;VNT;Regular;1;Manos Libres;Batri;B10;Plug 3.5;Negro;SE;SE;$7.000;$15.000;$8.000;-1;23;6;2022
@@ -892,7 +892,7 @@
 891;2022-06-26;VNT;Regular;1;Recargas;Claro;Saldo Claro;SE;SE;SE;SE;$1.870;$2.000;$130;-1;26;6;2022
 892;2022-06-26;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$2.805;$3.000;$195;-1;26;6;2022
 893;2022-06-26;VNT;Regular;1;Simcard;Tigo;Simcard Tigo;SE;SE;SE;SE;$1.000;$3.000;$2.000;-1;26;6;2022
-894;2022-06-27;VNT;Yobani Martinez;1;Servicio Tecnico;Corn;FRP Corn Star 8;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;27;6;2022
+894;2022-06-27;VNT;Giovany Martinez;1;Servicio Tecnico;Corn;FRP Corn Star 8;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;27;6;2022
 895;2022-06-27;VNT;Regular;1;Audifonos Bluethooth;Apple;Inpods 12;SE;SE;SE;SE;$18.000;$30.000;$12.000;-1;27;6;2022
 896;2022-06-27;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$5.610;$6.000;$390;-1;27;6;2022
 897;2022-06-27;VNT;Regular;1;Cables;Batri;CU02 3m;SE;SE;SE;SE;$7.500;$18.000;$10.500;-1;27;6;2022
@@ -1467,12 +1467,12 @@
 1466;2022-07-16;VNT;Regular;1;Silicone Case;Samsung;A13 / A23;SE;SE;SE;SE;$11.000;$22.000;$11.000;-1;16;7;2022
 1467;2022-07-16;VNT;Regular;1;Vidrio Ceramico;Samsung;A13 / A23;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;16;7;2022
 1468;2022-07-15;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$14.020;$15.000;$980;-1;15;7;2022
-1469;2022-07-16;VNT;Yobani Martinez;1;Servicio Tecnico;Motorola;FRP Moto G5;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;16;7;2022
-1470;2022-07-16;VNT;Yobani Martinez;1;Servicio Tecnico;Huawei;FRP P20 Lite;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;16;7;2022
+1469;2022-07-16;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;FRP Moto G5;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;16;7;2022
+1470;2022-07-16;VNT;Giovany Martinez;1;Servicio Tecnico;Huawei;FRP P20 Lite;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;16;7;2022
 1471;2022-07-16;VNT;Regular;1;Cargadores;Samsung;Travel Blanco;V8;Blanco;Caja;Carga Rapida;$5.000;$15.000;$10.000;-1;16;7;2022
 1472;2022-07-16;VNT;Regular;1;Aro de Luz;Joma;30cm;SE;SE;SE;SE;$45.000;$71.000;$26.000;-1;16;7;2022
 1473;2022-07-16;VNT;Regular;1;Cables;Batri;CU02 V8;SE;SE;SE;SE;$5.000;$12.000;$7.000;-1;16;7;2022
-1474;2022-07-16;VNT;Regular;1;Paquetes Especiales;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;16;7;2022
+1474;2022-07-16;VNT;Regular;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;16;7;2022
 1475;2022-07-16;VNT;Regular;1;Vidrio Templado;Samsung;A30s;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;16;7;2022
 1476;2022-07-16;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;16;7;2022
 1477;2022-07-16;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$5.610;$6.000;$390;-1;16;7;2022
@@ -1694,7 +1694,7 @@
 1693;2022-07-25;VNT;Regular;1;Memorias;Musica;Carranguera;SE;SE;SE;SE;$4.000;$9.000;$5.000;-1;25;7;2022
 1694;2022-07-25;VNT;Regular;1;Servicio Tecnico;Apple;Pin de Carga iphone 7;SE;SE;SE;SE;$0;$7.000;$7.000;-1;25;7;2022
 1695;2022-07-25;VNT;Regular;1;Servicio Tecnico;Samsung;A10s;SE;SE;SE;SE;$0;$15.000;$15.000;-1;25;7;2022
-1696;2022-07-25;VNT;Regular;1;Silicone Case;Samsung;A32;SE;Azul Oscuro;SE;SE;$9.000;$20.000;$11.000;-1;25;7;2022
+1696;2022-07-25;VNT;Regular;1;Silicone Case;Samsung;A32;SE;AzulOscuro;SE;SE;$9.000;$20.000;$11.000;-1;25;7;2022
 1697;2022-07-25;VNT;Regular;1;Forro Space;Xiaomi;Redmi Note 8;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;25;7;2022
 1698;2022-07-25;VNT;Regular;1;Vidrio Ceramico;Samsung;A32;SE;SE;SE;SE;$1.000;$10.000;$9.000;-1;25;7;2022
 1699;2022-07-25;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;25;7;2022
@@ -1713,7 +1713,7 @@
 1712;2022-07-25;CMP;Raco;2;Pilas Recargables;Ironbat;Mixta ironbat;SE;SE;SE;SE;$18.000;$35.000;-$36.000;2;25;7;2022
 1713;2022-07-25;CMP;Joma;1;Parlantes;JBK;JBK-801;USB y JackPlug;SE;SE;SE;$95.000;$139.000;-$95.000;1;25;7;2022
 1714;2022-07-25;CMP;Joma;2;Audifonos Bluethooth;Apple;Inpods 12;SE;Blanco;SE;SE;$18.000;$35.000;-$36.000;2;25;7;2022
-1715;2022-07-25;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;-$18.000;1;25;7;2022
+1715;2022-07-25;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;-$18.000;1;25;7;2022
 1716;2022-07-25;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;Negro;SE;SE;$18.000;$35.000;-$18.000;1;25;7;2022
 1717;2022-07-25;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;Rosa;SE;SE;$18.000;$35.000;-$18.000;1;25;7;2022
 1718;2022-07-25;CMP;Valuntech 60;3;Cables;Generico;Para Barbera Largo;SE;SE;SE;SE;$2.000;$12.000;-$6.000;3;25;7;2022
@@ -1864,7 +1864,7 @@
 1863;2022-08-01;VNT;Regular;1;Celular;Huawei;P20 Lite;SE;SE;SE;Equipo de Segunda;$0;$20.000;$20.000;-1;1;8;2022
 1864;2022-07-30;CMP;Joma;1;Aro de Luz;JOMA;30cm;SE;SE;SE;SE;$42.000;$75.000;-$42.000;1;30;7;2022
 1865;2022-07-30;CMP;Joma;1;Cables;Generico;Cable optico;SE;SE;SE;SE;$5.000;$15.000;-$5.000;1;30;7;2022
-1866;2022-07-30;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;-$18.000;1;30;7;2022
+1866;2022-07-30;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;-$18.000;1;30;7;2022
 1867;2022-07-30;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;Gris;SE;SE;$18.000;$35.000;-$18.000;1;30;7;2022
 1868;2022-07-30;CMP;Dream Games;1;Teclados;LINX;CBG-03 Combo;SE;SE;SE;SE;$30.000;$75.000;-$30.000;1;30;7;2022
 1869;2022-08-01;CMP;Joma;1;Consolas;SUP;SUP con Control;SE;SE;SE;SE;$29.000;$55.000;-$29.000;1;1;8;2022
@@ -2019,7 +2019,7 @@
 2018;2022-08-08;CMP;Andres Capital;5;Vidrio Templado;Motorola;Moto E40;SE;SE;SE;SE;$1.100;$1.000;-$5.500;5;8;8;2022
 2019;2022-08-08;CMP;Andres Capital;1;Cargadores;Harvic;iphone 5w;SE;SE;SE;SE;$9.000;$24.000;-$9.000;1;8;8;2022
 2020;2022-08-08;CMP;Andres Capital;1;Cables;Apple;Xs max AAA;SE;SE;SE;SE;$10.500;$29.000;-$10.500;1;8;8;2022
-2021;2022-08-08;CMP;Joma;2;Audifonos Bluethooth;Apple;Inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;-$36.000;2;8;8;2022
+2021;2022-08-08;CMP;Joma;2;Audifonos Bluethooth;Apple;Inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;-$36.000;2;8;8;2022
 2022;2022-08-08;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods 12;SE;Gris;SE;SE;$18.000;$35.000;-$18.000;1;8;8;2022
 2023;2022-08-08;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods Pro;SE;Negro;SE;SE;$25.000;$45.000;-$25.000;1;8;8;2022
 2024;2022-08-08;CMP;Joma;1;Audifonos Bluethooth;Apple;Inpods Pro;SE;Rosa;SE;SE;$25.000;$45.000;-$25.000;1;8;8;2022
@@ -2221,7 +2221,7 @@
 2220;2022-08-17;VNT;Regular;1;Simcard;Movistar;Simcard Movistar;SE;SE;SE;SE;$1.000;$3.000;$2.000;-1;17;8;2022
 2221;2022-08-17;VNT;Regular;1;Manos Libres;Samsung;Akg;Plug 3.5;SE;SE;SE;$3.500;$15.000;$11.500;-1;17;8;2022
 2222;2022-08-17;VNT;Regular;1;Vidrio Ceramico;Huawei;P9 Lite 2017;SE;SE;SE;SE;$1.000;$10.000;$9.000;-1;17;8;2022
-2223;2022-08-17;VNT;Stella Lizarazo;1;Paquetes Especiales;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;17;8;2022
+2223;2022-08-17;VNT;Stella Lizarazo;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;17;8;2022
 2224;2022-08-17;VNT;Regular;1;Audifonos Bluethooth;Xiaomi;Airpods Pro;SE;SE;SE;SE;$40.000;$65.000;$25.000;-1;17;8;2022
 2225;2022-08-17;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$9.350;$10.000;$650;-1;17;8;2022
 2226;2022-08-17;VNT;Regular;1;Silicone Case;Huawei;P20 Lite;SE;SE;SE;SE;$7.000;$18.000;$11.000;-1;17;8;2022
@@ -2516,7 +2516,7 @@
 2515;2022-08-29;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;29;8;2022
 2516;2022-08-29;VNT;Regular;1;Cables;Apple;Ligthning;SE;SE;SE;SE;$3.000;$10.000;$7.000;-1;29;8;2022
 2517;2022-08-29;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$2.805;$3.000;$195;-1;29;8;2022
-2518;2022-08-30;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP A21s;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;30;8;2022
+2518;2022-08-30;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A21s;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;30;8;2022
 2519;2022-08-30;VNT;Regular;1;Vidrio Ceramico;Motorola;Moto one;SE;SE;SE;SE;$1.000;$10.000;$9.000;-1;30;8;2022
 2520;2022-08-30;VNT;Regular;1;Vidrio Sencillo;Motorola;Moto G5s;SE;SE;SE;SE;$700;$5.000;$4.300;-1;30;8;2022
 2521;2022-08-30;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$5.610;$6.000;$390;-1;30;8;2022
@@ -2561,7 +2561,7 @@
 2560;2022-09-01;VNT;Regular;1;Recargas;Claro;Saldo Claro;SE;SE;SE;SE;$1.870;$2.000;$130;-1;1;9;2022
 2561;2022-09-01;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$1.000;$3.000;$2.000;-1;1;9;2022
 2562;2022-09-01;VNT;Regular;1;Cargadores;Belkin;TC;SE;SE;SE;SE;$9.500;$20.000;$10.500;-1;1;9;2022
-2563;2022-09-01;VNT;Regular;1;Forro Diseños;Samsung;A21s;SE;Caballreo;SE;SE;$3.800;$10.000;$6.200;-1;1;9;2022
+2563;2022-09-01;VNT;Regular;1;Forro Diseños;Samsung;A21s;SE;Caballero;SE;SE;$3.800;$10.000;$6.200;-1;1;9;2022
 2564;2022-09-01;VNT;Regular;1;Silicone Case;Samsung;A32;SE;SE;SE;SE;$9.000;$20.000;$11.000;-1;1;9;2022
 2565;2022-09-01;VNT;Regular;1;Linterna;Generico;Linterna Tactica / Carro;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;1;9;2022
 2566;2022-09-01;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$2.805;$3.000;$195;-1;1;9;2022
@@ -2726,8 +2726,8 @@
 2725;2022-09-08;VNT;Regular;1;Simcard;WOM;Simcard WOM;SE;SE;SE;SE;$1.000;$3.000;$2.000;-1;8;9;2022
 2726;2022-09-08;VNT;Regular;1;Recargas;WOM;Paquetes WOM;SE;SE;SE;SE;$4.675;$5.000;$325;-1;8;9;2022
 2727;2022-09-08;VNT;Regular;1;Servicio Tecnico;Xiaomi;Reset Pocophone ;SE;SE;SE;SE;$0;$10.000;$10.000;-1;8;9;2022
-2728;2022-09-09;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;Flasheo y FRP  A51;SE;SE;Software RX;SE;$0;$30.000;$30.000;-1;9;9;2022
-2729;2022-09-09;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;Factory Y FRP J5 Prime;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;9;9;2022
+2728;2022-09-09;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;Flasheo y FRP  A51;SE;SE;Software RX;SE;$0;$30.000;$30.000;-1;9;9;2022
+2729;2022-09-09;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;Factory Y FRP J5 Prime;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;9;9;2022
 2730;2022-09-09;VNT;Regular;1;Forro Space;Motorola;Moto G30;SE;SE;SE;SE;$8.500;$20.000;$11.500;-1;9;9;2022
 2731;2022-09-09;VNT;Brandon Suavita;1;Dispensador;Generico;Dispensador Agua;SE;SE;SE;SE;$13.000;$24.000;$11.000;-1;9;9;2022
 2732;2022-09-09;VNT;Regular;1;Forro Diseños;Samsung;J7;SE;SE;SE;SE;$4.000;$10.000;$6.000;-1;9;9;2022
@@ -2796,7 +2796,7 @@
 2795;2022-09-12;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;De Jose Vainia;$1.000;$4.000;$3.000;-1;12;9;2022
 2796;2022-09-12;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$2.805;$3.000;$195;-1;12;9;2022
 2797;2022-09-12;VNT;Regular;1;Servicio Tecnico;Generico;Alquiler Rampa;SE;SE;SE;SE;$0;$2.000;$2.000;-1;12;9;2022
-2798;2022-09-13;VNT;Stella Lizarazo;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;13;9;2022
+2798;2022-09-13;VNT;Stella Lizarazo;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;13;9;2022
 2799;2022-09-13;VNT;Regular;1;Manos Libres;JOMA;U19;Plug 3.5;SE;SE;SE;$2.800;$10.000;$7.200;-1;13;9;2022
 2800;2022-09-13;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$9.350;$10.000;$650;-1;13;9;2022
 2801;2022-09-13;VNT;Regular;1;Cargadores;Huawei;V8;SE;SE;SE;SE;$7.500;$18.000;$10.500;-1;13;9;2022
@@ -3542,7 +3542,7 @@
 3541;2022-10-14;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.271;$3.500;$229;-1;14;10;2022
 3542;2022-10-14;VNT;Jose Cuervo;1;Silicone Case;Samsung;S10;SE;SE;SE;SE;$9.000;$18.000;$9.000;-1;14;10;2022
 3543;2022-10-15;VNT;Armando Rodriguez;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$14.953;$16.000;$1.047;-1;15;10;2022
-3544;2022-10-15;VNT;Stella Lizarazo;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;15;10;2022
+3544;2022-10-15;VNT;Stella Lizarazo;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$5.000;$5.000;-1;15;10;2022
 3545;2022-10-15;VNT;Regular;1;Cargadores;Belkin;v8;SE;SE;SE;SE;$8.500;$20.000;$11.500;-1;15;10;2022
 3546;2022-10-15;VNT;Regular;1;Cables;Ramitech;1 a 1 1.5m;SE;SE;SE;SE;$1.800;$10.000;$8.200;-1;15;10;2022
 3547;2022-10-15;VNT;Regular;1;Logica de Carga;Samsung;A12;TC;SE;SE;Instalada;$10.000;$45.000;$35.000;-1;15;10;2022
@@ -4081,7 +4081,7 @@
 4080;2022-11-02;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$19.626;$21.000;$1.374;-1;2;11;2022
 4081;2022-11-02;VNT;Regular;1;Recargas;Claro;Saldo Claro;SE;SE;SE;SE;$1.873;$2.000;$127;-1;2;11;2022
 4082;2022-11-02;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.271;$3.500;$229;-1;2;11;2022
-4083;2022-11-03;VNT;Yobani Martinez;1;Servicio Tecnico;Motorola;FRP Moto G6 Plus;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;3;11;2022
+4083;2022-11-03;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;FRP Moto G6 Plus;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;3;11;2022
 4084;2022-11-03;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;3;11;2022
 4085;2022-11-03;VNT;Regular;1;Adaptadores;Generico;Micro a USB;SE;SE;SE;SE;$1.000;$2.000;$1.000;-1;3;11;2022
 4086;2022-11-03;VNT;Regular;1;Manos Libres;Samsung;Bolsa;Plug 3.5;SE;SE;SE;$3.500;$12.000;$8.500;-1;3;11;2022
@@ -4274,7 +4274,7 @@
 4273;2022-11-08;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$500;$4.000;$3.500;-1;8;11;2022
 4274;2022-11-08;VNT;Regular;1;Cables;Generico;V8;SE;SE;SE;SE;$1.000;$7.000;$6.000;-1;8;11;2022
 4275;2022-11-08;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$935;$1.000;$65;-1;8;11;2022
-4276;2022-11-09;VNT;Yobani Martinez;1;Servicio Tecnico;Motorola;Mantenimiento Logica de Carga Moto G8 Plus;SE;SE;SE;SE;$0;$10.000;$10.000;-1;9;11;2022
+4276;2022-11-09;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;Mantenimiento Logica de Carga Moto G8 Plus;SE;SE;SE;Lote;$0;$10.000;$10.000;-1;9;11;2022
 4277;2022-11-09;VNT;yineth obrera;1;Cortina;Generico;Copos Nieve;SE;SE;SE;SE;$49.000;$70.000;$21.000;-1;9;11;2022
 4278;2022-11-09;VNT;yineth obrera;1;Rollo Cinta Led;Generico;RGB Cinta Led;SE;SE;SE;SE;$30.000;$40.000;$10.000;-1;9;11;2022
 4279;2022-11-09;VNT;Regular;1;Bluethoot Car;Generico;EO-15;SE;SE;SE;SE;$7.500;$15.000;$7.500;-1;9;11;2022
@@ -4293,9 +4293,9 @@
 4292;2022-11-09;VNT;Regular;1;Cargadores;Belkin;TC;SE;SE;SE;SE;$8.500;$20.000;$11.500;-1;9;11;2022
 4293;2022-11-09;VNT;Regular;1;Forro Space;Xiaomi;Note 10 Pro;SE;SE;SE;SE;$8.500;$18.000;$9.500;-1;9;11;2022
 4294;2022-11-09;VNT;Regular;1;Simcard;Movistar;Simcard Movistar;SE;SE;SE;SE;$1.000;$3.000;$2.000;-1;9;11;2022
-4295;2022-11-10;VNT;Yobani Martinez;1;Servicio Tecnico;Generico;Recuperar Info Excel;SE;SE;SE;SE;$0;$15.000;$15.000;-1;10;11;2022
-4296;2022-11-10;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP J7 Prime;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;11;2022
-4297;2022-11-10;VNT;Yobani Martinez;1;Servicio Tecnico;Huawei;FRP Mate 20 Lite;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;11;2022
+4295;2022-11-10;VNT;Giovany Martinez;1;Servicio Tecnico;Generico;Recuperar Info Excel;SE;SE;SE;SE;$0;$15.000;$15.000;-1;10;11;2022
+4296;2022-11-10;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP J7 Prime;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;11;2022
+4297;2022-11-10;VNT;Giovany Martinez;1;Servicio Tecnico;Huawei;FRP Mate 20 Lite;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;11;2022
 4298;2022-11-10;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$10.280;$11.000;$720;-1;10;11;2022
 4299;2022-11-10;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Note 10 Pro;SE;SE;SE;SE;$900;$10.000;$9.100;-1;10;11;2022
 4300;2022-11-10;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.280;$11.000;$720;-1;10;11;2022
@@ -5202,7 +5202,7 @@
 5201;2022-12-12;CMP;EG Accesorios;3;Manos Libres;Vidvie;ML EI01;Plug 3.5;SE;SE;SE;$8.500;$20.000;-$25.500;3;12;12;2022
 5202;2022-12-13;VNT;Regular;1;Manos Libres;Batri;B10;Plug 3.5;SE;SE;SE;$7.500;$20.000;$12.500;-1;13;12;2022
 5203;2022-12-13;VNT;Regular;1;Silicone Case;Xiaomi;Redmi note 8;SE;SE;SE;SE;$8.500;$20.000;$11.500;-1;13;12;2022
-5204;2022-12-13;VNT;Yobani Martinez;1;Servicio Tecnico;Motorola;FRP Moto G20;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;13;12;2022
+5204;2022-12-13;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;FRP Moto G20;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;13;12;2022
 5205;2022-12-13;VNT;Yarlot Cuervo;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.271;$3.500;$229;-1;13;12;2022
 5206;2022-12-13;VNT;Regular;1;Servicio Tecnico;Generico;Cable de poder Ultrasonido SPA;SE;SE;SE;SE;$0;$5.000;$5.000;-1;13;12;2022
 5207;2022-12-13;VNT;Regular;1;Servicio Tecnico;Motorola;Flex power y pines bateria MOTO C;SE;SE;SE;SE;$5.000;$35.000;$30.000;-1;13;12;2022
@@ -5223,7 +5223,7 @@
 5222;2022-12-14;VNT;Regular;1;Soportes;Generico;Holder Bracket Mesa;SE;SE;SE;SE;$4.500;$10.000;$5.500;-1;14;12;2022
 5223;2022-12-14;VNT;Regular;1;Vidrio Templado;Samsung;A03;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;14;12;2022
 5224;2022-12-14;VNT;Regular;1;Servicio Tecnico;Generico;Soldadura Puntos Luces led;SE;SE;SE;SE;$0;$3.000;$3.000;-1;14;12;2022
-5225;2022-12-14;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP A32;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;14;12;2022
+5225;2022-12-14;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A32;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;14;12;2022
 5226;2022-12-14;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$14.953;$16.000;$1.047;-1;14;12;2022
 5227;2022-12-14;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.009;$7.500;$491;-1;14;12;2022
 5228;2022-12-15;VNT;Regular;1;Antenas;Generico;TDT 5M;SE;SE;SE;SE;$11.000;$20.000;$9.000;-1;15;12;2022
@@ -5370,11 +5370,11 @@
 5369;2022-12-18;VNT;Regular;1;Vidrio Templado;Oppo;A54;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;18;12;2022
 5370;2022-12-18;VNT;Regular;1;Cables;Batri;V8;SE;SE;SE;SE;$5.000;$12.000;$7.000;-1;18;12;2022
 5371;2022-12-18;VNT;Regular;1;Servicio Tecnico;Samsung;A02s;SE;SE;SE;SE;$0;$25.000;$25.000;-1;18;12;2022
-5372;2022-12-18;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;A02s;SE;SE;SE;SE;$0;$10.000;$10.000;-1;18;12;2022
+5372;2022-12-18;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;A02s;SE;SE;SE;Lote;$0;$10.000;$10.000;-1;18;12;2022
 5373;2022-12-18;VNT;Regular;1;Recargas;Tigo;Saldo Tigo;SE;SE;SE;SE;$14.018;$15.000;$982;-1;18;12;2022
 5374;2022-12-18;VNT;Regular;1;Recargas;Claro;Saldo Claro;SE;SE;SE;SE;$14.018;$15.000;$982;-1;18;12;2022
 5375;2022-12-18;VNT;Regular;1;Silicone Case;Xiaomi;Note 9s;SE;SE;SE;SE;$9.000;$20.000;$11.000;-1;18;12;2022
-5376;2022-12-18;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP A01;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;18;12;2022
+5376;2022-12-18;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A01;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;18;12;2022
 5377;2022-12-18;VNT;Regular;1;Forro ;Xiaomi;Redmi note 8;SE;SE;SE;SE;$5.000;$12.000;$7.000;-1;18;12;2022
 5378;2022-12-18;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.280;$11.000;$720;-1;18;12;2022
 5379;2022-12-18;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.280;$11.000;$720;-1;18;12;2022
@@ -5438,7 +5438,7 @@
 5437;2022-12-20;VNT;Regular;1;Forro Diseños;Xiaomi;Redmi 9a;SE;SE;SE;SE;$5.000;$12.000;$7.000;-1;20;12;2022
 5438;2022-12-20;VNT;Jonathan Broadster;1;Forro Space;Apple;iphone 11;SE;SE;SE;SE;$7.000;$20.000;$13.000;-1;20;12;2022
 5439;2022-12-20;VNT;Regular;1;Bluethoot Car;Generico;Bluethoot Car USB;SE;SE;SE;SE;$8.500;$19.000;$10.500;-1;20;12;2022
-5440;2022-12-20;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP A71;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;20;12;2022
+5440;2022-12-20;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A71;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;20;12;2022
 5441;2022-12-20;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;Plug 3.5;SE;SE;SE;$2.800;$10.000;$7.200;-1;20;12;2022
 5442;2022-12-20;VNT;Regular;1;Vidrio Templado;Samsung;A23;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;20;12;2022
 5443;2022-12-20;VNT;Regular;1;Forro Space;Samsung;A23;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;20;12;2022
@@ -5497,7 +5497,7 @@
 5496;2022-12-21;VNT;Regular;1;Cables;Generico;3 a 3 3m;RCA;SE;SE;SE;$2.500;$12.000;$9.500;-1;21;12;2022
 5497;2022-12-21;VNT;Regular;1;Pacha;Apple;iphone 6;SE;SE;SE;SE;$70.000;$125.000;$55.000;-1;21;12;2022
 5498;2022-12-21;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.271;$3.500;$229;-1;21;12;2022
-5499;2022-12-22;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP A02s;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;22;12;2022
+5499;2022-12-22;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A02s;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;22;12;2022
 5500;2022-12-22;VNT;Regular;1;Silicone Case;Apple;iphone 11;SE;SE;SE;SE;$7.000;$18.000;$11.000;-1;22;12;2022
 5501;2022-12-22;VNT;Regular;1;Rollo Cinta Led;Generico;RGB Cinta Led;SE;SE;SE;SE;$30.000;$45.000;$15.000;-1;22;12;2022
 5502;2022-12-22;VNT;Yarlot Cuervo;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.271;$3.500;$229;-1;22;12;2022
@@ -5579,9 +5579,9 @@
 5578;2022-12-23;CMP;TYD;3;Silicone Case;Xiaomi;Redmi A1;SE;SE;SE;SE;$10.000;$20.000;-$30.000;3;23;12;2022
 5579;2022-12-23;CMP;TYD;3;Silicone Case;Oppo;Reno 7;SE;SE;SE;SE;$10.000;$20.000;-$30.000;3;23;12;2022
 5580;2022-12-23;CMP;TYD;4;Silicone Case;Samsung;A04;SE;SE;SE;SE;$9.000;$20.000;-$36.000;4;23;12;2022
-5581;2022-12-23;CMP;TYD;1;Silicone Case;Xiaomi;Redmi 9T;SE;Arco Iris;SE;SE;$9.000;$20.000;-$9.000;1;23;12;2022
-5582;2022-12-23;CMP;TYD;1;Silicone Case;Xiaomi;Note 11;SE;Arco Iris;SE;SE;$9.000;$20.000;-$9.000;1;23;12;2022
-5583;2022-12-23;CMP;TYD;1;Silicone Case;Samsung;A13;SE;Arco Iris;SE;SE;$9.000;$20.000;-$9.000;1;23;12;2022
+5581;2022-12-23;CMP;TYD;1;Silicone Case;Xiaomi;Redmi 9T;SE;Arcoiris;SE;SE;$9.000;$20.000;-$9.000;1;23;12;2022
+5582;2022-12-23;CMP;TYD;1;Silicone Case;Xiaomi;Note 11;SE;Arcoiris;SE;SE;$9.000;$20.000;-$9.000;1;23;12;2022
+5583;2022-12-23;CMP;TYD;1;Silicone Case;Samsung;A13;SE;Arcoiris;SE;SE;$9.000;$20.000;-$9.000;1;23;12;2022
 5584;2022-12-23;CMP;TYD;15;Vidrio Templado;Varios;Surtidos ;SE;SE;SE;SE;$1.100;$10.000;-$16.500;15;23;12;2022
 5585;2022-12-23;CMP;TYD;1;Parlantes;Karmabeo;CB-2634BT con Aro;USB y JackPlug;SE;SE;SE;$32.000;$65.000;-$32.000;1;23;12;2022
 5586;2022-12-23;CMP;TYD;1;Forro Space;Samsung;A23 4G;SE;SE;SE;SE;$7.000;$20.000;-$7.000;1;23;12;2022
@@ -6041,7 +6041,7 @@
 6040;2023-01-10;VNT;Regular;1;Forro Audifonos;Apple;inpods 12;SE;SE;SE;SE;$8.500;$15.000;$6.500;-1;10;1;2023
 6041;2023-01-10;VNT;Jose Cuervo;1;Cables;Generico;HDMI 5 Metros;SE;SE;SE;SE;$7.600;$17.000;$9.400;-1;10;1;2023
 6042;2023-01-10;VNT;Regular;1;Cables;Caterpillar;5A;SE;SE;SE;SE;$5.500;$15.000;$9.500;-1;10;1;2023
-6043;2023-01-10;VNT;Yobani Martinez;1;Servicio Tecnico;Samsung;FRP M12;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;1;2023
+6043;2023-01-10;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP M12;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;1;2023
 6044;2023-01-11;VNT;Regular;1;Servicio Tecnico;Samsung;Pin de Carga A10s;SE;SE;SE;SE;$0;$20.000;$20.000;-1;11;1;2023
 6045;2023-01-11;VNT;Regular;1;Manos Libres;Speak;Speak Colors;Plug 3.5;SE;SE;SE;$3.000;$10.000;$7.000;-1;11;1;2023
 6046;2023-01-11;VNT;Regular;1;Forro Diseños;Samsung;J5;SE;SE;SE;SE;$4.000;$10.000;$6.000;-1;11;1;2023
@@ -6504,7 +6504,7 @@
 6503;2023-01-20;CMP;Pompas;23;Forro Diseños;Varios;Surtidos ;SE;SE;SE;SE;$3.800;$10.000;-$87.400;23;20;1;2023
 6504;2023-01-20;CMP;Chicago 107;1;Teclados;Seisa;Teclado Gamer Eco;SE;SE;SE;SE;$16.000;$30.000;-$16.000;1;20;1;2023
 6505;2023-01-20;CMP;Chicago 107;2;Memorias;Ramitech;Micro 16gb;SE;SE;SE;SE;$13.500;$30.000;-$27.000;2;20;1;2023
-6506;2023-01-20;CMP;Chicago 107;2;Memorias;Ramitech;Mocro 32GB;SE;SE;SE;SE;$15.500;$35.000;-$31.000;2;20;1;2023
+6506;2023-01-20;CMP;Chicago 107;2;Memorias;Ramitech;Micro 32GB;SE;SE;SE;SE;$15.500;$35.000;-$31.000;2;20;1;2023
 6507;2023-01-20;CMP;Chicago 107;1;Balacas;Ramitech;Balaca 607 conf;SE;SE;SE;SE;$14.000;$30.000;-$14.000;1;20;1;2023
 6508;2023-01-20;CMP;Chicago 107;1;Parlantes;Sonivox;Redio de bolsillo 321;USB y JackPlug;SE;SE;SE;$19.000;$35.000;-$19.000;1;20;1;2023
 6509;2023-01-20;CMP;Chicago 107;1;Parlantes;Sonivox;Redio de bolsillo 106;USB y JackPlug;SE;SE;SE;$18.000;$35.000;-$18.000;1;20;1;2023
@@ -8212,7 +8212,7 @@
 8211;2023-03-20;VNT;Regular;1;Forro Audifonos;Apple;inpods 12;SE;SE;SE;Nequi;$8.000;$15.000;$7.000;-1;20;3;2023
 8212;2023-03-20;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;20;3;2023
 8213;2023-03-20;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;Nequi;$800;$5.000;$4.200;-1;20;3;2023
-8214;2023-03-20;VNT;Regular;1;Pop Socket;Generico;Pop socket;SE;hello kitty;SE;Nequi;$1.800;$5.000;$3.200;-1;20;3;2023
+8214;2023-03-20;VNT;Regular;1;Pop Socket;Generico;Pop socket;SE;Blanco;SE;hello kitty;$1.800;$5.000;$3.200;-1;20;3;2023
 8215;2023-03-20;VNT;Regular;1;Vidrio Templado;Samsung;A21s;SE;SE;SE;Nequi;$1.100;$10.000;$8.900;-1;20;3;2023
 8216;2023-03-20;VNT;Regular;1;Servicio Tecnico;Samsung;FRP A21s;SE;SE;Software RX;SE;$0;$20.000;$20.000;-1;20;3;2023
 8217;2023-03-20;VNT;Regular;1;Control Gamer;Sony;PS2;SE;SE;SE;SE;$13.000;$29.000;$16.000;-1;20;3;2023
@@ -8233,7 +8233,7 @@
 8232;2023-03-20;VNT;Regular;1;Cables;Batri;V8 Suelto;SE;SE;SE;SE;$2.000;$10.000;$8.000;-1;20;3;2023
 8233;2023-03-20;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;20;3;2023
 8234;2023-03-20;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$6.074;$6.500;$426;-1;20;3;2023
-8235;2023-03-20;VNT;Regular;1;Silicone Case;Oppo;A57;SE;Rosado;SE;SE;$9.500;$20.000;$10.500;-1;20;3;2023
+8235;2023-03-20;VNT;Regular;1;Silicone Case;Oppo;A57;SE;Rosa;SE;SE;$9.500;$20.000;$10.500;-1;20;3;2023
 8236;2023-03-20;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;20;3;2023
 8237;2023-03-20;VNT;Regular;1;Recargas;Claro;Saldo Claro;SE;SE;SE;SE;$1.868;$2.000;$132;-1;20;3;2023
 8238;2023-03-20;VNT;Regular;1;Cables;Batri;V8 Suelto;SE;SE;SE;SE;$2.000;$10.000;$8.000;-1;20;3;2023
@@ -8290,7 +8290,7 @@
 8289;2023-03-21;VNT;Regular;1;Camara;Generico;Camara Bombillo;SE;SE;SE;SE;$68.000;$90.000;$22.000;-1;21;3;2023
 8290;2023-03-21;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;21;3;2023
 8291;2023-03-21;VNT;Regular;1;Servicio Tecnico;Generico;Revision PC;SE;SE;SE;SE;$0;$15.000;$15.000;-1;21;3;2023
-8292;2023-03-21;VNT;Regular;1;Silicone Case;Xiaomi;Redmi 9a;SE;Azul Cielo;SE;SE;$10.000;$18.000;$8.000;-1;21;3;2023
+8292;2023-03-21;VNT;Regular;1;Silicone Case;Xiaomi;Redmi 9a;SE;AzulCielo;SE;SE;$10.000;$18.000;$8.000;-1;21;3;2023
 8293;2023-03-21;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Redmi 9a;SE;SE;SE;SE;$900;$10.000;$9.100;-1;21;3;2023
 8294;2023-03-21;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;21;3;2023
 8295;2023-03-21;VNT;Regular;1;Servicio Tecnico;Xiaomi;FRP Note 11;SE;SE;Software RX;SE;$0;$25.000;$25.000;-1;21;3;2023
@@ -8316,8 +8316,8 @@
 8315;2023-03-22;CMP;Tigers Nodo;1;Camara;Generico;Camara Bombillo;SE;SE;SE;SE;$68.000;$99.000;-$68.000;1;22;3;2023
 8316;2023-03-22;CMP;Tigers Nodo;1;Humificador;Generico;Humidificador Bombillo;SE;SE;SE;SE;$20.000;$35.000;-$20.000;1;22;3;2023
 8317;2023-03-22;CMP;TYD;21;Forro Diseños;Varios;Surtidos ;SE;SE;SE;SE;$3.300;$10.000;-$69.300;21;22;3;2023
-8318;2023-03-22;CMP;TYD;1;Silicone Case;Motorola;Moto One Fusion;SE;Azul Cielo;SE;SE;$7.500;$20.000;-$7.500;1;22;3;2023
-8319;2023-03-22;CMP;TYD;1;Silicone Case;Xiaomi;Redmi 9a;SE;Azul Cielo;SE;SE;$7.500;$20.000;-$7.500;1;22;3;2023
+8318;2023-03-22;CMP;TYD;1;Silicone Case;Motorola;Moto One Fusion;SE;AzulCielo;SE;SE;$7.500;$20.000;-$7.500;1;22;3;2023
+8319;2023-03-22;CMP;TYD;1;Silicone Case;Xiaomi;Redmi 9a;SE;AzulCielo;SE;SE;$7.500;$20.000;-$7.500;1;22;3;2023
 8320;2023-03-22;CMP;TYD;5;Silicone Case;Samsung;S20 FE;SE;SE;SE;SE;$7.500;$20.000;-$37.500;5;22;3;2023
 8321;2023-03-22;CMP;TYD;5;Vidrio Templado;Huawei;P10 Lite;SE;blanco;SE;SE;$1.000;$10.000;-$5.000;5;22;3;2023
 8322;2023-03-22;CMP;Andres Capital;15;Vidrio Templado;Varios;Surtidos ;SE;SE;SE;SE;$900;$10.000;-$13.500;15;22;3;2023
@@ -8436,13 +8436,13 @@
 8435;2023-03-26;VNT;Regular;1;Teclados;joma;Minikeyboard;SE;SE;SE;SE;$18.000;$32.000;$14.000;-1;26;3;2023
 8436;2023-03-26;VNT;Regular;1;Servicio Tecnico;Xiaomi;Mantenimiento Note 11;SE;SE;SE;SE;$0;$10.000;$10.000;-1;26;3;2023
 8437;2023-03-26;VNT;Regular;1;Servicio Tecnico;Xiaomi;Mantenimiento Note 11;SE;SE;SE;SE;$0;$10.000;$10.000;-1;26;3;2023
-8438;2023-03-26;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;$17.000;-1;26;3;2023
+8438;2023-03-26;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;$17.000;-1;26;3;2023
 8439;2023-03-26;VNT;Regular;1;Forro Diseños;Xiaomi;Redmi 9C;SE;Caballero;SE;SE;$3.500;$10.000;$6.500;-1;26;3;2023
 8440;2023-03-26;VNT;Regular;1;Servicio Tecnico;Generico;Sist Carga Parlante;SE;SE;SE;SE;$1.000;$20.000;$19.000;-1;26;3;2023
 8441;2023-03-26;VNT;Regular;1;Cables;Sony;Ps2;SE;SE;SE;SE;$3.000;$12.000;$9.000;-1;26;3;2023
 8442;2023-03-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;26;3;2023
 8443;2023-03-26;VNT;Regular;1;Vidrio Templado;Xiaomi;Note 10s;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;26;3;2023
-8444;2023-03-26;VNT;Regular;1;Llaveros;Generico;Llaveros Loony Toons;SE;Marciano;SE;SE;$6.500;$15.000;$8.500;-1;26;3;2023
+8444;2023-03-26;VNT;Regular;1;Llaveros;Generico;Llaveros Loony Toons;SE;Verde;SE;Marciano;$6.500;$15.000;$8.500;-1;26;3;2023
 8445;2023-03-26;VNT;Regular;1;Forro Space;Xiaomi;Redmi Note 9;SE;SE;SE;SE;$7.000;$18.000;$11.000;-1;26;3;2023
 8446;2023-03-26;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Redmi Note 9;SE;SE;SE;SE;$900;$10.000;$9.100;-1;26;3;2023
 8447;2023-03-26;VNT;Regular;1;Manos Libres;Samsung;Bolsa;Plug 3.5;Negro;SE;SE;$3.500;$12.000;$8.500;-1;26;3;2023
@@ -8461,7 +8461,7 @@
 8460;2023-03-27;CMP;Joma;1;Balacas;ZW;ZW-058;SE;SE;SE;SE;$25.000;$55.000;-$25.000;1;27;3;2023
 8461;2023-03-27;CMP;Joma;3;Aro de Luz;joma;26cm;SE;SE;SE;SE;$38.000;$65.000;-$114.000;3;27;3;2023
 8462;2023-03-27;CMP;Joma;1;Control Gamer;Sony;PS4 Fifa;SE;SE;SE;SE;$60.000;$90.000;-$60.000;1;27;3;2023
-8463;2023-03-27;CMP;Joma;2;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;-$36.000;2;27;3;2023
+8463;2023-03-27;CMP;Joma;2;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;-$36.000;2;27;3;2023
 8464;2023-03-27;CMP;Joma;3;Audifonos Bluethooth;Apple;inpods 12;SE;Negro;SE;SE;$18.000;$35.000;-$54.000;3;27;3;2023
 8465;2023-03-27;CMP;EKADY;1;Pacha;Xiaomi;Redmi Note 9;SE;SE;SE;SE;$65.000;$120.000;-$65.000;1;27;3;2023
 8466;2023-03-27;CMP;EKADY;2;Bateria;Samsung;J5 Original;SE;SE;SE;SE;$17.000;$35.000;-$34.000;2;27;3;2023
@@ -8740,7 +8740,7 @@
 8739;2023-04-05;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;5;4;2023
 8740;2023-04-05;VNT;Regular;1;Pacha;Huawei;Y6p;SE;SE;SE;SE;$80.000;$145.000;$65.000;-1;5;4;2023
 8741;2023-04-05;VNT;Regular;1;Vidrio Ceramico;Huawei;Y6p;SE;SE;SE;Por Pacha;$2.000;$5.000;$3.000;-1;5;4;2023
-8742;2023-04-05;VNT;Regular;1;Silicone Case;Huawei;Y6p;SE;Azul Claro;SE;SE;$6.500;$20.000;$13.500;-1;5;4;2023
+8742;2023-04-05;VNT;Regular;1;Silicone Case;Huawei;Y6p;SE;AzulClaro;SE;SE;$6.500;$20.000;$13.500;-1;5;4;2023
 8743;2023-04-05;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$4.000;$3.200;-1;5;4;2023
 8744;2023-04-05;VNT;Regular;1;Cargadores;DIGO;v8;SE;SE;SE;SE;$3.000;$9.000;$6.000;-1;5;4;2023
 8745;2023-04-05;VNT;Regular;1;Cargadores;Harvic;pluyin 3.4a;SE;SE;SE;SE;$12.000;$25.000;$13.000;-1;5;4;2023
@@ -9036,7 +9036,7 @@
 9035;2023-04-13;VNT;Regular;1;Tableta;Tigers;TG-712 Kids;SE;SE;SE;SE;$165.000;$200.000;$35.000;-1;13;4;2023
 9036;2023-04-13;VNT;Regular;1;Silicone Case;Xiaomi;Redmi 12C;SE;SE;SE;SE;$10.500;$20.000;$9.500;-1;13;4;2023
 9037;2023-04-13;VNT;Regular;1;Memorias;Kingstone;Micro 4GB;SE;SE;SE;SE;$7.000;$15.000;$8.000;-1;13;4;2023
-9038;2023-04-13;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;$17.000;-1;13;4;2023
+9038;2023-04-13;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;$17.000;-1;13;4;2023
 9039;2023-04-13;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$14.952;$16.000;$1.048;-1;13;4;2023
 9040;2023-04-13;VNT;Regular;1;Pacha;Samsung;A30 / A50 c/m;SE;SE;SE;SE;$70.000;$135.000;$65.000;-1;13;4;2023
 9041;2023-04-13;VNT;Regular;1;Vidrio Sencillo;Samsung;A21s;SE;SE;SE;SE;$800;$5.000;$4.200;-1;13;4;2023
@@ -9112,7 +9112,7 @@
 9111;2023-04-15;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$3.270;$3.500;$230;-1;15;4;2023
 9112;2023-04-15;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;15;4;2023
 9113;2023-04-15;VNT;Regular;1;Memorias;Musica;Trio del despecho;SE;SE;SE;SE;$4.000;$9.000;$5.000;-1;15;4;2023
-9114;2023-04-15;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;$17.000;-1;15;4;2023
+9114;2023-04-15;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;$17.000;-1;15;4;2023
 9115;2023-04-15;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;Plug 3.5;SE;SE;SE;$2.600;$10.000;$7.400;-1;15;4;2023
 9116;2023-04-15;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$3.270;$3.500;$230;-1;15;4;2023
 9117;2023-04-15;VNT;Regular;1;Pila Reloj;Beston;LR-44;SE;SE;SE;SE;$350;$3.000;$2.650;-1;15;4;2023
@@ -9302,7 +9302,7 @@
 9301;2023-04-20;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$3.270;$3.500;$230;-1;20;4;2023
 9302;2023-04-20;VNT;Regular;1;Simcard;Tigo;Simcard Tigo;SE;SE;SE;SE;$0;$4.000;$4.000;-1;20;4;2023
 9303;2023-04-20;VNT;Regular;1;Celular;Nokia;C10;SE;SE;SE;SE;$135.000;$290.000;$155.000;-1;20;4;2023
-9304;2023-04-21;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A11;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;21;4;2023
+9304;2023-04-21;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A11;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;21;4;2023
 9305;2023-04-21;VNT;Giovany Martinez;1;Servicio Tecnico;Xiaomi;FRP Note 9;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;21;4;2023
 9306;2023-04-21;VNT;Regular;1;Servicio Tecnico;Samsung;FRP A21s;SE;SE;Software RX;SE;$0;$25.000;$25.000;-1;21;4;2023
 9307;2023-04-21;VNT;Regular;1;Vidrio Sencillo;Huawei;P8 Lite;SE;SE;SE;SE;$800;$5.000;$4.200;-1;21;4;2023
@@ -9428,7 +9428,7 @@
 9427;2023-04-25;VNT;Regular;1;Forro PC;Generico;PC Neopreno ;SE;SE;SE;SE;$11.000;$24.000;$13.000;-1;25;4;2023
 9428;2023-04-25;VNT;Regular;1;Video Juegos;Sony;ps2 dragon ball;SE;SE;SE;SE;$1.200;$4.000;$2.800;-1;25;4;2023
 9429;2023-04-25;VNT;Regular;1;Video Juegos;Sony;ps2 call of duty;SE;SE;SE;SE;$1.200;$4.000;$2.800;-1;25;4;2023
-9430;2023-04-25;VNT;Regular;1;Silicone Case;Xiaomi;Redmi 9;SE;Azul Oscuro;SE;SE;$8.000;$20.000;$12.000;-1;25;4;2023
+9430;2023-04-25;VNT;Regular;1;Silicone Case;Xiaomi;Redmi 9;SE;AzulOscuro;SE;SE;$8.000;$20.000;$12.000;-1;25;4;2023
 9431;2023-04-25;VNT;Regular;1;Hydrogel;Oppo;Reno 7;SE;SE;SE;Comprado con la maquina;$0;$15.000;$15.000;-1;25;4;2023
 9432;2023-04-25;VNT;Regular;1;Cargadores;Belkin;TC;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;25;4;2023
 9433;2023-04-25;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulClaro;SE;SE;$18.000;$35.000;$17.000;-1;25;4;2023
@@ -9528,7 +9528,7 @@
 9527;2023-04-29;VNT;Regular;1;Vidrio Templado;Samsung;A21s;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;29;4;2023
 9528;2023-04-29;VNT;Regular;1;Silicone Case;Samsung;A21s;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;29;4;2023
 9529;2023-04-29;VNT;Regular;1;Silicone Case;Oppo;Reno 6 Lite;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;29;4;2023
-9530;2023-04-29;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;$17.000;-1;29;4;2023
+9530;2023-04-29;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;$17.000;-1;29;4;2023
 9531;2023-04-29;VNT;Regular;1;Audifonos Bluethooth;Generico;M10;SE;SE;SE;SE;$40.000;$75.000;$35.000;-1;29;4;2023
 9532;2023-04-29;VNT;Regular;1;Cables;Batri;V8;SE;SE;SE;SE;$2.000;$10.000;$8.000;-1;29;4;2023
 9533;2023-04-29;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;Plug 3.5;SE;SE;SE;$2.600;$10.000;$7.400;-1;29;4;2023
@@ -9878,7 +9878,7 @@
 9877;2023-05-09;VNT;Regular;1;Plancha;Generico;Mini Plancha;SE;Azul;SE;SE;$8.000;$22.000;$14.000;-1;9;5;2023
 9878;2023-05-09;VNT;Regular;1;Consola;SUP;SUP con Control;SE;gris;SE;SE;$29.000;$55.000;$26.000;-1;9;5;2023
 9879;2023-05-09;VNT;Regular;1;Silicone Case;Xiaomi;Redmi note 8;SE;Lila;SE;SE;$8.000;$20.000;$12.000;-1;9;5;2023
-9880;2023-05-09;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Oscuro;SE;SE;$18.000;$35.000;$17.000;-1;9;5;2023
+9880;2023-05-09;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$18.000;$35.000;$17.000;-1;9;5;2023
 9881;2023-05-09;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;9;5;2023
 9882;2023-05-09;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;9;5;2023
 9883;2023-05-09;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;9;5;2023
@@ -9899,7 +9899,7 @@
 9898;2023-05-10;VNT;Regular;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$4.000;$4.000;-1;10;5;2023
 9899;2023-05-10;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;10;5;2023
 9900;2023-05-10;VNT;Regular;1;Cables;Batri;V8 eco;SE;SE;SE;SE;$2.000;$10.000;$8.000;-1;10;5;2023
-9901;2023-05-10;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A31;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;10;5;2023
+9901;2023-05-10;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP A31;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;10;5;2023
 9902;2023-05-10;VNT;Giovany Martinez;1;Servicio Tecnico;Samsung;FRP Moto G30;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;10;5;2023
 9903;2023-05-11;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;11;5;2023
 9904;2023-05-11;VNT;yineth obrera;1;Plancha;babyliss;Plancha Combo;SE;SE;SE;SE;$40.000;$60.000;$20.000;-1;11;5;2023
@@ -10048,7 +10048,7 @@
 10047;2023-05-16;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;16;5;2023
 10048;2023-05-16;VNT;Regular;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$6.000;$6.000;-1;16;5;2023
 10049;2023-05-16;VNT;Regular;1;Control TV;Generico;Universal TV plano;SE;SE;SE;SE;$7.500;$15.000;$7.500;-1;16;5;2023
-10050;2023-05-16;VNT;Giovany Martinez;1;Servicio Tecnico;Xiaomi;FRP Poco X3;SE;SE;Software RX;SE;$0;$10.000;$10.000;-1;16;5;2023
+10050;2023-05-16;VNT;Giovany Martinez;1;Servicio Tecnico;Xiaomi;FRP Poco X3;SE;SE;Software RX;Lote;$0;$10.000;$10.000;-1;16;5;2023
 10051;2023-05-16;VNT;Giovany Martinez;1;Servicio Tecnico;LG;FRP Lg K42s;SE;SE;Software RX;SE;$0;$15.000;$15.000;-1;16;5;2023
 10052;2023-05-17;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$7.008;$7.500;$492;-1;17;5;2023
 10053;2023-05-17;VNT;Regular;1;Servicio Tecnico;Generico;Prestar Wifi;SE;SE;SE;SE;$0;$2.000;$2.000;-1;17;5;2023
@@ -10078,7 +10078,7 @@
 10077;2023-05-17;VNT;Regular;1;Videojuegos;Microsoft;Surtidos ;SE;SE;SE;SE;$2.200;$7.000;$4.800;-1;17;5;2023
 10078;2023-05-17;VNT;Regular;1;Videojuegos;Microsoft;Surtidos ;SE;SE;SE;SE;$2.200;$7.000;$4.800;-1;17;5;2023
 10079;2023-05-18;VNT;Regular;1;Silicone Case;Xiaomi;Note 11;SE;Rojo;SE;SE;$8.000;$20.000;$12.000;-1;18;5;2023
-10080;2023-05-18;VNT;Regular;1;Hydrogel;Xiaomi;Note 10s;SE;back;SE;Comprado con la maquina;$0;$18.000;$18.000;-1;18;5;2023
+10080;2023-05-18;VNT;Regular;1;Hydrogel;Xiaomi;Note 10s;SE;Negro;SE;Comprado con la maquina;$0;$18.000;$18.000;-1;18;5;2023
 10081;2023-05-18;VNT;Regular;1;Silicone Case;Vivo;Y53s;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;18;5;2023
 10082;2023-05-18;VNT;Regular;1;Vidrio Templado;Vivo;Y53s;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;18;5;2023
 10083;2023-05-18;VNT;Regular;1;Servicio Tecnico;Generico;Pin de carga Parlante;SE;SE;SE;SE;$0;$25.000;$25.000;-1;18;5;2023
@@ -10193,7 +10193,7 @@
 10192;2023-05-22;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$10.279;$11.000;$721;-1;22;5;2023
 10193;2023-05-22;VNT;Regular;1;Hydrogel;Samsung;A33;SE;SE;SE;Comprado con la maquina;$0;$15.000;$15.000;-1;22;5;2023
 10194;2023-05-22;VNT;Regular;1;Silicone Case;Samsung;A33;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;22;5;2023
-10195;2023-05-22;VNT;Regular;1;Forro Tablet;Generico;Unicolor 10 Pulgadas 360º;SE;Azul Oscuro;SE;SE;$18.000;$35.000;$17.000;-1;22;5;2023
+10195;2023-05-22;VNT;Regular;1;Forro Tablet;Generico;Unicolor 10 Pulgadas 360º;SE;AzulOscuro;SE;SE;$18.000;$35.000;$17.000;-1;22;5;2023
 10196;2023-05-22;VNT;Regular;1;Servicio Tecnico;Xiaomi;FRP Note 10s;SE;SE;Software RX;SE;$0;$25.000;$25.000;-1;22;5;2023
 10197;2023-05-22;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Note 10s;SE;SE;SE;por FRP;$900;$5.000;$4.100;-1;22;5;2023
 10198;2023-05-22;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;22;5;2023
@@ -10320,7 +10320,7 @@
 10319;2023-05-24;VNT;Regular;1;Cargadores;Generico;Bahia sin Pantalla;SE;SE;SE;SE;$3.000;$9.000;$6.000;-1;24;5;2023
 10320;2023-05-24;VNT;Regular;1;Cables;Generico;HDMI 3m;SE;SE;SE;SE;$5.500;$14.000;$8.500;-1;24;5;2023
 10321;2023-05-24;VNT;Regular;1;Servicio Tecnico;Movistar;Paquetes Movistar;SE;SE;SE;Portal Asesora;$0;$6.000;$6.000;-1;24;5;2023
-10322;2023-05-24;VNT;Regular;1;Silicone Case;Xiaomi;Redmi A1;SE;Rosado;SE;SE;$10.000;$20.000;$10.000;-1;24;5;2023
+10322;2023-05-24;VNT;Regular;1;Silicone Case;Xiaomi;Redmi A1;SE;Rosa;SE;SE;$10.000;$20.000;$10.000;-1;24;5;2023
 10323;2023-05-24;VNT;Regular;1;Vidrio Templado;Xiaomi;Redmi A1;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;24;5;2023
 10324;2023-05-24;VNT;Regular;1;Vidrio Templado;Huawei;Y6p;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;24;5;2023
 10325;2023-05-24;VNT;Regular;1;Balacas;QYS;QYS-05;SE;SE;SE;SE;$37.000;$63.000;$26.000;-1;24;5;2023
@@ -10666,7 +10666,7 @@
 10665;2023-05-31;CMP;Ovidio;2;Manos Libres;Batri;B10;Plug 3.5;SE;SE;SE;$7.500;$20.000;-$15.000;2;31;5;2023
 10666;2023-06-04;VNT;Regular;1;Vidrio Sencillo;Samsung;A12;SE;SE;SE;SE;$800;$5.000;$4.200;-1;4;6;2023
 10667;2023-05-31;CMP;EKADY;1;Pacha;Motorola;G7 Power;SE;SE;SE;SE;$90.000;$150.000;-$90.000;1;31;5;2023
-10668;2023-05-31;CMP;EKADY;1;Pacha;Samsung;J7;SE;Blanca;SE;SE;$58.000;$115.000;-$58.000;1;31;5;2023
+10668;2023-05-31;CMP;EKADY;1;Pacha;Samsung;J7;SE;Blanco;SE;SE;$58.000;$115.000;-$58.000;1;31;5;2023
 10669;2023-05-31;CMP;EKADY;1;Pacha;Huawei;Y5 II;SE;SE;SE;SE;$45.000;$110.000;-$45.000;1;31;5;2023
 10670;2023-05-31;CMP;EKADY;1;Bateria;Huawei;P10 Lite / Psmart / Y7 2018 / P9 Lite / P20 Lite;SE;SE;SE;SE;$20.000;$45.000;-$20.000;1;31;5;2023
 10671;2023-05-31;CMP;Chicago 107;3;Adaptadores;Generico;OTG V3;SE;SE;SE;SE;$2.000;$9.000;-$6.000;3;31;5;2023
@@ -10838,7 +10838,7 @@
 10837;2023-06-08;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;8;6;2023
 10838;2023-06-08;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;8;6;2023
 10839;2023-06-08;VNT;Regular;1;Recargas;Tigo;Saldo Tigo;SE;SE;SE;SE;$2.803;$3.000;$197;-1;8;6;2023
-10840;2023-06-08;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;A21s;SE;SE;$6.000;$14.000;$8.000;-1;8;6;2023
+10840;2023-06-08;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;Dama;SE;SE;$6.000;$14.000;$8.000;-1;8;6;2023
 10841;2023-06-08;VNT;Regular;1;Cables;Tmax;TC arcoiris;SE;SE;SE;SE;$5.000;$15.000;$10.000;-1;8;6;2023
 10842;2023-06-08;VNT;Regular;1;Lampara;Generico;Lampara Astronauta;SE;SE;SE;SE;$13.000;$22.000;$9.000;-1;8;6;2023
 10843;2023-06-08;VNT;Regular;1;Pacha;Samsung;A10s c/m;SE;SE;SE;SE;$65.000;$125.000;$60.000;-1;8;6;2023
@@ -11359,7 +11359,7 @@
 11358;2023-06-23;CMP;Ovidio;2;Forro Gamuza;Xiaomi;Note 11;SE;SE;SE;SE;$6.000;$12.000;-$12.000;2;23;6;2023
 11359;2023-06-24;VNT;Regular;1;Silicone Case;Xiaomi;Note 12s;SE;SE;SE;SE;$12.500;$24.000;$11.500;-1;24;6;2023
 11360;2023-06-24;VNT;Regular;1;Hydrogel;Xiaomi;Note 12s;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;24;6;2023
-11361;2023-06-24;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Rosado;SE;SE;$16.000;$35.000;$19.000;-1;24;6;2023
+11361;2023-06-24;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Rosa;SE;SE;$16.000;$35.000;$19.000;-1;24;6;2023
 11362;2023-06-24;VNT;Regular;1;Memorias;Kingstone;USB 4GB;SE;SE;SE;SE;$7.500;$15.000;$7.500;-1;24;6;2023
 11363;2023-06-24;VNT;Regular;1;Servicio Tecnico;Generico;Grabacion de publicidad con Conversion;SE;SE;SE;SE;$0;$5.000;$5.000;-1;24;6;2023
 11364;2023-06-24;VNT;Regular;1;Servicio Tecnico;Huawei;Pin de Carga Y7 2019;SE;SE;SE;SE;$0;$20.000;$20.000;-1;24;6;2023
@@ -11525,7 +11525,7 @@
 11524;2023-06-29;CMP;EKADY;1;Pacha;Huawei;Honor 8X Full;SE;SE;SE;SE;$75.000;$140.000;-$75.000;1;29;6;2023
 11525;2023-06-29;CMP;EKADY;1;Pacha;Samsung;A30 / A50 c/m;SE;SE;SE;SE;$70.000;$135.000;-$70.000;1;29;6;2023
 11526;2023-06-29;VNT;Regular;1;Guantes Gamer;Generico;WN-Z13;SE;SE;SE;SE;$3.000;$10.000;$7.000;-1;29;6;2023
-11527;2023-06-29;VNT;Regular;1;Forro Audifonos;Apple;inpods 12;SE;Galleta ojos;SE;SE;$6.500;$15.000;$8.500;-1;29;6;2023
+11527;2023-06-29;VNT;Regular;1;Forro Audifonos;Apple;inpods 12;SE;Negro;SE;Galleta ojos;$6.500;$15.000;$8.500;-1;29;6;2023
 11528;2023-06-29;VNT;Regular;1;Vidrio Templado;Samsung;A13;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;29;6;2023
 11529;2023-06-29;VNT;Regular;1;Silicone Case;Samsung;A13;SE;Verde;SE;SE;$8.000;$20.000;$12.000;-1;29;6;2023
 11530;2023-06-29;VNT;Regular;1;Video Juegos;Sony;GTA V;SE;SE;SE;SE;$1.000;$5.000;$4.000;-1;29;6;2023
@@ -11552,7 +11552,7 @@
 11551;2023-06-30;CMP;EKADY;1;Pacha;Motorola;Moto G5s;SE;SE;SE;SE;$60.000;$120.000;-$60.000;1;30;6;2023
 11552;2023-06-30;VNT;Regular;1;Pacha;Xiaomi;Redmi 10;SE;SE;SE;SE;$65.000;$139.000;$74.000;-1;30;6;2023
 11553;2023-06-30;VNT;Regular;1;Vidrio Ceramico;Xiaomi;Redmi 10;SE;SE;SE;SE;$900;$6.000;$5.100;-1;30;6;2023
-11554;2023-06-30;CMP;Yoyos Caracas;2;Forro Space;Apple;iphone 11;SE;Colors;SE;SE;$6.500;$20.000;-$13.000;2;30;6;2023
+11554;2023-06-30;CMP;Yoyos Caracas;2;Forro Space;Apple;iphone 11;SE;Colores;SE;SE;$6.500;$20.000;-$13.000;2;30;6;2023
 11555;2023-06-30;CMP;Yoyos Caracas;3;Forro Diseños;Motorola;Moto G8 Plus;SE;Dama;SE;SE;$3.500;$10.000;-$10.500;3;30;6;2023
 11556;2023-06-30;CMP;Yoyos Caracas;1;Silicone Case;Xiaomi;Note 9s;SE;SE;SE;SE;$8.000;$20.000;-$8.000;1;30;6;2023
 11557;2023-06-30;CMP;Yoyos Caracas;1;Silicone Case;Apple;iphone 12;SE;Morado;SE;SE;$7.500;$18.000;-$7.500;1;30;6;2023
@@ -11654,7 +11654,7 @@
 11653;2023-07-01;VNT;Regular;1;Balacas;sony;XB-400 ;SE;SE;SE;SE;$30.000;$53.000;$23.000;-1;1;7;2023
 11654;2023-07-01;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;1;7;2023
 11655;2023-07-01;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;1;7;2023
-11656;2023-07-01;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;Moto E13;SE;SE;$6.000;$14.000;$8.000;-1;1;7;2023
+11656;2023-07-01;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;Dama;SE;SE;$6.000;$14.000;$8.000;-1;1;7;2023
 11657;2023-07-01;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;1;7;2023
 11658;2023-07-01;VNT;Regular;1;Forro Diseños;Motorola;Moto E20;SE;SE;SE;SE;$3.500;$10.000;$6.500;-1;1;7;2023
 11659;2023-07-01;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$3.270;$3.500;$230;-1;1;7;2023
@@ -11869,7 +11869,7 @@
 11868;2023-07-07;VNT;Regular;1;Hydrogel;Oppo;A57;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;7;7;2023
 11869;2023-07-07;VNT;Regular;1;Forro Space;Apple;iphone 14;SE;SE;SE;SE;$7.000;$20.000;$13.000;-1;7;7;2023
 11870;2023-07-07;VNT;Regular;1;Plancha;Babyliss;Plancha Combo;SE;SE;SE;SE;$40.000;$65.000;$25.000;-1;7;7;2023
-11871;2023-07-07;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Rosado;SE;SE;$16.000;$35.000;$19.000;-1;7;7;2023
+11871;2023-07-07;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Rosa;SE;SE;$16.000;$35.000;$19.000;-1;7;7;2023
 11872;2023-07-07;CMP;EKADY;1;Pacha;Xiaomi;Note 10s;SE;SE;SE;SE;$65.000;$130.000;-$65.000;1;7;7;2023
 11873;2023-07-07;CMP;EKADY;1;Pacha;Huawei;Mate 20 Lite;SE;SE;SE;SE;$65.000;$130.000;-$65.000;1;7;7;2023
 11874;2023-07-06;CMP;VPG Sas;1;Parlantes;Generico;Barra de Sonido 7711;USB y JackPlug;Rock;SE;SE;$56.000;$95.000;-$56.000;1;6;7;2023
@@ -12080,7 +12080,7 @@
 12079;2023-07-14;VNT;Regular;1;Silicone Case;Huawei;Y9 Prime;SE;Amarillo;SE;SE;$9.000;$20.000;$11.000;-1;14;7;2023
 12080;2023-07-14;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;14;7;2023
 12081;2023-07-14;VNT;Regular;1;Forro Acrigel;Motorola;Moto E40;SE;SE;SE;SE;$6.000;$10.000;$4.000;-1;14;7;2023
-12082;2023-07-14;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;Moto E40;SE;SE;$6.000;$14.000;$8.000;-1;14;7;2023
+12082;2023-07-14;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;Dama;SE;Moto E40;$6.000;$14.000;$8.000;-1;14;7;2023
 12083;2023-07-14;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;14;7;2023
 12084;2023-07-15;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;Plug 3.5;SE;SE;SE;$2.800;$10.000;$7.200;-1;15;7;2023
 12085;2023-07-15;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;15;7;2023
@@ -12165,12 +12165,12 @@
 12164;2023-07-17;VNT;Regular;1;Rollo Cinta Led;Generico;RGB Cinta Led sin Cargador;SE;SE;SE;SE;$23.000;$39.000;$16.000;-1;17;7;2023
 12165;2023-07-17;VNT;Regular;1;Bandeja Sim;Apple;iphone Xs;SE;SE;SE;SE;$10.000;$20.000;$10.000;-1;17;7;2023
 12166;2023-07-17;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;17;7;2023
-12167;2023-07-17;VNT;Regular;1;Forro Diseños;Samsung;A21s;SE;dama;SE;SE;$3.800;$10.000;$6.200;-1;17;7;2023
+12167;2023-07-17;VNT;Regular;1;Forro Diseños;Samsung;A21s;SE;Dama;SE;SE;$3.800;$10.000;$6.200;-1;17;7;2023
 12168;2023-07-17;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;17;7;2023
 12169;2023-07-17;VNT;Regular;1;Vidrio Templado;Xiaomi;Note 9;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;17;7;2023
 12170;2023-07-17;VNT;Regular;1;Servicio Tecnico;Huawei;Revision Señal Y5 2018;SE;SE;SE;SE;$0;$2.000;$2.000;-1;17;7;2023
 12171;2023-07-17;VNT;Regular;1;Silicone Case;Xiaomi;Redmi 9c;SE;Morado;SE;SE;$8.000;$20.000;$12.000;-1;17;7;2023
-12172;2023-07-17;VNT;Regular;1;Forro Diseños;Samsung;A30;SE;dama;SE;SE;$3.500;$10.000;$6.500;-1;17;7;2023
+12172;2023-07-17;VNT;Regular;1;Forro Diseños;Samsung;A30;SE;Dama;SE;SE;$3.500;$10.000;$6.500;-1;17;7;2023
 12173;2023-07-17;VNT;Regular;1;Silicone Case;Apple;iphone 8 ;SE;SE;SE;SE;$6.500;$18.000;$11.500;-1;17;7;2023
 12174;2023-07-17;VNT;Regular;1;Forro Diseños;Xiaomi;Redmi 10a;SE;SE;SE;SE;$3.500;$10.000;$6.500;-1;17;7;2023
 12175;2023-07-17;VNT;Regular;1;Vidrio Templado;Apple;iphone 12;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;17;7;2023
@@ -12236,7 +12236,7 @@
 12235;2023-07-20;VNT;Regular;1;Cables;Batri;TC;SE;SE;SE;SE;$4.000;$12.000;$8.000;-1;20;7;2023
 12236;2023-07-20;VNT;Regular;1;Cargadores;Batri;BC-01 TC;SE;SE;SE;SE;$25.000;$50.000;$25.000;-1;20;7;2023
 12237;2023-07-20;VNT;Regular;1;Cargadores;Samsung;TC 45w;SE;SE;SE;SE;$24.000;$50.000;$26.000;-1;20;7;2023
-12238;2023-07-20;VNT;Regular;1;Forro Diseños;Huawei;P30 Lite;SE;dama;SE;SE;$3.500;$10.000;$6.500;-1;20;7;2023
+12238;2023-07-20;VNT;Regular;1;Forro Diseños;Huawei;P30 Lite;SE;Dama;SE;SE;$3.500;$10.000;$6.500;-1;20;7;2023
 12239;2023-07-20;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;20;7;2023
 12240;2023-07-20;VNT;Regular;1;Vidrio Antiespia;Samsung;A14 4G;SE;SE;SE;SE;$3.000;$15.000;$12.000;-1;20;7;2023
 12241;2023-07-20;VNT;Regular;1;Parlantes;Tigers;Teatro en Casa TG-200;USB y JackPlug;SE;SE;SE;$235.000;$350.000;$115.000;-1;20;7;2023
@@ -12373,7 +12373,7 @@
 12372;2023-07-22;VNT;Regular;1;Cargadores;Generico;Para Bafle Punta Amarilla 9V;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;22;7;2023
 12373;2023-07-22;VNT;Regular;1;Silicone Case;Samsung;S10 Plus;SE;SE;SE;SE;$7.000;$20.000;$13.000;-1;22;7;2023
 12374;2023-07-22;VNT;Regular;1;Cargadores;Huawei;HW-059200EHQ;TC;Blanco;Caja;Alambrico;$8.000;$22.000;$14.000;-1;22;7;2023
-12375;2023-07-22;VNT;Regular;1;Forro Diseños;Motorola;Moto G20;SE;dama;SE;SE;$3.500;$10.000;$6.500;-1;22;7;2023
+12375;2023-07-22;VNT;Regular;1;Forro Diseños;Motorola;Moto G20;SE;Dama;SE;SE;$3.500;$10.000;$6.500;-1;22;7;2023
 12376;2023-07-22;CMP;Memorias Musica;6;Memorias;Musica;Varios;SE;SE;SE;SE;$3.700;$9.000;-$22.200;6;22;7;2023
 12377;2023-07-22;CMP;Chicago JOMA;2;Aro de Luz;Joma;26cm;SE;SE;SE;SE;$34.000;$65.000;-$68.000;2;22;7;2023
 12378;2023-07-22;CMP;Chicago JOMA;1;Control Gamer;Sony;PS4;SE;SE;SE;SE;$55.000;$89.000;-$55.000;1;22;7;2023
@@ -12665,7 +12665,7 @@
 12664;2023-07-30;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$6.074;$6.500;$426;-1;30;7;2023
 12665;2023-07-31;VNT;Esposa Bryan;1;Smartphone;Tecno;Camon 20 Pro;SE;SE;354265714604809-354265714604817;Costo 720;$0;$230.000;$230.000;-1;31;7;2023
 12666;2023-07-31;VNT;Yarlot Cuervo;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;31;7;2023
-12667;2023-07-31;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Azul Claro;SE;SE;$18.000;$35.000;$17.000;-1;31;7;2023
+12667;2023-07-31;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulClaro;SE;SE;$18.000;$35.000;$17.000;-1;31;7;2023
 12668;2023-07-31;VNT;Regular;1;Forro Audifonos;Apple;inpods 12;SE;SE;SE;SE;$7.000;$15.000;$8.000;-1;31;7;2023
 12669;2023-07-31;CMP;FYR Flex;20;Pines V8;Varios;Surtidos ;SE;SE;SE;SE;$500;$20.000;-$10.000;20;31;7;2023
 12670;2023-07-31;CMP;EKADY;1;Pacha;Samsung;A11;SE;SE;SE;SE;$55.000;$115.000;-$55.000;1;31;7;2023
@@ -12697,7 +12697,7 @@
 12696;2023-07-31;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$1.868;$2.000;$132;-1;31;7;2023
 12697;2023-07-31;VNT;Regular;1;Recargas;Virgin;Saldo Virgin;SE;SE;SE;SE;$5.606;$6.000;$394;-1;31;7;2023
 12698;2023-07-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;31;7;2023
-12699;2023-07-31;VNT;Regular;1;Forro Space;Apple;iphone 11;SE;Colors;SE;SE;$6.500;$20.000;$13.500;-1;31;7;2023
+12699;2023-07-31;VNT;Regular;1;Forro Space;Apple;iphone 11;SE;Colores;SE;SE;$6.500;$20.000;$13.500;-1;31;7;2023
 12700;2023-07-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$1.868;$2.000;$132;-1;31;7;2023
 12701;2023-07-31;VNT;Regular;1;Simcard;WOM;Simcard WOM;SE;SE;SE;SE;$1.000;$5.000;$4.000;-1;31;7;2023
 12702;2023-07-31;VNT;Regular;1;Forro Diseños;Samsung;A10s;SE;Dama;SE;SE;$3.500;$10.000;$6.500;-1;31;7;2023
@@ -12706,7 +12706,7 @@
 12705;2023-07-31;VNT;Regular;1;Manos Libres;Batri;B10;Plug 3.5;SE;SE;SE;$7.500;$20.000;$12.500;-1;31;7;2023
 12706;2023-07-31;VNT;Ovidio;1;Manos Libres;Generico;ML Marcas Chinas;Plug 3.5;SE;SE;SE;$4.000;$15.000;$11.000;-1;31;7;2023
 12707;2023-07-31;VNT;Regular;1;Pacha;Xiaomi;Note 10 Pro;SE;SE;SE;SE;$73.000;$150.000;$77.000;-1;31;7;2023
-12708;2023-07-31;VNT;Regular;1;Pompones Cadena;Motorola;Pompones Cadena;SE;Moto G20;SE;SE;$6.000;$14.000;$8.000;-1;31;7;2023
+12708;2023-07-31;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;Dama;SE;Moto G20;$6.000;$14.000;$8.000;-1;31;7;2023
 12709;2023-07-31;VNT;Regular;1;Servicio Tecnico;Motorola;Despegar Pila Moto E4;SE;SE;SE;SE;$0;$5.000;$5.000;-1;31;7;2023
 12710;2023-07-31;VNT;Andres Capital;1;Cables;Harvic;USB - Ligthning;SE;SE;SE;SE;$4.500;$13.000;$8.500;-1;31;7;2023
 12711;2023-07-31;VNT;Regular;1;Cargadores;Belkin;V8;SE;SE;SE;SE;$8.500;$24.000;$15.500;-1;31;7;2023
@@ -13067,7 +13067,7 @@
 13066;2023-08-12;CMP;TYD;2;Cargadores;Samsung;TC 45w;SE;SE;SE;SE;$24.000;$59.000;-$48.000;2;12;8;2023
 13067;2023-08-12;CMP;TYD;4;Cordon;Generico;Cordon airpods;SE;SE;SE;SE;$5.000;$15.000;-$20.000;4;12;8;2023
 13068;2023-08-12;CMP;TYD;3;Cordon;Generico;Cadena Cel;SE;SE;SE;SE;$5.800;$12.000;-$17.400;3;12;8;2023
-13069;2023-08-12;CMP;TYD;2;Cordon;Generico;Pompones Cadena;SE;SE;SE;SE;$6.300;$12.000;-$12.600;2;12;8;2023
+13069;2023-08-12;CMP;TYD;2;Pompones Cadena;Generico;Pompones Cadena;SE;SE;SE;SE;$6.300;$12.000;-$12.600;2;12;8;2023
 13070;2023-08-12;CMP;TYD;10;Vidrio Templado;Varios;Surtidos ;SE;SE;SE;SE;$1.000;$10.000;-$10.000;10;12;8;2023
 13071;2023-08-12;CMP;TYD;20;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;-$16.000;20;12;8;2023
 13072;2023-08-12;VNT;Regular;1;Microfono;Generico;Microfono Bafle;SE;SE;SE;SE;$10.000;$20.000;$10.000;-1;12;8;2023
@@ -13368,7 +13368,7 @@
 13367;2023-08-21;CMP;EKADY;1;Bateria;Samsung;Galaxy Note 9;SE;SE;SE;SE;$33.000;$85.000;-$33.000;1;21;8;2023
 13368;2023-08-21;CMP;EKADY;1;Bateria;Samsung;A10 / A7 2018 org;SE;SE;SE;SE;$23.000;$45.000;-$23.000;1;21;8;2023
 13369;2023-08-21;CMP;EKADY;1;Tactil;ZTE;L8;SE;SE;SE;SE;$17.000;$60.000;-$17.000;1;21;8;2023
-13370;2023-08-21;CMP;Yoyos Caracas;1;Forro Cargado;Apple;Forro Cargador 20w;SE;SE;SE;SE;$11.000;$24.000;-$11.000;1;21;8;2023
+13370;2023-08-21;CMP;Yoyos Caracas;1;Forro Cargador;Apple;Forro Cargador 20w apple Negro;SE;SE;SE;SE;$11.000;$24.000;-$11.000;1;21;8;2023
 13371;2023-08-21;CMP;Yoyos Caracas;4;Forro Space;Varios;Surtidos ;SE;SE;SE;SE;$5.000;$20.000;-$20.000;4;21;8;2023
 13372;2023-08-21;CMP;Yoyos Caracas;2;Forro Diseños;Motorola;Moto E7 2022;SE;SE;SE;SE;$3.500;$10.000;-$7.000;2;21;8;2023
 13373;2023-08-21;CMP;Yoyos Caracas;2;Silicone Case;Motorola;Moto E7 2022;SE;SE;SE;SE;$7.500;$20.000;-$15.000;2;21;8;2023
@@ -13436,4 +13436,279 @@
 13435;2023-08-23;VNT;Regular;1;Simcard;Movistar;Simcard Movistar;SE;SE;SE;SE;$0;$5.000;$5.000;-1;23;8;2023
 13436;2023-08-24;VNT;Regular;1;Servicio Tecnico;Motorola;FRP Moto G20;SE;SE;SE;SE;$0;$30.000;$30.000;-1;24;8;2023
 13437;2023-08-24;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;FRP Moto G20;SE;SE;SE;SE;$0;$15.000;$15.000;-1;24;8;2023
-13438;2023-08-24;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;FRP Moto One Fusion;SE;SE;SE;SE;$0;$10.000;$10.000;-1;24;8;2023
+13438;2023-08-24;VNT;Giovany Martinez;1;Servicio Tecnico;Motorola;FRP Moto One Fusion;SE;SE;SE;Lote;$0;$10.000;$10.000;-1;24;8;2023
+13439;2023-08-24;VNT;Regular;1;Servicio Tecnico;Generico;Pin de carga Parlante;SE;SE;SE;SE;$0;$20.000;$20.000;-1;24;8;2023
+13440;2023-08-24;VNT;Regular;1;Recargas;Virgin;Paquetes Virgin;SE;SE;SE;SE;$18.691;$20.000;$1.309;-1;24;8;2023
+13441;2023-08-24;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$14.952;$16.000;$1.048;-1;24;8;2023
+13442;2023-08-24;VNT;Regular;1;Servicio Tecnico;Xiaomi;FRP Redmi 9c;SE;SE;SE;SE;$0;$29.000;$29.000;-1;24;8;2023
+13443;2023-08-24;VNT;Regular;1;Calculadora;Casio;Calculadora Cientifica;SE;SE;SE;SE;$14.000;$32.000;$18.000;-1;24;8;2023
+13444;2023-08-24;VNT;Regular;1;Parlantes;Karmabeo;CB-2634BT con Aro;USB y JackPlug;SE;SE;SE;$32.000;$60.000;$28.000;-1;24;8;2023
+13445;2023-08-24;VNT;Regular;1;Forro Space;Samsung;A34;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;24;8;2023
+13446;2023-08-24;VNT;Regular;1;Vidrio Ceramico;Samsung;A34;SE;SE;SE;SE;$900;$12.000;$11.100;-1;24;8;2023
+13447;2023-08-24;VNT;Regular;1;Pacha;Xiaomi;Note 9a / 9c / 10A;SE;SE;SE;SE;$55.000;$110.000;$55.000;-1;24;8;2023
+13448;2023-08-24;VNT;Regular;1;Simcard;WOM;Simcard WOM;SE;SE;SE;SE;$800;$5.000;$4.200;-1;24;8;2023
+13449;2023-08-24;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;24;8;2023
+13450;2023-08-24;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;24;8;2023
+13451;2023-08-24;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;24;8;2023
+13452;2023-08-24;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;24;8;2023
+13453;2023-08-24;VNT;Regular;1;Servicio Tecnico;Xiaomi;Revision Conexiones Mi11 Lite;SE;SE;SE;SE;$0;$25.000;$25.000;-1;24;8;2023
+13454;2023-08-24;VNT;Regular;1;Vidrio Templado;Xiaomi;Redmi 8a;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;24;8;2023
+13455;2023-08-24;VNT;Regular;1;Tapa;Samsung;A13 4G;SE;AzulClaro;SE;SE;$14.000;$30.000;$16.000;-1;24;8;2023
+13456;2023-08-24;VNT;Regular;1;Balacas;Naisu;ST-437;SE;SE;SE;SE;$37.000;$70.000;$33.000;-1;24;8;2023
+13457;2023-08-24;VNT;Regular;1;Impresiones;Generico;Impresión;SE;SE;SE;SE;$0;$1.200;$1.200;-1;24;8;2023
+13458;2023-08-24;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$1.868;$2.000;$132;-1;24;8;2023
+13459;2023-08-25;VNT;Regular;1;Cargadores;Generico;Cargador Cabina 3v a 12v;SE;SE;SE;SE;$15.000;$30.000;$15.000;-1;25;8;2023
+13460;2023-08-25;VNT;Regular;1;Vidrio Templado;Xiaomi;Note 11;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;25;8;2023
+13461;2023-08-25;VNT;Regular;1;Forro Diseños;Xiaomi;Note 11;SE;Caballero;SE;SE;$5.000;$12.000;$7.000;-1;25;8;2023
+13462;2023-08-25;VNT;Regular;1;Vidrio Templado;Xiaomi;Note 10 Pro;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;25;8;2023
+13463;2023-08-25;VNT;Regular;1;Cables;Digo;TC;SE;SE;SE;SE;$4.000;$12.000;$8.000;-1;25;8;2023
+13464;2023-08-25;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;25;8;2023
+13465;2023-08-25;VNT;Regular;1;Pacha;Samsung;A21s;SE;SE;SE;SE;$55.000;$115.000;$60.000;-1;25;8;2023
+13466;2023-08-25;VNT;Regular;1;Vidrio Templado;Samsung;A21s;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;25;8;2023
+13467;2023-08-25;VNT;Regular;1;Forro Acrigel;Xiaomi;Note 12;SE;SE;SE;SE;$9.000;$20.000;$11.000;-1;25;8;2023
+13468;2023-08-25;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;25;8;2023
+13469;2023-08-25;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;25;8;2023
+13470;2023-08-25;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;25;8;2023
+13471;2023-08-25;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;25;8;2023
+13472;2023-08-25;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;25;8;2023
+13473;2023-08-25;VNT;Regular;1;Pacha;Vivo;Y21s;SE;SE;SE;SE;$60.000;$125.000;$65.000;-1;25;8;2023
+13474;2023-08-25;VNT;Regular;1;Visor Camara;Vivo;Y21s;SE;SE;SE;SE;$8.000;$25.000;$17.000;-1;25;8;2023
+13475;2023-08-25;VNT;Regular;1;Cargadores;Samsung;TC 45w;SE;SE;SE;SE;$24.000;$58.000;$34.000;-1;25;8;2023
+13476;2023-08-25;VNT;Regular;1;Vidrio Templado;Samsung;A13 4G;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;25;8;2023
+13477;2023-08-25;VNT;Regular;1;Balacas;QYS;QYS;SE;SE;SE;SE;$37.000;$70.000;$33.000;-1;25;8;2023
+13478;2023-08-26;VNT;Regular;1;Vidrio Templado;Samsung;A70 / A04;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;26;8;2023
+13479;2023-08-26;VNT;Regular;1;Simcard;WOM;Simcard WOM;SE;SE;SE;SE;$800;$5.000;$4.200;-1;26;8;2023
+13480;2023-08-26;VNT;Regular;1;Recargas;WOM;Paquetes WOM;SE;SE;SE;SE;$3.270;$3.500;$230;-1;26;8;2023
+13481;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;26;8;2023
+13482;2023-08-26;VNT;Regular;1;Cables;Generico;1 a 1 Cordon;SE;blanco;SE;SE;$3.000;$12.000;$9.000;-1;26;8;2023
+13483;2023-08-26;VNT;Regular;1;Servicio Tecnico;Huawei;Pin de carga Y6P;SE;SE;SE;SE;$0;$20.000;$20.000;-1;26;8;2023
+13484;2023-08-26;VNT;Regular;1;Tactil;ZTE;L8;SE;SE;SE;SE;$18.000;$60.000;$42.000;-1;26;8;2023
+13485;2023-08-26;VNT;Regular;1;Servicio Tecnico;Generico;Pin de carga Parlante;SE;SE;SE;SE;$0;$20.000;$20.000;-1;26;8;2023
+13486;2023-08-26;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;26;8;2023
+13487;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;26;8;2023
+13488;2023-08-26;VNT;Regular;1;Forro Diseños;Samsung;A30s;SE;Caballero;SE;SE;$3.500;$10.000;$6.500;-1;26;8;2023
+13489;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;26;8;2023
+13490;2023-08-26;VNT;Regular;1;Recargas;Tigo;Saldo Tigo;SE;SE;SE;SE;$14.018;$15.000;$982;-1;26;8;2023
+13491;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;26;8;2023
+13492;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;26;8;2023
+13493;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;26;8;2023
+13494;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;26;8;2023
+13495;2023-08-26;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;26;8;2023
+13496;2023-08-23;CMP;Chicago 107;3;Cables;Generico;VGA 1.5m;SE;SE;SE;SE;$3.000;$9.000;-$9.000;3;23;8;2023
+13497;2023-08-26;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$10.279;$11.000;$721;-1;26;8;2023
+13498;2023-08-26;VNT;Regular;1;Vidrio Ceramico;Apple;iPhone 7;SE;SE;SE;SE;$900;$10.000;$9.100;-1;26;8;2023
+13499;2023-08-26;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;26;8;2023
+13500;2023-08-26;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$5.139;$5.500;$361;-1;26;8;2023
+13501;2023-08-27;VNT;Regular;1;Recargas;Netflix;Pin 20 mil Netflix;SE;SE;SE;SE;$19.500;$20.000;$500;-1;27;8;2023
+13502;2023-08-27;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;27;8;2023
+13503;2023-08-27;VNT;Regular;1;Pacha;Huawei;Y6 2019;SE;SE;SE;SE;$47.000;$110.000;$63.000;-1;27;8;2023
+13504;2023-08-27;VNT;Regular;1;Vidrio Templado;Huawei;Y6 2019;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;27;8;2023
+13505;2023-08-27;VNT;Regular;1;Simcard;Tigo;Simcard Tigo;SE;SE;SE;SE;$0;$5.000;$5.000;-1;27;8;2023
+13506;2023-08-27;VNT;Regular;1;Silicone Case;Xiaomi;Note 11;SE;VerdeMilitar;SE;SE;$8.000;$20.000;$12.000;-1;27;8;2023
+13507;2023-08-27;VNT;Regular;1;Hydrogel;Samsung;S10;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;27;8;2023
+13508;2023-08-27;VNT;Regular;1;Vidrio Templado;Huawei;P30 lite;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;27;8;2023
+13509;2023-08-27;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;SE;blanco;SE;SE;$2.600;$10.000;$7.400;-1;27;8;2023
+13510;2023-08-27;VNT;Regular;1;Bacover;Samsung;A20s;SE;Negro;SE;SE;$17.000;$35.000;$18.000;-1;27;8;2023
+13511;2023-08-27;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;27;8;2023
+13512;2023-08-27;VNT;Regular;1;Pacha;Samsung;A21s;SE;SE;SE;SE;$48.000;$115.000;$67.000;-1;27;8;2023
+13513;2023-08-27;VNT;Regular;1;Silicone Case;Samsung;A21s;SE;SE;SE;SE;$8.000;$20.000;$12.000;-1;27;8;2023
+13514;2023-08-27;VNT;Regular;1;Vidrio Templado;Samsung;A21s;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;27;8;2023
+13515;2023-08-27;VNT;Regular;1;Silicone Case;Samsung;M23;SE;Negro;SE;SE;$8.000;$20.000;$12.000;-1;27;8;2023
+13516;2023-08-27;VNT;Regular;1;Hydrogel;Xiaomi;Redmi 12;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;27;8;2023
+13517;2023-08-27;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;27;8;2023
+13518;2023-08-27;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;27;8;2023
+13519;2023-08-27;VNT;Gemelo Broadster;1;Servicio Tecnico;Xiaomi;Pin de carga Redmi 9a;SE;SE;SE;SE;$0;$20.000;$20.000;-1;27;8;2023
+13520;2023-08-27;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;27;8;2023
+13521;2023-08-27;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;27;8;2023
+13522;2023-08-27;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$10.279;$11.000;$721;-1;27;8;2023
+13523;2023-08-28;VNT;Regular;1;Cables;Generico;USB Hembra Hembra;SE;SE;SE;SE;$3.000;$9.000;$6.000;-1;28;8;2023
+13524;2023-08-28;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;28;8;2023
+13525;2023-08-28;VNT;Regular;1;Hydrogel;Motorola;Moto Edge 30 Fusion;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;28;8;2023
+13526;2023-08-28;VNT;Regular;1;Pacha;Samsung;A30 / A50 c/m;SE;SE;SE;SE;$70.000;$130.000;$60.000;-1;28;8;2023
+13527;2023-08-28;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;28;8;2023
+13528;2023-08-28;VNT;Regular;1;Manos Libres;Pronix;Nixa-25;Plug 3.5;SE;SE;SE;$15.500;$35.000;$19.500;-1;28;8;2023
+13529;2023-08-28;VNT;Regular;1;Hydrogel;Samsung;A32 4G;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;28;8;2023
+13530;2023-08-28;VNT;Regular;1;Simcard;WOM;Simcard WOM;SE;SE;SE;SE;$800;$5.000;$4.200;-1;28;8;2023
+13531;2023-08-28;VNT;Regular;1;Recargas;WOM;Paquetes WOM;SE;SE;SE;SE;$3.270;$3.500;$230;-1;28;8;2023
+13532;2023-08-28;VNT;Regular;1;Cables;Apple;USB Ligthning;SE;SE;SE;SE;$4.000;$14.000;$10.000;-1;28;8;2023
+13533;2023-08-28;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$934;$1.000;$66;-1;28;8;2023
+13534;2023-08-28;VNT;Regular;1;Cargadores;Royal;SoloCabeza;SE;SE;SE;SE;$5.000;$12.000;$7.000;-1;28;8;2023
+13535;2023-08-28;VNT;Regular;1;Servicio Tecnico;Samsung;Revision A70;SE;SE;SE;SE;$0;$5.000;$5.000;-1;28;8;2023
+13536;2023-08-28;VNT;Regular;1;Simcard;Tigo;Simcard Tigo;SE;SE;SE;SE;$0;$5.000;$5.000;-1;28;8;2023
+13537;2023-08-29;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$1.868;$2.000;$132;-1;29;8;2023
+13538;2023-08-29;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;29;8;2023
+13539;2023-08-29;VNT;Regular;1;Cables;Batri;V8;SE;SE;SE;SE;$3.500;$12.000;$8.500;-1;29;8;2023
+13540;2023-08-29;VNT;Regular;1;Vidrio Templado;Samsung;J7;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;29;8;2023
+13541;2023-08-29;VNT;Regular;1;Forro Diseños;Samsung;J7;SE;Caballero;SE;SE;$3.500;$10.000;$6.500;-1;29;8;2023
+13542;2023-08-29;VNT;Regular;1;Vidrio Templado;Xiaomi;Redmi Note 8;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;29;8;2023
+13543;2023-08-29;VNT;Regular;1;Forro Armadura;Xiaomi;Redmi Note 8;SE;SE;SE;SE;$7.500;$20.000;$12.500;-1;29;8;2023
+13544;2023-08-29;VNT;Regular;1;Multipuerto;Generico;HUB 7 Ports;SE;SE;SE;SE;$11.000;$22.000;$11.000;-1;29;8;2023
+13545;2023-08-29;VNT;Regular;1;Servicio Tecnico;Xiaomi;Borrar cookies Xiaomi;SE;SE;SE;SE;$0;$5.000;$5.000;-1;29;8;2023
+13546;2023-08-29;VNT;Regular;1;Vidrio Templado;Nokia;nokia C10;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;29;8;2023
+13547;2023-08-29;VNT;Regular;1;Vidrio Tortuga;Samsung;A04s;SE;SE;SE;SE;$1.400;$12.000;$10.600;-1;29;8;2023
+13548;2023-08-29;VNT;Regular;1;Forro Space;Samsung;A04s;SE;SE;SE;SE;$5.000;$18.000;$13.000;-1;29;8;2023
+13549;2023-08-29;VNT;Regular;1;Recargas;WOM;Paquetes WOM;SE;SE;SE;SE;$3.270;$3.500;$230;-1;29;8;2023
+13550;2023-08-29;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;29;8;2023
+13551;2023-08-29;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;29;8;2023
+13552;2023-08-23;CMP;Tigers Nodo;1;Parlantes;Tigers;Teatro en Casa TG-300;SE;SE;SE;SE;$215.000;$360.000;-$215.000;1;23;8;2023
+13553;2023-08-23;CMP;TYD;5;Silicone Case;Varios;Surtidos ;SE;SE;SE;SE;$7.500;$20.000;-$37.500;5;23;8;2023
+13554;2023-08-23;CMP;TYD;1;Silicone Case;Apple;iPhone 12;SE;Morado;SE;SE;$6.500;$18.000;-$6.500;1;23;8;2023
+13555;2023-08-23;CMP;TYD;1;Forro Cargador;Apple;Forro Cargador 20w apple Negro;SE;SE;SE;SE;$10.000;$20.000;-$10.000;1;23;8;2023
+13556;2023-08-23;CMP;TYD;2;Adaptadores;Samsung;TC a Plug 3.5;SE;SE;SE;SE;$7.000;$20.000;-$14.000;2;23;8;2023
+13557;2023-08-23;CMP;TYD;4;Cables;Apple;USB Ligthning;SE;SE;SE;SE;$4.000;$14.000;-$16.000;4;23;8;2023
+13558;2023-08-23;CMP;TYD;4;Cables;Generico;1 a 1 Sencillo;SE;SE;SE;SE;$1.800;$9.000;-$7.200;4;23;8;2023
+13559;2023-08-23;CMP;EKADY;1;Pacha;Vivo;Y21s;SE;SE;SE;SE;$60.000;$125.000;-$60.000;1;23;8;2023
+13560;2023-08-23;CMP;EKADY;1;Visor Camara;Vivo;Y21s;SE;SE;SE;SE;$8.000;$20.000;-$8.000;1;23;8;2023
+13561;2023-08-23;CMP;EKADY;1;Pacha;Motorola;Moto E13;SE;SE;SE;SE;$70.000;$145.000;-$70.000;1;23;8;2023
+13562;2023-08-23;CMP;EKADY;1;Tapa;Samsung;A13 4G;SE;SE;SE;SE;$14.000;$29.000;-$14.000;1;23;8;2023
+13563;2023-08-23;CMP;EKADY;1;Bacover;Samsung;A20s;SE;SE;SE;SE;$17.000;$35.000;-$17.000;1;23;8;2023
+13564;2023-08-26;CMP;Tigers Nodo;1;Plancha;Babyliss;Plancha Combo;SE;SE;SE;SE;$40.000;$69.000;-$40.000;1;26;8;2023
+13565;2023-08-26;CMP;EKADY;1;Marco;Huawei;Y7 2019;SE;SE;SE;SE;$10.000;$20.000;-$10.000;1;26;8;2023
+13566;2023-08-26;CMP;EKADY;2;Pacha;Huawei;Redmi 9a / 9c / 10a;SE;SE;SE;SE;$48.000;$115.000;-$96.000;2;26;8;2023
+13567;2023-08-26;CMP;EKADY;2;Pacha;Samsung;A21s;SE;SE;SE;SE;$48.000;$115.000;-$96.000;2;26;8;2023
+13568;2023-08-26;CMP;EKADY;1;Pacha;Huawei;Y7 2019;SE;SE;SE;SE;$45.000;$115.000;-$45.000;1;26;8;2023
+13569;2023-08-26;CMP;EKADY;1;Tapa;Huawei;Y7 2019;SE;SE;SE;Devuelto el 27/8;$0;$25.000;$0;1;26;8;2023
+13570;2023-08-26;CMP;EKADY;1;Bandeja de Simcard;Huawei;Y7 2019;SE;SE;SE;SE;$6.000;$15.000;-$6.000;1;26;8;2023
+13571;2023-08-26;CMP;EKADY;1;Pacha;Huawei;Y9 Prime Full;SE;SE;SE;SE;$70.000;$145.000;-$70.000;1;26;8;2023
+13572;2023-08-26;CMP;EKADY;1;Pacha;Motorola;Moto E7 / E7i Power;SE;SE;SE;SE;$50.000;$115.000;-$50.000;1;26;8;2023
+13573;2023-08-26;CMP;EKADY;1;Sensor de Huella;Huawei;Y7 2019;SE;SE;SE;SE;$10.000;$25.000;-$10.000;1;26;8;2023
+13574;2023-08-26;CMP;Andres Capital;5;Cargadores;Belkin;TC;SE;SE;SE;SE;$8.500;$24.000;-$42.500;5;26;8;2023
+13575;2023-08-26;CMP;Andres Capital;1;Adaptadores;Generico;OTG 3 en 1;SE;SE;SE;SE;$17.500;$30.000;-$17.500;1;26;8;2023
+13576;2023-08-26;CMP;Andres Capital;1;Cargadores;Samsung;AC 65W;SE;SE;SE;SE;$30.000;$69.000;-$30.000;1;26;8;2023
+13577;2023-08-26;CMP;Andres Capital;2;Balacas;Naisu;ST-437;SE;SE;SE;SE;$38.000;$69.000;-$76.000;2;26;8;2023
+13578;2023-08-26;CMP;TYD;1;Balacas;QYS;QYS-02;SE;SE;SE;SE;$37.000;$69.000;-$37.000;1;26;8;2023
+13579;2023-08-26;CMP;TYD;2;Soporte;Generico;Holder Car universal;SE;SE;SE;SE;$6.000;$15.000;-$12.000;2;26;8;2023
+13580;2023-08-26;CMP;TYD;1;Soporte;Generico;H-005;SE;SE;SE;SE;$9.500;$22.000;-$9.500;1;26;8;2023
+13581;2023-08-26;CMP;TYD;1;Soporte;Generico;NHS-03;SE;SE;SE;SE;$7.500;$20.000;-$7.500;1;26;8;2023
+13582;2023-08-26;CMP;TYD;6;Silicone Case;Motorola;Moto G52;SE;SE;SE;SE;$7.500;$20.000;-$45.000;6;26;8;2023
+13583;2023-08-26;CMP;TYD;5;Forro Diseños;Motorola;Moto Edge 30 Lite;SE;SE;SE;SE;$3.500;$10.000;-$17.500;5;26;8;2023
+13584;2023-08-26;CMP;TYD;5;Forro Corrugado;Varios;Surtidos ;SE;SE;SE;SE;$5.500;$12.000;-$27.500;5;26;8;2023
+13585;2023-08-26;CMP;TYD;1;Soporte;Generico;Holder Naisu;SE;SE;SE;SE;$12.000;$22.000;-$12.000;1;26;8;2023
+13586;2023-08-26;CMP;TYD;45;Vidrio Tortuga;Varios;Surtidos ;SE;SE;SE;SE;$1.400;$15.000;-$63.000;45;26;8;2023
+13587;2023-08-26;CMP;TYD;15;Vidrio Templado;Varios;Surtidos ;SE;SE;SE;SE;$1.000;$10.000;-$15.000;15;26;8;2023
+13588;2023-08-26;CMP;TYD;5;Vidrio Sencillo;Samsung;A70;SE;SE;SE;SE;$750;$5.000;-$3.750;5;26;8;2023
+13589;2023-08-26;CMP;TYD;8;Forro Diseños;Varios;Surtidos ;SE;SE;SE;SE;$3.500;$10.000;-$28.000;8;26;8;2023
+13590;2023-08-26;CMP;TYD;1;Forro Space;Motorola;Moto G52;SE;SE;SE;SE;$5.000;$20.000;-$5.000;1;26;8;2023
+13591;2023-08-27;CMP;TYD;1;Balacas;QYS;QYS-02;SE;SE;SE;SE;$37.000;$69.000;-$37.000;1;27;8;2023
+13592;2023-08-27;CMP;TYD;9;Forro Magsafe;Apple;Surtidos ;SE;SE;SE;SE;$7.500;$20.000;-$67.500;9;27;8;2023
+13593;2023-08-27;CMP;TYD;2;Cables;Generico;1 a 1 Sencillo;SE;SE;SE;SE;$1.800;$9.000;-$3.600;2;27;8;2023
+13594;2023-08-27;CMP;EKADY;1;Pacha;Huawei;Y6 2019;SE;SE;SE;SE;$47.000;$115.000;-$47.000;1;27;8;2023
+13595;2023-08-27;CMP;EKADY;1;Pacha;Vivo;Y50;SE;SE;SE;SE;$55.000;$120.000;-$55.000;1;27;8;2023
+13596;2023-08-30;VNT;David Parrilla;1;Servicio Tecnico;Xiaomi;FRP Note 11;SE;SE;SE;SE;$0;$25.000;$25.000;-1;30;8;2023
+13597;2023-08-30;VNT;Regular;1;Silicone Case;Apple;iPhone 11;SE;Rojo;SE;SE;$6.500;$18.000;$11.500;-1;30;8;2023
+13598;2023-08-30;VNT;Regular;1;Memorias;Musica;Carranguera;SE;SE;SE;SE;$3.700;$8.000;$4.300;-1;30;8;2023
+13599;2023-08-30;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$7.008;$7.500;$492;-1;30;8;2023
+13600;2023-08-30;VNT;Regular;1;Forro Diseños;Huawei;Y7 2018;SE;Caballero;SE;SE;$3.500;$10.000;$6.500;-1;30;8;2023
+13601;2023-08-30;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;30;8;2023
+13602;2023-08-30;VNT;Regular;1;Hydrogel;Samsung;S22 Plus;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;30;8;2023
+13603;2023-08-30;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$6.074;$6.500;$426;-1;30;8;2023
+13604;2023-08-30;VNT;David Parrilla;1;Servicio Tecnico;Generico;Pin de carga Tableta Gobierno;SE;SE;SE;SE;$0;$25.000;$25.000;-1;30;8;2023
+13605;2023-08-30;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;30;8;2023
+13606;2023-08-30;VNT;Regular;1;Soporte;Generico;TV 26 Pulgadas - 62 Pulgadas Fijo;SE;SE;SE;SE;$17.000;$39.000;$22.000;-1;30;8;2023
+13607;2023-08-30;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$28.971;$31.000;$2.029;-1;30;8;2023
+13608;2023-08-30;VNT;Regular;1;Vidrio Templado;Samsung;A30;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;30;8;2023
+13609;2023-08-30;VNT;Regular;1;Servicio Tecnico;Samsung;Despegar Pila Tableta;SE;SE;SE;SE;$0;$15.000;$15.000;-1;30;8;2023
+13610;2023-08-30;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;30;8;2023
+13611;2023-08-30;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;30;8;2023
+13612;2023-08-30;VNT;Regular;1;Pacha;Samsung;A21s;SE;SE;SE;SE;$48.000;$115.000;$67.000;-1;30;8;2023
+13613;2023-08-30;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;SE;Negro;SE;SE;$2.600;$10.000;$7.400;-1;30;8;2023
+13614;2023-08-30;VNT;Regular;1;Memorias;Ramitech;Micro 32GB;SE;SE;SE;SE;$15.500;$35.000;$19.500;-1;30;8;2023
+13615;2023-08-30;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;30;8;2023
+13616;2023-08-30;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;30;8;2023
+13617;2023-08-30;VNT;Regular;1;Manos Libres;Apple;inpods 12;SE;AzulClaro;SE;SE;$16.000;$35.000;$19.000;-1;30;8;2023
+13618;2023-08-31;VNT;Regular;1;Cables;Generico;RCA 3 a 3 1.5m;SE;SE;SE;SE;$1.500;$8.000;$6.500;-1;31;8;2023
+13619;2023-08-31;VNT;Luz Mery Lizarazo;1;Control TV;Generico;Control TV Plano;SE;SE;SE;SE;$7.500;$19.000;$11.500;-1;31;8;2023
+13620;2023-08-31;VNT;Regular;1;Tapa;Huawei;P30 Pro;SE;Negro;SE;SE;$14.000;$30.000;$16.000;-1;31;8;2023
+13621;2023-08-31;VNT;Regular;1;Servicio Tecnico;Huawei;Ajustar Logica de Carga P30 Pro;SE;SE;SE;SE;$0;$12.000;$12.000;-1;31;8;2023
+13622;2023-08-31;VNT;Regular;1;Hydrogel;Huawei;P30 Pro;SE;SE;SE;SE;$5.000;$20.000;$15.000;-1;31;8;2023
+13623;2023-08-31;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;SE;Negro;SE;SE;$2.600;$10.000;$7.400;-1;31;8;2023
+13624;2023-08-31;VNT;Regular;1;Pacha;Samsung;A30 / A50 c/m;SE;SE;SE;SE;$55.000;$130.000;$75.000;-1;31;8;2023
+13625;2023-08-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;31;8;2023
+13626;2023-08-31;VNT;Luz Mery Lizarazo;1;Pilas Carbon;Beston;AAA Carbon;SE;SE;SE;SE;$1.000;$4.000;$3.000;-1;31;8;2023
+13627;2023-08-31;VNT;Regular;1;Silicone Case;Apple;iPhone 11;SE;PaloRosa;SE;SE;$6.500;$18.000;$11.500;-1;31;8;2023
+13628;2023-08-31;VNT;Regular;1;Manos Libres;Apple;Ligthning Bluethoot eco;SE;SE;SE;SE;$12.000;$22.000;$10.000;-1;31;8;2023
+13629;2023-08-31;VNT;Regular;1;Silicone Case;Samsung;A20s;SE;Rosa;SE;SE;$8.000;$18.000;$10.000;-1;31;8;2023
+13630;2023-08-31;VNT;Regular;1;Audifonos Bluethooth;Generico;M19;SE;SE;SE;SE;$42.000;$75.000;$33.000;-1;31;8;2023
+13631;2023-08-31;VNT;Regular;1;Pacha;Motorola;Moto E13;SE;SE;SE;SE;$70.000;$145.000;$75.000;-1;31;8;2023
+13632;2023-08-31;VNT;Regular;1;Silicone Case;Motorola;Moto E13;SE;SE;SE;SE;$10.000;$20.000;$10.000;-1;31;8;2023
+13633;2023-08-31;VNT;Regular;1;Servicio Tecnico;Motorola;Pegante Pantalla Moto E20;SE;SE;SE;SE;$0;$5.000;$5.000;-1;31;8;2023
+13634;2023-08-31;VNT;Regular;1;Silicone Case;Xiaomi;Note 11;SE;Lila;SE;SE;$8.000;$20.000;$12.000;-1;31;8;2023
+13635;2023-08-31;VNT;Regular;1;Vidrio Templado;Xiaomi;Note 11;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;31;8;2023
+13636;2023-08-31;VNT;Regular;1;Vidrio Antiespia;Samsung;A14;SE;SE;SE;SE;$3.000;$15.000;$12.000;-1;31;8;2023
+13637;2023-08-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;31;8;2023
+13638;2023-08-31;VNT;Regular;1;Cables;Generico;V8;SE;SE;SE;SE;$1.000;$8.000;$7.000;-1;31;8;2023
+13639;2023-08-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$6.074;$6.500;$426;-1;31;8;2023
+13640;2023-08-31;VNT;Regular;1;Simcard;Claro;Simcard Claro;SE;SE;SE;SE;$800;$5.000;$4.200;-1;31;8;2023
+13641;2023-08-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;31;8;2023
+13642;2023-08-31;VNT;Regular;1;Cargadores;Belkin;TC;SE;SE;SE;SE;$8.500;$22.000;$13.500;-1;31;8;2023
+13643;2023-08-31;CMP;Tigers Nodo;1;Bascula;Generico;Gramera SF-400;SE;SE;SE;SE;$14.000;$35.000;-$14.000;1;31;8;2023
+13644;2023-08-31;CMP;Tigers Nodo;1;Parlantes;NIA;NT-P1342;SE;Azul;SE;SE;$84.000;$130.000;-$84.000;1;31;8;2023
+13645;2023-08-31;CMP;Andres Capital;5;Manos Libres;Samsung;Caja Eco;SE;Negro;SE;SE;$2.800;$10.000;-$14.000;5;31;8;2023
+13646;2023-08-31;CMP;Andres Capital;1;Cargadores;Samsung;SoloCabeza 25w;SE;SE;SE;SE;$18.000;$35.000;-$18.000;1;31;8;2023
+13647;2023-08-31;CMP;Andres Capital;1;Silicone Case;Xiaomi;Note 11;SE;Rojo;SE;SE;$7.000;$20.000;-$7.000;1;31;8;2023
+13648;2023-08-31;CMP;Andres Capital;2;Silicone Case;Apple;iPhone 11;SE;Negro;SE;SE;$6.300;$18.000;-$12.600;2;31;8;2023
+13649;2023-08-31;CMP;Duquecell;1;Smartphone;Motorola;Moto E22i;SE;Negro;SE;64/2;$340.000;$429.000;-$340.000;1;31;8;2023
+13650;2023-08-31;CMP;Duquecell;1;Smartphone;Xiaomi;Redmi A2;SE;Negro;SE;64/2;$295.000;$379.000;-$295.000;1;31;8;2023
+13651;2023-08-31;CMP;Duquecell;1;Smartphone;Samsung;A04E;SE;Negro;SE;32/2;$325.000;$429.000;-$325.000;1;31;8;2023
+13652;2023-08-31;CMP;Chicago JOMA;2;Aro de Luz;Joma;26cm;SE;SE;SE;SE;$34.000;$65.000;-$68.000;2;31;8;2023
+13653;2023-08-31;CMP;Chicago JOMA;3;Manos Libres;Apple;inpods 12;SE;AzulOscuro;SE;SE;$16.000;$35.000;-$48.000;3;31;8;2023
+13654;2023-08-31;CMP;Chicago JOMA;3;Manos Libres;Apple;inpods 12;SE;Negro;SE;SE;$16.000;$35.000;-$48.000;3;31;8;2023
+13655;2023-08-31;CMP;Chicago JOMA;1;Calculadora;Casio;Casio-570;SE;SE;SE;SE;$16.000;$35.000;-$16.000;1;31;8;2023
+13656;2023-08-31;CMP;Chicago JOMA;2;Antenas;Generico;TDT 5M;SE;SE;SE;SE;$11.000;$20.000;-$22.000;2;31;8;2023
+13657;2023-08-31;CMP;Chicago JOMA;1;Selfie;Generico;Selfie Stick YT1288;SE;SE;SE;SE;$18.000;$35.000;-$18.000;1;31;8;2023
+13658;2023-08-31;CMP;EKADY;1;Tapa;Huawei;Y7 2019;SE;Rojo;SE;SE;$15.000;$30.000;-$15.000;1;31;8;2023
+13659;2023-08-31;CMP;EKADY;1;Tapa;Huawei;P30 Pro;SE;Negro;SE;SE;$14.000;$30.000;-$14.000;1;31;8;2023
+13660;2023-08-31;CMP;EKADY;1;Pacha;Samsung;A21s;SE;SE;SE;SE;$45.000;$115.000;-$45.000;1;31;8;2023
+13661;2023-08-31;CMP;EKADY;1;Pacha;Samsung;A30 / A50 c/m;SE;SE;SE;SE;$55.000;$120.000;-$55.000;1;31;8;2023
+13662;2023-08-31;CMP;EKADY;1;Flex de Power;Huawei;Y7 2019;SE;SE;SE;SE;$6.000;$20.000;-$6.000;1;31;8;2023
+13663;2023-08-31;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;31;8;2023
+13664;2023-08-31;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$7.008;$7.500;$492;-1;31;8;2023
+13665;2023-08-31;VNT;Stella Lizarazo;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$14.952;$16.000;$1.048;-1;31;8;2023
+13666;2023-08-31;VNT;Regular;1;Cargadores;Belkin;TC;SE;SE;SE;SE;$8.500;$25.000;$16.500;-1;31;8;2023
+13667;2023-08-31;VNT;Regular;1;Memorias;Musica;Popular;SE;SE;SE;SE;$3.700;$9.000;$5.300;-1;31;8;2023
+13668;2023-08-31;VNT;Regular;1;Memorias;Musica;Popular;SE;SE;SE;SE;$3.700;$9.000;$5.300;-1;31;8;2023
+13669;2023-08-31;VNT;Regular;1;Memorias;Musica;Catolica;SE;SE;SE;SE;$3.700;$9.000;$5.300;-1;31;8;2023
+13670;2023-09-01;VNT;Regular;1;Recargas;Movistar;Paquetes Movistar;SE;SE;SE;SE;$3.270;$3.500;$230;-1;1;9;2023
+13671;2023-09-01;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;1;9;2023
+13672;2023-09-01;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$3.270;$3.500;$230;-1;1;9;2023
+13673;2023-09-01;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$6.074;$6.500;$426;-1;1;9;2023
+13674;2023-09-01;VNT;Agustin Ramirez;1;Servicio Tecnico;Generico;Soldar Balacas;SE;SE;SE;SE;$0;$3.000;$3.000;-1;1;9;2023
+13675;2023-09-01;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;AzulOscuro;SE;SE;$16.000;$35.000;$19.000;-1;1;9;2023
+13676;2023-09-01;VNT;Regular;1;Silicone Case;Oppo;A77;SE;Negro;SE;SE;$9.000;$20.000;$11.000;-1;1;9;2023
+13677;2023-09-01;VNT;Regular;1;Vidrio Templado;Oppo;A77;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;1;9;2023
+13678;2023-09-01;VNT;Regular;1;Manos Libres;Xiaomi;En L;Plug 3.5;blanco;SE;SE;$5.500;$20.000;$14.500;-1;1;9;2023
+13679;2023-09-01;VNT;Regular;1;Vidrio Templado;Motorola;Moto E40;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;1;9;2023
+13680;2023-09-01;VNT;Regular;1;Aro de Luz;Joma;26cm;SE;SE;SE;SE;$32.000;$65.000;$33.000;-1;1;9;2023
+13681;2023-09-01;VNT;Regular;1;Cordon;Generico;Cordon Celular Eco;SE;SE;SE;SE;$2.500;$10.000;$7.500;-1;1;9;2023
+13682;2023-09-01;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;SE;SE;SE;$6.000;$12.500;$6.500;-1;1;9;2023
+13683;2023-09-01;VNT;Regular;1;Pompones Cadena;Generico;Pompones Cadena;SE;SE;SE;SE;$6.000;$12.500;$6.500;-1;1;9;2023
+13684;2023-09-01;VNT;Regular;1;Cargadores;Apple;20w TC;SE;SE;SE;SE;$24.000;$50.000;$26.000;-1;1;9;2023
+13685;2023-09-01;VNT;Regular;1;Audifonos Bluethooth;Generico;Pro 60;SE;SE;SE;SE;$25.000;$60.000;$35.000;-1;1;9;2023
+13686;2023-09-01;VNT;Regular;1;Llaveros;Generico;Llaveros Muñecos;SE;Boss Light Gear;SE;SE;$8.500;$13.000;$4.500;-1;1;9;2023
+13687;2023-09-01;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;SE;Blanco;SE;SE;$2.600;$10.000;$7.400;-1;1;9;2023
+13688;2023-09-01;VNT;Regular;1;Servicio Tecnico;Tecno;Revision Carga en corto Spark 10c;SE;SE;SE;SE;$0;$20.000;$20.000;-1;1;9;2023
+13689;2023-09-01;VNT;Regular;1;Vidrio Templado;Realme;C11;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;1;9;2023
+13690;2023-09-01;VNT;Regular;1;Silicone Case;Realme;C11;SE;Arcoiris;SE;SE;$10.000;$20.000;$10.000;-1;1;9;2023
+13691;2023-09-01;VNT;Regular;1;Parlantes;GTS;GTS-1362;USB y JackPlug;Azul;SE;SE;$14.000;$30.000;$16.000;-1;1;9;2023
+13692;2023-09-01;VNT;Regular;1;Power Bank;Ironbat;solar;SE;SE;SE;SE;$23.000;$53.000;$30.000;-1;1;9;2023
+13693;2023-09-01;VNT;Regular;1;Vidrio Ceramico;Samsung;A21s;SE;SE;SE;SE;$900;$10.000;$9.100;-1;1;9;2023
+13694;2023-09-01;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$7.008;$7.500;$492;-1;1;9;2023
+13695;2023-09-01;VNT;Regular;1;Servicio Tecnico;Generico;Configuracion Widgets;SE;SE;SE;SE;$0;$5.000;$5.000;-1;1;9;2023
+13696;2023-09-01;VNT;Regular;1;Servicio Tecnico;Generico;Configuracion Talkback;SE;SE;SE;SE;$0;$2.000;$2.000;-1;1;9;2023
+13697;2023-09-01;VNT;Regular;1;Vidrio Ceramico;Motorola;Moto E40;SE;SE;SE;SE;$900;$10.000;$9.100;-1;1;9;2023
+13698;2023-09-01;VNT;Regular;1;Forro Armadura;Motorola;Moto E40;SE;Negro;SE;SE;$8.000;$20.000;$12.000;-1;1;9;2023
+13699;2023-09-01;VNT;Regular;1;Vidrio Templado;Samsung;A12;SE;SE;SE;SE;$1.100;$10.000;$8.900;-1;1;9;2023
+13700;2023-09-01;VNT;Regular;1;Audifonos Bluethooth;Apple;inpods 12;SE;Rosa;SE;SE;$16.000;$35.000;$19.000;-1;1;9;2023
+13701;2023-09-01;VNT;Regular;1;Forro Audifonos;Apple;inpods 12;SE;Sprite;SE;SE;$8.000;$15.000;$7.000;-1;1;9;2023
+13702;2023-09-01;VNT;Regular;1;Manos Libres;Samsung;Caja Eco;SE;Negro;SE;SE;$2.800;$10.000;$7.200;-1;1;9;2023
+13703;2023-09-01;VNT;Regular;1;Forro Diseños;Vivo;Y16;SE;Goku;SE;SE;$5.500;$12.000;$6.500;-1;1;9;2023
+13704;2023-09-01;VNT;Regular;1;Servicio Tecnico;Xiaomi;FRP Note 11;SE;SE;SE;SE;$0;$29.000;$29.000;-1;1;9;2023
+13705;2023-09-01;VNT;Regular;1;Forro Corrugado;Xiaomi;Note 12;SE;Caballero;SE;SE;$6.000;$15.000;$9.000;-1;1;9;2023
+13706;2023-09-01;VNT;Regular;1;Forro Diseños;Motorola;Moto G22;SE;Dama;SE;SE;$3.500;$10.000;$6.500;-1;1;9;2023
+13707;2023-09-01;VNT;Regular;1;Recargas;Claro;Paquetes Claro;SE;SE;SE;SE;$3.270;$3.500;$230;-1;1;9;2023
+13708;2023-09-01;VNT;Regular;1;Control TV;Generico;Control TV Plano;SE;SE;SE;SE;$7.500;$19.000;$11.500;-1;1;9;2023
+13709;2023-09-01;VNT;Regular;1;Pilas Carbon;Beston;AAA Carbon;SE;SE;SE;por Control TV;$1.000;$3.000;$2.000;-1;1;9;2023
+13710;2023-09-01;VNT;Regular;1;Recargas;Tigo;Paquetes Tigo;SE;SE;SE;SE;$7.008;$7.500;$492;-1;1;9;2023
+13711;2023-09-01;VNT;Regular;1;Cepillo;Generico;Cepillo Secador;SE;SE;SE;SE;$26.000;$69.000;$43.000;-1;1;9;2023
+13712;2023-09-01;VNT;Regular;1;Manos Libres;Samsung;Bolsa;SE;Negro;SE;SE;$3.500;$12.000;$8.500;-1;1;9;2023
+13713;2023-09-01;VNT;Regular;1;Cables;Batri;V8;SE;SE;SE;SE;$3.500;$12.000;$8.500;-1;1;9;2023

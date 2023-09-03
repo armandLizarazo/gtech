@@ -1,11 +1,9 @@
 ___________________________________
 CHICAGO 107:
-ok Parlantes pequeños
 Soporte TV Fijo
 Soporte TV Brazo
 Teclado flexible PC
-ok Tripode bafle
-ok Pilas bafle
+Pilas bafle
 ___________________________________
 PELO LILA:
 Consola Juegos SEGA
@@ -40,7 +38,6 @@ Vivo V21
 ___________________________________
 SILICONE CASE:
 A20s Rosa
-ok iPhone 11 Rojo x1
 iPhone 11 Palo Rosa
 iPhone 11 Lila
 Y7 2018 Negro
@@ -54,14 +51,10 @@ Note 12 pro 5G
 Oppo A17 Morado
 Oppo A57 Negro
 Oppo A57 Morado
-ok Oppo Reno 6 Lite Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
 ___________________________________
 JOMA:
-ok Inpods 12 Rosa x2
-ok Inpods 12 AzulOscuro
-ok Inpods 12 Verde x2
 En proceso Garantia balaca Bose
 Parlantes Mini
 Aro de luz 26cm Blanco
@@ -76,14 +69,14 @@ Note 11
 Moto Moto G22
 ___________________________________
 TIGERS NODO:
-ok Radios x4
 Pedir cable bafle NIA
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
 SPACE:
 A04s
 Y7a
-Moto G9 Play
+Moto G9 Power
+Moto G9 Plus
 Note 12c
 Redmi Note 12
 Redmi 12
@@ -91,7 +84,6 @@ Oppo Reno 7 5G
 Vivo V21
 ___________________________________
 YOYOS CARACAS:
-ok Audifonos Pro60 x2
 ___________________________________
 CHIWICELL:
 Prensa Alta
@@ -102,14 +94,11 @@ Pines V8
 ___________________________________
 EKADI:
 Tapa iphone 11 pro max mejor con estacion
-ok Pacha A30 / A50 x2
-fail pacha y bat iph6s 
 pd llevar A30 fallo
 ___________________________________
 TABLET STORE:
 ___________________________________
 VPG SAS:
-ok M19
 Multitoma USB-7 x2
 ___________________________________
 VIDEO JUEGOS:
