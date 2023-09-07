@@ -37,22 +37,22 @@ Vivo Y01 es el Y51
 Vivo V21
 ___________________________________
 SILICONE CASE:
-A20s Rosa
+ok A20s Rosa
 iPhone 11 Palo Rosa
 iPhone 11 Lila
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-Moto E20
+Moto E20 Rojo
 Moto G60 Verde
 Note 8 Rojo
-Note 11 Verde Militar
-Note 11 Morado
+ok Note 11 Verde Militar
+ok Note 11 Morado
 Note 11 Lila
 Note 12 pro 5G
-Oppo A17 Morado
-Oppo A57 Negro
-Oppo A57 Morado
+ok Oppo A17 Morado
+ok Oppo A57 Negro
+ok Oppo A57 Morado
 Oppo Reno 7 5G Rojo
 Oppo Reno 7 5G Morado
 ___________________________________
@@ -62,10 +62,11 @@ Parlantes Mini
 Aro de luz 26cm Blanco
 ___________________________________
 ANDRES CAPITAL:
-Manos Libres J5 Blanco
-Manod Libres J5 Negro
+ok Manos Libres J5 Blanco
+ok Manos Libres J5 Negro
 Vidrio Templado Moto E40
 Manos Libres Caja Eco S6 Negro
+ok Manos Libres S6 Blanco
 Ceramico J6 Plus
 Ceramico A22 4G
 ___________________________________
@@ -79,21 +80,21 @@ Pedir cable bafle NIA
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
 SPACE:
-iphone 8 Plus
-A04s
+okiphone 8 Plus
+ok A04s
 A11
 A10
 Y7a
 Moto G9 Power
 Moto G9 Plus
-Moto G22
+ok Moto G22
 Moto G13
 Moto G20
 Note 12c
-Note 9s
+ok Note 9s
 Redmi A2
 Redmi Note 12s
-Note 12 Pro
+ok Note 12 Pro
 Redmi 12
 Oppo Reno 7 5G
 Vivo V21
@@ -108,10 +109,11 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-Pacha A21s
-Pacha J4 / J6 Plus
-Pacha Moto G20
-Pacha A13
+Camara frontal Y9 Prime
+ok Pacha A21s
+ok Pacha J4 / J6 Plus
+ok Pacha Moto G20
+ok Pacha A13
 Tapa iphone 11 pro max mejor con estacion
 pd llevar A30 fallo
 ___________________________________
