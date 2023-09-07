@@ -26,12 +26,14 @@ BATRI CARACAS:
 Forro Cables
 ___________________________________
 TYD:
+ok audifonos Colores 
+ok parlantes soporte cicla
 Forro audifonos Serie 3
 ___________________________________
 ANTICHOQUES:
 J7 2017 Caballero
-Y7 2018 Dama
-Y7 2018 Caballero
+ok Y7 2018 Dama
+ok Y7 2018 Caballero
 iPhone 8
 Vivo Y01 es el Y51
 Vivo V21
@@ -39,22 +41,22 @@ ___________________________________
 SILICONE CASE:
 ok A20s Rosa
 iPhone 11 Palo Rosa
-iPhone 11 Lila
+ok iPhone 11 Lila
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-Moto E20 Rojo
+ok Moto E20 Rojo
 Moto G60 Verde
 Note 8 Rojo
 ok Note 11 Verde Militar
 ok Note 11 Morado
-Note 11 Lila
+ok Note 11 Lila
 Note 12 pro 5G
 ok Oppo A17 Morado
 ok Oppo A57 Negro
 ok Oppo A57 Morado
-Oppo Reno 7 5G Rojo
-Oppo Reno 7 5G Morado
+ok Oppo Reno 7 5G Rojo
+ok Oppo Reno 7 5G Morado
 ___________________________________
 JOMA:
 En proceso Garantia balaca Bose
@@ -67,8 +69,8 @@ ok Manos Libres J5 Negro
 Vidrio Templado Moto E40
 Manos Libres Caja Eco S6 Negro
 ok Manos Libres S6 Blanco
-Ceramico J6 Plus
-Ceramico A22 4G
+ok Ceramico J6 Plus
+ok Ceramico A22 4G
 ___________________________________
 ARMADURA:
 Moto E40
@@ -92,8 +94,8 @@ Y7a
 Moto G9 Power
 Moto G9 Plus
 ok Moto G22
-Moto G13
-Moto G20
+ok Moto G13
+ok Moto G20
 Note 12c
 ok Note 9s
 Redmi A2
