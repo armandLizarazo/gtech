@@ -1,9 +1,7 @@
 ___________________________________
 CHICAGO 107:
-Soporte TV Fijo
 Soporte TV Brazo
 Teclado flexible PC
-Pilas bafle
 ___________________________________
 PELO LILA:
 Consola Juegos SEGA
@@ -11,6 +9,7 @@ ___________________________________
 ATRAS PR:
 Cargador 3-12v
 Microfono alambrico
+Cable 2 a 1
 RCA 2 a 2 1.5m
 RCA 2 a 2 3m
 Pila CR2016
@@ -26,37 +25,22 @@ BATRI CARACAS:
 Forro Cables
 ___________________________________
 TYD:
-ok audifonos Colores 
-ok parlantes soporte cicla
 Forro audifonos Serie 3
 ___________________________________
 ANTICHOQUES:
 J7 2017 Caballero
-ok Y7 2018 Dama
-ok Y7 2018 Caballero
 iPhone 8
-Vivo Y01 es el Y51
 Vivo V21
 ___________________________________
 SILICONE CASE:
-ok A20s Rosa
 iPhone 11 Palo Rosa
-ok iPhone 11 Lila
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-ok Moto E20 Rojo
-Moto G60 Verde
 Note 8 Rojo
-ok Note 11 Verde Militar
-ok Note 11 Morado
-ok Note 11 Lila
 Note 12 pro 5G
-ok Oppo A17 Morado
-ok Oppo A57 Negro
-ok Oppo A57 Morado
-ok Oppo Reno 7 5G Rojo
-ok Oppo Reno 7 5G Morado
+Tecnos
+Pova 4 Gris Oscuro
 ___________________________________
 JOMA:
 En proceso Garantia balaca Bose
@@ -64,45 +48,28 @@ Parlantes Mini
 Aro de luz 26cm Blanco
 ___________________________________
 ANDRES CAPITAL:
-ok Manos Libres J5 Blanco
-ok Manos Libres J5 Negro
+Garantia Cargador Samsung 25w
+Vidrio Templado A71
 Vidrio Templado Moto E40
 Manos Libres Caja Eco S6 Negro
-ok Manos Libres S6 Blanco
-ok Ceramico J6 Plus
-ok Ceramico A22 4G
+Manos Libres S6 Blanco
 ___________________________________
 ARMADURA:
-Moto E40
 Note 11
-Moto Moto G22
 ___________________________________
 TIGERS NODO:
-ok radio baofeng
-ok espumadores 
-ok Barbera Profesional 
-ok Cepillo secador aguacate 
-ok Pedir cable bafle NIA
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
 SPACE:
-okiphone 8 Plus
-ok A04s
 A11
 A10
 Y7a
 Moto G9 Power
 Moto G9 Plus
-ok Moto G22
-ok Moto G13
-ok Moto G20
 Note 12c
-ok Note 9s
 Redmi A2
 Redmi Note 12s
-ok Note 12 Pro
 Redmi 12
-Oppo Reno 7 5G
 Vivo V21
 ___________________________________
 YOYOS CARACAS:
@@ -115,18 +82,12 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
-Camara frontal Y9 Prime
-ok Pacha A21s
-ok Pacha J4 / J6 Plus
-ok Pacha Moto G20
-ok Pacha A13
 Tapa iphone 11 pro max mejor con estacion
 pd llevar A30 fallo
 ___________________________________
 TABLET STORE:
 ___________________________________
 VPG SAS:
-Multitoma USB-7 x2
 ___________________________________
 VIDEO JUEGOS:
 360 Call of Duty
