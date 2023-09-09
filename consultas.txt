@@ -37,6 +37,8 @@ iPhone 11 Palo Rosa
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
+Y9 2019 Negro
+Y9 2019 Morado
 Note 8 Rojo
 Note 12 pro 5G
 Tecnos
@@ -82,6 +84,9 @@ CELUFLEX F&R:
 Pines V8
 ___________________________________
 EKADI:
+Logica Note 10s
+Pacha Redmi 9T
+Pacha Oppo A54
 Tapa iphone 11 pro max mejor con estacion
 pd llevar A30 fallo
 ___________________________________
