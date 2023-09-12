@@ -3,6 +3,7 @@ CHICAGO 107:
 Teclado Combo Tipo Gamer Eco
 Cable 2 a 1 1.5
 Gatillo ventilador
+Soporte TV Fijo
 Soporte TV Brazo
 Teclado flexible PC
 ___________________________________
@@ -58,6 +59,7 @@ Note 12c Verde
 Note 12c AzulRey
 Tecnos
 Pova 4 Gris Oscuro
+Vivo Y15s verde
 Vivo V25 Pro Azul Rey
 ___________________________________
 JOMA:
@@ -108,14 +110,17 @@ CELUFLEX F&R:
 Pines Redmi 9a
 ___________________________________
 EKADI:
-Logica Note 9s
-Logica Note 10s
-Pacha Redmi 9T
-Pacha Redmi 10
+ok Logica Note 9s
+ok Logica Note 10s
+ok Pacha Redmi 9T
+ok Pacha Redmi 10
+ok Pacha Redmi 12c
 Pacha Oppo A54
 Pacha A21s
-Tapa iphone 11 pro max mejor con estacion
-pd llevar A30 fallo
+Tapa Redmi 8
+Bandeja Redmi 8
+Tapa iphone 11 pro max taller ekady
+
 ___________________________________
 TABLET STORE:
 ___________________________________
