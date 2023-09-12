@@ -38,7 +38,7 @@ iPhone 8
 Vivo V21
 ___________________________________
 SILICONE CASE:
-A02s Rojo
+ok A02s Rojo
 A02s Negro
 A02s Verde
 A02s Rosa
@@ -50,13 +50,13 @@ Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
 Y9 2019 Morado
-Moto G60s Amarillo
-Moto G60s Rosado
-Moto G60s Verde
+ok Moto G60s Amarillo
+ok Moto G60s Rosado
+ok Moto G60s Verde
 Note 8 Rojo
 Note 12 pro 5G
 Note 12c Verde
-Note 12c AzulRey
+ok Note 12c AzulRey
 Tecnos
 Pova 4 Gris Oscuro
 Vivo Y15s verde
@@ -70,19 +70,19 @@ Parlantes Mini
 Aro de luz 26cm Blanco
 ___________________________________
 ANDRES CAPITAL:
-USB 8GB
+ok USB 8GB
 USB 4GB
-Garantia Cargador Samsung 25w
+ok Garantia Cargador Samsung 25w cambio
 Vidrio Templado A71
 Vidrio Templado Moto E40
-Manos Libres Caja Eco S6 Negro
-Manos Libres S6 Blanco
+Manos Libres S6 Negro
+ok Manos Libres S6 Blanco
 ___________________________________
 ARMADURA:
 Note 11
 ___________________________________
 TIGERS NODO:
-Tarro Motivacional No pandas
+ok Tarro Motivacional No pandas
 Cepillo alizador
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
