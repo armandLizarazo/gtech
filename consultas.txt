@@ -77,8 +77,8 @@ Cepillo alizador
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
 SPACE:
-A11
-A10
+ok A11
+ok A10
 Y7a
 ok Moto G9 Power
 ok Moto G9 Plus
@@ -86,7 +86,7 @@ ok Moto E40
 ok Note 12c
 Redmi A2
 ok Note 10s
-Redmi Note 12s
+ok Redmi Note 12s
 Redmi 12
 Vivo V21
 ___________________________________
@@ -103,6 +103,7 @@ ___________________________________
 EKADI:
 Pacha A21s
 Pacha Moto G30
+
 ___________________________________
 TABLET STORE:
 ___________________________________
