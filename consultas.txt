@@ -37,23 +37,36 @@ ___________________________________
 SILICONE CASE:
 A02s Verde
 A02s Rosa
+<<<<<<< HEAD
 A52 Negro
+=======
+ok A52 Negro
+ok A52 Verde
+>>>>>>> eaa28a64022f9cf12b48be87e50b8ad1b1e96aac
 iPhone 11 Verde x2
 iPhone 11 Palo Rosa
 iphone 12 Verde
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
+<<<<<<< HEAD
 Y9 2019 Negro
 redmi 9c Verde
 Note 8 Rojo
 Note 12 pro 5G
+=======
+ok Y9 2019 Negro
+ok Y9 2019 Morado
+ok redmi 9c Verde
+ok Note 8 Rojo
+ok Note 12 pro 5G
+>>>>>>> eaa28a64022f9cf12b48be87e50b8ad1b1e96aac
 Note 12c Verde
 Tecnos
 Pova 4 Gris Oscuro
 Realme 7i Negro
 Vivo Y15s verde
-Vivo V25 Pro Azul Rey
+ok Vivo V25 Pro Azul Rey
 ___________________________________
 JOMA:
 Garantia inpods 12 azul Claro
