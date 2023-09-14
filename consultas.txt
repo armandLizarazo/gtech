@@ -35,7 +35,7 @@ iPhone 8
 Vivo V21
 ___________________________________
 SILICONE CASE:
-A02s Negro
+ok A02s Negro
 A02s Verde
 A02s Rosa
 A52 Negro
@@ -47,7 +47,7 @@ Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-Y9 2019 Morado
+ok Y9 2019 Morado
 redmi 9c Verde
 Note 8 Rojo
 Note 12 pro 5G
@@ -80,12 +80,12 @@ SPACE:
 A11
 A10
 Y7a
-Moto G9 Power
-Moto G9 Plus
-Moto E40
-Note 12c
+ok Moto G9 Power
+ok Moto G9 Plus
+ok Moto E40
+ok Note 12c
 Redmi A2
-Note 10s
+ok Note 10s
 Redmi Note 12s
 Redmi 12
 Vivo V21
