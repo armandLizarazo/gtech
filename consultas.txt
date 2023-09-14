@@ -1,11 +1,9 @@
 ___________________________________
 CHICAGO 107:
-ok Teclado Combo Tipo Gamer Eco
-ok Cable 2 a 1 1.5
-ok Gatillo ventilador
-ok Soporte TV Fijo
+Adaptador Plug Grande a Pequeño
 Soporte TV Brazo
-ok Teclado flexible PC
+Teclado Gamer Sencillo Negro
+Teclado Gamer Sencillo Blanco
 ___________________________________
 PELO LILA:
 Consola Juegos SEGA
@@ -19,7 +17,6 @@ RCA 2 a 2 3m
 Pila CR2016
 ___________________________________
 RACO:
-ok Powerbank Solar
 Control Xbox One encargo cliente
 ___________________________________
 SAFARI:
@@ -38,10 +35,11 @@ iPhone 8
 Vivo V21
 ___________________________________
 SILICONE CASE:
-ok A02s Rojo
 A02s Negro
 A02s Verde
 A02s Rosa
+A52 Negro
+A52 Verde
 iPhone 11 Verde x2
 iPhone 11 Palo Rosa
 iphone 12 Verde
@@ -50,39 +48,30 @@ Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
 Y9 2019 Morado
-ok Moto G60s Amarillo
-ok Moto G60s Rosado
-ok Moto G60s Verde
 Note 8 Rojo
 Note 12 pro 5G
 Note 12c Verde
-ok Note 12c AzulRey
 Tecnos
 Pova 4 Gris Oscuro
+Realme 7i Negro
 Vivo Y15s verde
 Vivo V25 Pro Azul Rey
 ___________________________________
 JOMA:
-ok inpods 12 negro
-ok inpods 12 gris
-ok Garantia balaca Bose cambiaron
+Garantia inpods 12 azul Claro
 Parlantes Mini
 Aro de luz 26cm Blanco
 ___________________________________
 ANDRES CAPITAL:
-ok USB 8GB
 USB 4GB
-ok Garantia Cargador Samsung 25w cambio
 Vidrio Templado A71
 Vidrio Templado Moto E40
 Manos Libres S6 Negro
-ok Manos Libres S6 Blanco
 ___________________________________
 ARMADURA:
 Note 11
 ___________________________________
 TIGERS NODO:
-ok Tarro Motivacional No pandas
 Cepillo alizador
 En proceso Garantia Teatro TG-300 ruido
 ___________________________________
@@ -95,6 +84,7 @@ Moto G9 Plus
 Moto E40
 Note 12c
 Redmi A2
+Note 10s
 Redmi Note 12s
 Redmi 12
 Vivo V21
@@ -105,24 +95,13 @@ ___________________________________
 YOYOS CARACAS:
 ___________________________________
 CHIWICELL:
-Prensa Alta
 Cargador tester
 ___________________________________
 CELUFLEX F&R:
-Pines Redmi 9a
 ___________________________________
 EKADI:
-ok Logica Note 9s
-ok Logica Note 10s
-ok Pacha Redmi 9T
-ok Pacha Redmi 10
-ok Pacha Redmi 12c
-Pacha Oppo A54
 Pacha A21s
-Tapa Redmi 8
-Bandeja Redmi 8
-Tapa iphone 11 pro max taller ekady
-
+Pacha Moto G30
 ___________________________________
 TABLET STORE:
 ___________________________________
