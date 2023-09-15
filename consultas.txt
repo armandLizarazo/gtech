@@ -1,117 +1,142 @@
+===================================
+           CHICAGO 107:           |
+===================================
+Adaptador Plug Grande a Pequeño   |
+Soporte TV Brazo                  |
+Teclado Gamer Sencillo Negro      |
+Teclado Gamer Sencillo Blanco     |
+
 ___________________________________
-CHICAGO 107:
-Adaptador Plug Grande a Pequeño
-Soporte TV Brazo
-Teclado Gamer Sencillo Negro
-Teclado Gamer Sencillo Blanco
+PELO LILA:                        |
+===================================
+Consola Juegos SEGA               |
+
 ___________________________________
-PELO LILA:
-Consola Juegos SEGA
+ATRAS PR:                         |
+===================================
+Cargador 3-12v                    |
+Microfono alambrico               |
+Cable 2 a 1                       |
+RCA 2 a 2 1.5m                    |
+RCA 2 a 2 3m                      |
+Pila CR2016                       |
+
 ___________________________________
-ATRAS PR:
-Cargador 3-12v
-Microfono alambrico
-Cable 2 a 1
-RCA 2 a 2 1.5m
-RCA 2 a 2 3m
-Pila CR2016
-___________________________________
-RACO:
+RACO:                             |
+===================================
 Control Xbox One encargo cliente
+
 ___________________________________
-SAFARI:
+SAFARI:                           |
+===================================
+
 ___________________________________
-MEMORIAS MUSICA:
+MEMORIAS MUSICA:                  |
+===================================
+
 ___________________________________
 BATRI CARACAS:
+===================================
 Forro Cables
+
 ___________________________________
-TYD:
+TYD:                              |
+===================================
 Forro audifonos Serie 3
+
 ___________________________________
-ANTICHOQUES:
+ANTICHOQUES:                      |
+===================================
 J7 2017 Caballero
 iPhone 8
 Vivo V21
+
 ___________________________________
-SILICONE CASE:
+SILICONE CASE:                    |
+===================================
 A02s Verde
 A02s Rosa
-<<<<<<< HEAD
 A52 Negro
-=======
-ok A52 Negro
-ok A52 Verde
->>>>>>> eaa28a64022f9cf12b48be87e50b8ad1b1e96aac
 iPhone 11 Verde x2
 iPhone 11 Palo Rosa
 iphone 12 Verde
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-<<<<<<< HEAD
 Y9 2019 Negro
 redmi 9c Verde
 Note 8 Rojo
 Note 12 pro 5G
-=======
-ok Y9 2019 Negro
-ok Y9 2019 Morado
-ok redmi 9c Verde
-ok Note 8 Rojo
-ok Note 12 pro 5G
->>>>>>> eaa28a64022f9cf12b48be87e50b8ad1b1e96aac
 Note 12c Verde
 Tecnos
 Pova 4 Gris Oscuro
 Realme 7i Negro
 Vivo Y15s verde
-ok Vivo V25 Pro Azul Rey
+
 ___________________________________
-JOMA:
+JOMA:                             |
+===================================
 Garantia inpods 12 azul Claro
 Parlantes Mini
 Aro de luz 26cm Blanco
+
 ___________________________________
-ANDRES CAPITAL:
+ANDRES CAPITAL:                   |
+===================================
 USB 4GB
 Vidrio Templado A71
 Vidrio Templado Moto E40
 Manos Libres S6 Negro
+
 ___________________________________
-ARMADURA:
+ARMADURA:                         |
+===================================
 Note 11
 ___________________________________
-TIGERS NODO:
-Cepillo alizador
+TIGERS NODO:                      |
+===================================
 En proceso Garantia Teatro TG-300 ruido
+
 ___________________________________
-SPACE:
+SPACE:                            |
+===================================
 Y7a
 Redmi A2
 Redmi 12
 Vivo V21
 ___________________________________
-MGSAFE:
+MGSAFE:                           |
+===================================
 Iphone 11 x2
-___________________________________
-YOYOS CARACAS:
-___________________________________
-CHIWICELL:
-Cargador tester
-___________________________________
-CELUFLEX F&R:
-___________________________________
-EKADI:
-Pacha A21s
-Pacha Moto G30
 
 ___________________________________
-TABLET STORE:
+YOYOS CARACAS:                    |
+===================================
+
 ___________________________________
-VPG SAS:
+CHIWICELL:                        |
+===================================
+Cargador tester
+
 ___________________________________
-VIDEO JUEGOS:
+CELUFLEX F&R:                     |
+===================================
+
+___________________________________
+EKADI:                            |
+===================================
+
+___________________________________
+TABLET STORE:                     |
+===================================
+
+___________________________________
+VPG SAS:                          |
+===================================
+
+___________________________________
+VIDEO JUEGOS:                     |
+===================================
 360 Call of Duty
 360 Left 4 Live 2
 360 Fifas recientes
