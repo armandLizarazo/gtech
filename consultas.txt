@@ -54,26 +54,26 @@ Vivo V21
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-A02s Verde
-A02s Rosa
-A31 Lila
-A31 Morado
+ok A02s Verde
+ok A02s Rosa
+ok A31 Lila
+ok A31 Morado
 A52 Negro
 iPhone 11 Verde x2
-iPhone 11 Palo Rosa
-iphone 12 Verde
+ok iPhone 11 Palo Rosa
+ok iphone 12 Verde
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-Moto G22 Morado
-Moto G22 Fuccia
+ok Moto G22 Morado
+ok Moto G22 Fuccia
 Redmi 9c Verde
-Note 8 Rojo
-Note 10 Pro Rojo
-Note 10 Pro Morado
+ok Note 8 Rojo
+ok Note 10 Pro Rojo
+ok Note 10 Pro Morado
 Note 10 pro Verde
-Note 10 Pro Rosa
+ok Note 10 Pro Rosa
 Note 12 pro 5G
 Note 12c Verde
 Tecnos
