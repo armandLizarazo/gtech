@@ -54,26 +54,14 @@ Vivo V21
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok A02s Verde
-ok A02s Rosa
-ok A31 Lila
-ok A31 Morado
 A52 Negro
 iPhone 11 Verde x2
-ok iPhone 11 Palo Rosa
-ok iphone 12 Verde
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-ok Moto G22 Morado
-ok Moto G22 Fuccia
 Redmi 9c Verde
-ok Note 8 Rojo
-ok Note 10 Pro Rojo
-ok Note 10 Pro Morado
 Note 10 pro Verde
-ok Note 10 Pro Rosa
 Note 12 pro 5G
 Note 12c Verde
 Tecnos
@@ -110,8 +98,6 @@ ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
-Redmi A2
-Redmi 10A
 Redmi 12
 Vivo V21
 ___________________________________
@@ -135,11 +121,7 @@ CELUFLEX F&R:
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Pacha Redmi 9T
-Pacha Moto G22
-Pacha Note 10 / 10s
-Pacha A31 C/M
-Pacha Moto G20
+Pacha Moto E20
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
