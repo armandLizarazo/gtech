@@ -58,14 +58,14 @@ SILICONE CASE:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ok A20s Rojo
 ok A52 Negro
-S22 Normal
+ok S22 Normal
 iPhone 11 Verde x2
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
 ok Moto E13 Negro
-Redmi 9c Verde
+ok Redmi 9c Verde
 ok Redmi 9c Amarillo
 ok Redmi 10 Morado
 Note 10 pro Verde
@@ -91,8 +91,9 @@ ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 USB 4GB
-Vidrio Templado A71
-Vidrio Templado Moto E40
+ok Vidrio Templado A71
+ok Vidrio Templado Moto E40
+ok cerámico s22
 
 ___________________________________
 ARMADURA:                         
@@ -102,7 +103,7 @@ ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Wait Garantia Teatro TG-300 ruido
-Luces LED x5
+ok Luces LED x5
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
