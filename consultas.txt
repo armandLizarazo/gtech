@@ -68,7 +68,7 @@ ok Moto E13 Negro
 ok Redmi 9c Verde
 ok Redmi 9c Amarillo
 ok Redmi 10 Morado
-Note 10 pro Verde
+ok Note 10 pro Verde
 Note 12 pro 5G
 Note 12c Verde
 Tecnos
