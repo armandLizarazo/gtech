@@ -49,24 +49,25 @@ ANTICHOQUES:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
 iPhone 8
-Redmi 10 Dama
+ok Redmi 10 Dama
+ok Vivo Y16
 Vivo V21
 
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-A20s Rojo
-A52 Negro
+ok A20s Rojo
+ok A52 Negro
 S22 Normal
 iPhone 11 Verde x2
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-Moto E13 Negro
+ok Moto E13 Negro
 Redmi 9c Verde
-Redmi 9c Amarillo
-Redmi 10 Morado
+ok Redmi 9c Amarillo
+ok Redmi 10 Morado
 Note 10 pro Verde
 Note 12 pro 5G
 Note 12c Verde
@@ -74,8 +75,10 @@ Tecnos
 Pova 4 Gris Oscuro
 Realme 7i Negro
 Realme C35 Verde
-Vivo Y15s verde
-Vivo Y16 Lila
+ok Vivo Y15s verde
+ok oppo a16
+ok Vivo Y16 Lila
+ok Vivo V25
 
 ___________________________________
 JOMA:                             
@@ -90,7 +93,6 @@ ANDRES CAPITAL:
 USB 4GB
 Vidrio Templado A71
 Vidrio Templado Moto E40
-Manos Libres S6 Negro
 
 ___________________________________
 ARMADURA:                         
@@ -105,9 +107,9 @@ ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
-Moto G22
-Noto G50
-Redmi 10A
+ok Moto G22
+Moto G50
+ok Redmi 10A
 Redmi 12
 Vivo V21
 ___________________________________
@@ -118,7 +120,12 @@ Iphone 11 x2
 ___________________________________
 YOYOS CARACAS:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
+ok pro 60
+ok Y60
+ok Ml S6 Blanco
+ok Ml S6 Negro
+ok Cargador Cabeza TC
+ok Cargador Cabeza Usb 
 ___________________________________
 CHIWICELL:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -133,7 +140,7 @@ EKADI:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pacha Moto E20
 Pacha A11
-Pacha Oppo Y16
+Pacha Oppo A16
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
