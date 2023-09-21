@@ -5,7 +5,8 @@ body{
 }
 header {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  /* justify-content: center; */
   align-items: center;
   background-color: rgb(234, 131, 250);
   position: fixed;
@@ -24,6 +25,24 @@ header h1{
   padding: 5px;
 }
 
+.menuContain{
+width: 100%;
+}
+.menu {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+}
+
+li{
+  width: 33%;
+  text-align: center;
+  margin-left: auto;
+  border-radius: 5px;
+  padding: 1px;
+  background-color: rgb(212, 255, 0);
+  list-style: none;
+}
 .mid{
   height: 40rem;
   margin-top: 151px;
@@ -36,18 +55,6 @@ header h1{
 
 
 
-/* Aside izquierdo */
-.left-aside {
-  position: fixed;
-  margin-right: 70%;
-  margin-top: 10%;
-  float: left;
-  width: 24%;
-  height: fit-content;
-  border-radius: 5px;
-  background-color: #f0f0f0;
-  padding: 1rem;
-}
 
 /* Sección central */
 .central-section {
@@ -61,18 +68,6 @@ header h1{
   width: 200px;
 }
 
-/* Aside derecho */
-.right-aside {
-  position: fixed;
-  margin-left: 70%;
-  margin-top: 10%;
-  float: right;
-  width: 24%;
-  height: fit-content;
-  border-radius: 5px;
-  background-color: #f0f0f0;
-  padding: 1rem;
-}
 
 /* Pie de página */
 footer {
