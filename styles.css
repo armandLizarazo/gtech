@@ -1,5 +1,5 @@
 body{
-  background-color: aqua;
+  background-color: #ff5e94;
   margin: 0;
   padding: 0;
 }
@@ -8,70 +8,84 @@ header {
   flex-direction: column;
   /* justify-content: center; */
   align-items: center;
-  background-color: rgb(234, 131, 250);
-  position: fixed;
+  background-color: #03a9f4;
+  /* position: fixed; */
   top: 0;
   left: 0;
   width: 100%;
   height: 150px;
   z-index: 1000;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.1);
 }
-header h1{
+header h1 {
   text-align: center;
   background-color: aliceblue;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   padding: 5px;
 }
+.subtitulo{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+h4{
+  color: #fff;
+  text-shadow: 12px 10px 5px rgba(0, 0, 0, 0.5);
+}
+img{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: -10px 12px 5px rgba(0, 0, 0, 0.5);
+}
+.content1{
+  width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
 
 .menuContain{
-width: 100%;
+  display: flex;
+  width: 100%;
 }
 .menu {
+  width: 100%;
   display: flex;
-  align-items:center;
-  justify-content: space-between;
 }
 
-li{
+.menu li{
   width: 33%;
   text-align: center;
-  margin-left: auto;
+  /* margin-left: 0.5rem; */
   border-radius: 5px;
-  padding: 1px;
-  background-color: rgb(212, 255, 0);
+  background-color: #03a9f4;
   list-style: none;
 }
-.mid{
-  height: 40rem;
-  margin-top: 151px;
+.section1 {
   display: flex;
-  justify-content: space-between;
-  align-items: normal;
-  text-align: center;
-  padding: 1rem;
-}
-
-
-
-
-/* Sección central */
-.central-section {
-  display: flex;
+  flex-direction: column;
   align-items: center;
-  width: 33%;
-  padding: 1rem;
-  margin: auto;
 }
-.info{
-  width: 200px;
+
+p {
+  box-shadow: 0 12px 0 rgba(0, 0, 0, 0.5) ;
+  background-color: #fff;
+  background-image: linear-gradient(to bottom,#ff5e94 5%, #fff 95% );
+  text-align: center;
+  border-style:none;
+  width: 90%;
+  padding: 5px;
+  border-radius: 5px;
+  border-color: black;
 }
 
 
 /* Pie de página */
 footer {
-  clear: both;
+  position: relative;
   background-color: #333;
   color: white;
   text-align: center;
