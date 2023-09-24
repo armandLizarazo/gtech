@@ -1,7 +1,10 @@
 body{
-  background-color: #ff5e94;
+  background-color: #ff4b87;
   margin: 0;
   padding: 0;
+  /* background-image: url(/webimages/backgorundLogo.JPG);
+  background-size: 250px, 250px;
+  background-repeat: repeat; */
 }
 header {
   display: flex;
@@ -28,16 +31,26 @@ header h1 {
   width: 100%;
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+h2{
+  text-shadow: 12px 10px 5px rgba(0, 0, 0, 0.5);
+}
+h3{
+  font-size: 2rem;
 }
 h4{
   color: #fff;
   text-shadow: 12px 10px 5px rgba(0, 0, 0, 0.5);
 }
+
 img{
   width: 300px;
   height: 200px;
   border-radius: 10px;
   box-shadow: -10px 12px 5px rgba(0, 0, 0, 0.5);
+  background-image: linear-gradient(to bottom);
 }
 .content1{
   width: 100%;
@@ -71,15 +84,25 @@ img{
 }
 
 p {
+  min-height: 6rem;
+  max-width: 26rem;
+  margin-top: -1rem;
   box-shadow: 0 12px 0 rgba(0, 0, 0, 0.5) ;
   background-color: #fff;
-  background-image: linear-gradient(to bottom,#ff5e94 5%, #fff 95% );
+  background-image: linear-gradient(to bottom,#ff4b87 5%, #fff 95% );
   text-align: center;
   border-style:none;
   width: 90%;
-  padding: 5px;
-  border-radius: 5px;
+  padding: 15px;
+  text-align:justify;
+  border-radius: 10px;
   border-color: black;
+  cursor: pointer;
+  transition: background-image 0.5s ease; 
+}
+p:hover {
+  background-image: linear-gradient(to bottom, #fff 5%, #ff4b87 95%);
+    text-align: center;
 }
 
 
