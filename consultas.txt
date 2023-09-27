@@ -1,13 +1,13 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Adaptador Plug Grande a Pequeño   
+ok Adaptador Plug Grande a Pequeño   
 Soporte TV Brazo                  
-Gatillos W11 x3
-Gatillos con Ventilador 
+ok Gatillos W11 x3
+ok Gatillos con Ventilador 
 Gatillos Sencillos
 Pilas Recargables AA sin Cargador
-Tira Pila Carbon AA
+ok Tira Pila Carbon AA
 Teclado Gamer Sencillo Negro      
 Teclado Gamer Sencillo Blanco     
 
@@ -85,9 +85,9 @@ ok Y33s Morado
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Garantia inpods 12 azul Claro
+ok Garantia inpods 12 azul Claro
 Parlantes Mini
-TV Box 2/16 x2
+ok TV Box 2/16 x2
 Aro de luz 26cm Blanco
 Inpods 12 Negro
 Inpods 12 Rosa
@@ -134,8 +134,8 @@ ok Bluethooth Car Otro
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Ceramio X7a
 Ceramico Clear X7a
-Ceramico Moto G20
-Ceramico Vivo Y20s
+ok Ceramico Moto G20
+ok Ceramico Vivo Y20s
 Ceramico Vivo V21
 Ceramico Reno 5 Lite
 Ceramico Y50 
@@ -143,8 +143,8 @@ Templado A14
 Templado A10s
 Templado A7 2018 / J6 Plus
 Templado A34
-Templado A54
-Templado Redmi 10c
+ok Templado A54
+ok Templado Redmi 10c
 Templado Note 10 / note 10s
 Templado Note 11
 Tortuga XR / iPhone 11
@@ -160,8 +160,10 @@ CELUFLEX F&R:
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Devolver tactil tablet
-Flex Principal A21s
+ok Devolver tactil tablet
+ok Flex Principal A21s
+ok Pacha note 10s
+ok pacha 1s
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -170,9 +172,9 @@ Forro 7" Niño
 ___________________________________
 VPG SAS:                          
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-M19 x2
-Control PS2 Negro
-Control PS2 Azul
+ok M19 x2
+ok Control PS2 Negro
+ok Control PS2 Azul
 Control PS2 Gris
 ___________________________________
 VIDEO JUEGOS:                     
