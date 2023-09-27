@@ -58,16 +58,16 @@ Vivo V21
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-A11 Negro
-A12 Lila
-A20 Morado
+ok A11 Negro
+ok A12 Lila
+ok A20 Morado
 iPhone 11 Verde x2
 Y6p Rojo
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-Moto E13 Rojo
+ok Moto E13 Rojo
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
@@ -76,11 +76,11 @@ Note 12c Verde
 Tecnos
 Pova 4 Gris Oscuro
 Realme 7i Negro
-Realme C35 Verde
-Y20s Rojo
+ok Realme C35 Verde
+ok Y20s Rojo
 Y33s Negro
-Y33s Lila
-Y33s Morado
+ok Y33s Lila
+ok Y33s Morado
 
 ___________________________________
 JOMA:                             
@@ -112,25 +112,25 @@ ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
-Moto E20 x1
-Moto G31 x2
+ok Moto E20 x1
+ok Moto G31 x2
 Redmi 9 x2
 Redmi 12
-Oppo A57
+ok Oppo A57
 Vivo Y16
 Vivo V21
-Vivo Y33s
+ok Vivo Y33s
 ___________________________________
 MGSAFE:                           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 ___________________________________
 YOYOS CARACAS:
-Cables V8 de mil
-M10
-Mouse Ergonomico Inalambrico
-Bluethooth Car X6 x2
-Bluethooth Car Otro                    
+ok Cables V8 de mil
+ok M10
+ok Mouse Ergonomico Inalambrico
+okBluethooth Car X6 x2
+ok Bluethooth Car Otro                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Ceramio X7a
 Ceramico Clear X7a
