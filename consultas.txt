@@ -1,13 +1,8 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Adaptador Plug Grande a Pequeño   
 Soporte TV Brazo                  
-ok Gatillos W11 x3
-ok Gatillos con Ventilador 
-Gatillos Sencillos
 Pilas Recargables AA sin Cargador
-ok Tira Pila Carbon AA
 Teclado Gamer Sencillo Negro      
 Teclado Gamer Sencillo Blanco     
 
@@ -20,6 +15,7 @@ ___________________________________
 ATRAS PR:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Cargador 3-12v                    
+Cargador 5v 2a doble punta
 Cable 2 a 1                       
 RCA 2 a 2 1.5m                    
 RCA 2 a 2 3m                      
@@ -58,16 +54,12 @@ Vivo V21
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok A11 Negro
-ok A12 Lila
-ok A20 Morado
 iPhone 11 Verde x2
 Y6p Rojo
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-ok Moto E13 Rojo
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
@@ -76,27 +68,25 @@ Note 12c Verde
 Tecnos
 Pova 4 Gris Oscuro
 Realme 7i Negro
-ok Realme C35 Verde
-ok Y20s Rojo
 Y33s Negro
-ok Y33s Lila
-ok Y33s Morado
 
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Garantia inpods 12 azul Claro
 Parlantes Mini
-ok TV Box 2/16 x2
 Aro de luz 26cm Blanco
 Inpods 12 Negro
 Inpods 12 Rosa
 Inpods 12 Azul Oscuro
-Aor de Luz 26cm RGB
+Aro de Luz 26cm RGB
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
+Micro 32 gb x3
+Micro 16 gb x3
+Micro 8 gb x2
+Micro 4 gb x2
 ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -104,38 +94,26 @@ Note 11
 ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Wait Garantia Teatro TG-300 ruido
-Camara 3 Antenas x2
 TDT x4
 Cepillo Secador Promo
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
-ok Moto E20 x1
-ok Moto G31 x2
 Redmi 9 x2
 Redmi 12
-ok Oppo A57
 Vivo Y16
 Vivo V21
-ok Vivo Y33s
 ___________________________________
 MGSAFE:                           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 ___________________________________
 YOYOS CARACAS:
-ok Cables V8 de mil
-ok M10
-ok Mouse Ergonomico Inalambrico
-okBluethooth Car X6 x2
-ok Bluethooth Car Otro                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Garantia M19 solo llego 1
 Ceramio X7a
 Ceramico Clear X7a
-ok Ceramico Moto G20
-ok Ceramico Vivo Y20s
 Ceramico Vivo V21
 Ceramico Reno 5 Lite
 Ceramico Y50 
@@ -143,8 +121,6 @@ Templado A14
 Templado A10s
 Templado A7 2018 / J6 Plus
 Templado A34
-ok Templado A54
-ok Templado Redmi 10c
 Templado Note 10 / note 10s
 Templado Note 11
 Tortuga XR / iPhone 11
@@ -160,22 +136,13 @@ CELUFLEX F&R:
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Devolver tactil tablet
-ok Flex Principal A21s
-ok Pacha note 10s
-ok pacha 1s
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Forro 7" Niño
 
 ___________________________________
 VPG SAS:                          
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok M19 x2
-ok Control PS2 Negro
-ok Control PS2 Azul
-Control PS2 Gris
 ___________________________________
 VIDEO JUEGOS:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
