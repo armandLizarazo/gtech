@@ -1,42 +1,37 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>G-Tech</title>
-    <style>
-      body {
-        background-color: white;
-      }
-      h1 {
-        color: pink;
-      }
-      .dropdown {
-        position: relative;
-        display: inline-block;
-      }
-      .dropdown-content {
-        display: none;
-        position: absolute;
-        z-index: 1;
-      }
-      .dropdown:hover .dropdown-content {
-        display: block;
-      }
-      .submenu:hover {
-        color: red;
-        background-color: white;
-      }
-    </style>
+    <title>Lista Desplegable</title>
   </head>
   <body>
-    <h1>G-Tech</h1>
-    <div class="dropdown">
-      <a href="#">Inicio</a>
-      <div class="dropdown-content">
-        <a class="submenu" href="#">Nosotros</a><br />
-        <a class="submenu" href="#">Mision</a><br />
-        <a class="submenu" href="#">Info</a><br />
-      </div>
-    </div>
-    <div class="dropdown">...</div>
+    <h1>Selecciona una palabra:</h1>
+    <select id="palabras">
+      <option value="opcion1">Opción 1</option>
+      <option value="opcion2">Opción 2</option>
+      <option value="opcion3">Opción 3</option>
+    </select>
+
+    <p id="informacion"></p>
+
+    <script>
+      // Define un objeto JavaScript que contiene la información relacionada.
+      var informacionRelacionada = {
+        opcion1: "Esta es la información para la Opción 1.",
+        opcion2: "Aquí tienes detalles sobre la Opción 2.",
+        opcion3: "La Opción 3 tiene su propia descripción.",
+      };
+
+      // Obtiene el elemento de la lista desplegable y el párrafo donde se mostrará la información.
+      var lista = document.getElementById("palabras");
+      var informacion = document.getElementById("informacion");
+
+      // Agrega un event listener para detectar cambios en la selección.
+      lista.addEventListener("change", function () {
+        var seleccion = lista.value; // Obtiene el valor seleccionado.
+
+        // Muestra la información relacionada en el párrafo.
+        informacion.textContent = informacionRelacionada[seleccion];
+      });
+    </script>
   </body>
 </html>

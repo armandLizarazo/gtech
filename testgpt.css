@@ -1,0 +1,19 @@
+/* Estilos generales */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo del encabezado sticky */
+.sticky-header {
+  position: sticky;
+  top: 0;
+  /* Para asegurarse de que esté en la parte superior */
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  /* Configuración para que se quede pegado en la parte superior */
+  bottom: 0;
+}
