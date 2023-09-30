@@ -5,7 +5,7 @@ Soporte TV Brazo
 Pilas Recargables AA sin Cargador
 Teclado Gamer Sencillo Negro      
 Teclado Gamer Sencillo Blanco     
-
+Cable 2 a 1 corto
 ___________________________________
 PELO LILA:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -63,6 +63,8 @@ Y9 2019 Negro
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
+Moto G22 Rosado
+Note 10s Rojo
 Note 12 pro 5G
 Note 12c Verde
 Tecnos
@@ -76,9 +78,10 @@ JOMA:
 Parlantes Mini
 Aro de luz 26cm Blanco
 Inpods 12 Negro
-Inpods 12 Rosa
+Inpods 12 Rosa x2
 Inpods 12 Azul Oscuro
 Aro de Luz 26cm RGB
+Control PS3 transparente
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -87,6 +90,7 @@ Micro 32 gb x3
 Micro 16 gb x3
 Micro 8 gb x2
 Micro 4 gb x2
+Cargador Belkin V8 x5
 ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -112,11 +116,16 @@ ___________________________________
 YOYOS CARACAS:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Garantia M19 solo llego 1
+AAkg con Aislador
+Ceramico A03
 Ceramio X7a
 Ceramico Clear X7a
 Ceramico Vivo V21
 Ceramico Reno 5 Lite
-Ceramico Y50 
+Ceramico Y50
+Ceramico Oppo Reno 5 Lite 
+Templado A13
+Templado A31
 Templado A14
 Templado A10s
 Templado A7 2018 / J6 Plus
@@ -137,6 +146,9 @@ ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pacha A12/M12 x2
+Cambiar Moto G50
+revisar pacha A30
+Camara Principal Note 8
 Preguntar por Pacha Moto Z2 Play
 Preguntar por Bateria Moto Z2 Play
 Preguntar por cambio Tapa XR
