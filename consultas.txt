@@ -3,7 +3,7 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte TV Brazo
 Soporte PC Cajita                  
-Pilas Recargables AA sin Cargador
+ok Pilas Recargables AA sin Cargador
 Teclado Gamer Sencillo Negro      
 ___________________________________
 PELO LILA:                        
@@ -45,37 +45,37 @@ ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
-Moto E13 Dama x3
-Moto E13 Caballero x3
+ok Moto E13 Dama x3
+ok Moto E13 Caballero x3
 iPhone 8
 Vivo V21
-Vivo Y22s Dama
-Vivo Y22s Caballero
+ok Vivo Y22s / Y35 Dama
+Vivo Y22s / Y35 Caballero
 
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-A11 Negro
-A12 Rosa
+ok A11 Negro
+ok A12 Rosa
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-Honor X7a Azul Oscuro
+ok Honor X7a Azul Oscuro
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
-Moto E13 Negro
-Moto G22 Fuccia
-Moto G22 Rosa
-Note 11 Lila
-Redmi 10c Negro
-Note 10s Negro
-Note 10s Rojo
+ok Moto E13 Negro
+ok Moto G22 Fuccia
+ok Moto G22 Rosa
+ok Note 11 Lila
+ok Redmi 10c Negro
+ok Note 10s Negro
+ok Note 10s Rojo
 Note 12 pro 5G
 Note 12c Verde
 Realme 7i Negro
-Y33s Negro
+ok Y33s Negro
 Vivo Y22s
 
 ___________________________________
@@ -109,9 +109,9 @@ SPACE:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
 Redmi 9 x2
-Redmi 10
+ok Redmi 10
 Redmi 12
-Vivo Y16
+ok Vivo Y16
 Vivo V21
 ___________________________________
 MGSAFE:                           
@@ -120,8 +120,10 @@ MGSAFE:
 ___________________________________
 YOYOS CARACAS:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Garantia M19 solo prende 1
-Tortuga XR / iPhone 11
+ok Garantia M19 solo prende 1
+ok Control xbox Caja Negra
+ok Tortuga XR / iPhone 11
+ok Cables iPhone 4 / iPad 2
 ___________________________________
 CHIWICELL:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
