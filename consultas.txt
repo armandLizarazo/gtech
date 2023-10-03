@@ -12,12 +12,8 @@ Consola Juegos SEGA
 
 ___________________________________
 ATRAS PR:                         
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Cargador 3-12v                    
-Cargador 5v 2a doble punta
-Cable 2 a 1                       
-RCA 2 a 2 1.5m                    
-RCA 2 a 2 3m                      
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯                    
+Cargador 5v doble punta                      
 Pila CR2016                       
 
 ___________________________________
