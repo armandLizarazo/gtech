@@ -3,7 +3,6 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte TV Brazo
 Soporte PC Cajita                  
-ok Pilas Recargables AA sin Cargador
 Teclado Gamer Sencillo Negro      
 ___________________________________
 PELO LILA:                        
@@ -20,8 +19,6 @@ ___________________________________
 RACO:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Control Xbox One encargo cliente
-Pilas Recargables X2 s/c AAA x2
-Pilas Recargables X4 s/c AAA x2
 
 ___________________________________
 SAFARI:                           
@@ -45,52 +42,37 @@ ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
-ok Moto E13 Dama x3
-ok Moto E13 Caballero x3
 iPhone 8
 Vivo V21
-ok Vivo Y22s / Y35 Dama
 Vivo Y22s / Y35 Caballero
 
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok A11 Negro
-ok A12 Rosa
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
 Y9 2019 Negro
-ok Honor X7a Azul Oscuro
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
-ok Moto E13 Negro
-ok Moto G22 Fuccia
-ok Moto G22 Rosa
-ok Note 11 Lila
-ok Redmi 10c Negro
-ok Note 10s Negro
-ok Note 10s Rojo
 Note 12 pro 5G
 Note 12c Verde
 Realme 7i Negro
-ok Y33s Negro
 Vivo Y22s
 
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Parlantes Mini
-TV Box
 Aro de luz 26cm Blanco
 Aro de Luz 26cm RGB
-Control PS3 transparente
+Control PS3 Blanco
+Control PS3 Transparente
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
-USB 16GB
 Cargador Belkin V8 x5
 ___________________________________
 ARMADURA:                         
@@ -101,17 +83,13 @@ TIGERS NODO:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 TDT x4
 Parlante Cabina Grande
-Camara 3 Antenas
-Luces Led x4
 Cepillo Secador Promo
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
 Redmi 9 x2
-ok Redmi 10
 Redmi 12
-ok Vivo Y16
 Vivo V21
 ___________________________________
 MGSAFE:                           
@@ -120,10 +98,6 @@ MGSAFE:
 ___________________________________
 YOYOS CARACAS:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Garantia M19 solo prende 1
-ok Control xbox Caja Negra
-ok Tortuga XR / iPhone 11
-ok Cables iPhone 4 / iPad 2
 ___________________________________
 CHIWICELL:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -136,11 +110,9 @@ CELUFLEX F&R:
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Pacha Y7 prime
+Pacha Moto G8 Plus
+Pacha Moto G9 Plus
 Pacha Y6 2019
-Pacha Redmi 9a
-Pacha Note 8
-Cambiar Pacha A20
 Preguntar por cambio Tapa XR
 Preguntar por Camara trasera XR
 
