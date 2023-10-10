@@ -3,7 +3,7 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte TV Brazo
 Soporte PC Cajita                  
-Europeo Goma
+ok Europeo Goma
 Balaca Ramitech Conferencia
 Teclado Gamer Sencillo Negro      
 ___________________________________
@@ -38,9 +38,9 @@ Forros Agua
 
 ___________________________________
 TYD:
-TC a 3.5 Hembra
-Cable V8 Suelto Calidad
-Cable TC Suelto Calidad
+ok TC a 3.5 Hembra
+ok Cable V8 Suelto Calidad
+ok Cable TC Suelto Calidad
 Cable TC 4 o 5 mah                              
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Forro audifonos Serie 3
@@ -51,7 +51,7 @@ ANTICHOQUES:
 J7 2017 Caballero
 iPhone 8
 Redmi 9T
-Y7 Prime Caballero
+ok Y7 Prime Caballero
 Vivo V21
 Vivo Y22s / Y35 Caballero
 
@@ -61,13 +61,13 @@ SILICONE CASE:
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-Y9 2019 Negro
+ok Y9 2019 Negro
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
 Note 12 pro 5G
-Note 12c Verde
-Redmi 12 Lila
+ok Note 12c Verde
+ok Redmi 12 Lila
 Realme 7i Negro
 Vivo Y22s
 
@@ -88,7 +88,7 @@ Cargador Belkin V8 x5
 ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Note 11
+ok Note 11
 Redmi 10c
 ___________________________________
 TIGERS NODO:                      
@@ -102,9 +102,9 @@ SPACE:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
 S21 FE
-S23 +
-A30s
-iphone 11 Pro
+ok S23 +
+ok A30s
+ok iphone 11 Pro
 Redmi 9 x2
 Redmi 12
 Vivo V21
@@ -133,6 +133,7 @@ EKADI:
 Bateria Y5 2018 / Honor X7
 Pacha Mi Note 10 Lite
 Logica de carga A34 5G
+Lógica de carga Moto G5
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
