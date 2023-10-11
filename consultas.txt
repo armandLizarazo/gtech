@@ -3,7 +3,7 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte TV Brazo
 Soporte PC Cajita                  
-ok Europeo Goma
+HDMI2VGA Cable
 Balaca Ramitech Conferencia
 Teclado Gamer Sencillo Negro      
 ___________________________________
@@ -38,20 +38,14 @@ Forros Agua
 
 ___________________________________
 TYD:
-ok TC a 3.5 Hembra
-ok Cable V8 Suelto Calidad
-ok Cable TC Suelto Calidad
-Cable TC 4 o 5 mah                              
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Forro audifonos Serie 3
-Bidrio Blindado iphone 11
 ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
 iPhone 8
 Redmi 9T
-ok Y7 Prime Caballero
 Vivo V21
 Vivo Y22s / Y35 Caballero
 
@@ -61,13 +55,10 @@ SILICONE CASE:
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
-ok Y9 2019 Negro
 Moto G7 Power Verde
 Moto G7 Power Morado
 Moto G7 Power Lila
 Note 12 pro 5G
-ok Note 12c Verde
-ok Redmi 12 Lila
 Realme 7i Negro
 Vivo Y22s
 
@@ -75,20 +66,13 @@ ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Parlantes Mini
-ok Aro de luz 26cm Blanco
-ok Aro de Luz 26cm RGB
-ok Balaca Unicornio o Hello Kitty
-ok Control PS3 Blanco
-Control PS3 Transparente
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
-Cargador Belkin V8 x5
 ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Note 11
 Redmi 10c
 ___________________________________
 TIGERS NODO:                      
@@ -102,9 +86,6 @@ SPACE:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Y7a
 S21 FE
-ok S23 +
-ok A30s
-ok iphone 11 Pro
 Redmi 9 x2
 Redmi 12
 Vivo V21
@@ -130,9 +111,6 @@ CELUFLEX F&R:
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Bateria Y5 2018 / Honor X7
-Pacha Mi Note 10 Lite
-Logica de carga A34 5G
 Lógica de carga Moto G5
 ___________________________________
 TABLET STORE:                     
