@@ -80,8 +80,8 @@ ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 TDT x4
-Roolo Cinta Led
-Camara Bombillo
+ok Roolo Cinta Led
+ok Camara Bombillo
 Cambiar Luces
 Parlante Cabina Grande
 Cepillo Secador Promo
