@@ -117,15 +117,16 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Camara Frontal A21s
-Lógica de carga Moto G5
-Pacha Samsung A23
-Pacha Nova Y70
-Pacha Lg K51
-Pacha Lg K40s
-Pacha iphone 7 Plus
-Bateria iPhone 7 Plus
-Pacha iPhone 7
+ok Camara Frontal A21s
+ok Lógica de carga Moto G5
+ok Pacha Samsung A23
+ok Pacha Nova Y70
+ok Pacha Lg K51
+ok Pacha Lg K40s
+ok Pacha iphone 7 Plus
+ok Bateria iPhone 7 Plus
+ok Pacha iPhone 7
+ok power a11
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
