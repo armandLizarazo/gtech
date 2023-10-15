@@ -58,6 +58,12 @@ A21s AzulRey
 A21s AzulOscuro
 A21s Morado
 A21s Fucsia
+A32 5G Amarillo
+A32 5G Morado
+A33 5G Morado
+A33 5G AzulRey
+A34 VinoTinto
+A34 AzulRey
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
@@ -76,7 +82,8 @@ Note 12 Pro Rojo
 Note 12 Pro Amarillo
 Realme 7i Negro
 Vivo Y22s
-
+Vivo Y30 / Y50 Rosa
+Vivo Y30 / Y50 Morado
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -101,6 +108,10 @@ Cepillo Secador Promo
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+A32 5G
+A51
+A52
+A53
 iPhone 11 Negro
 iPhone 11 Lila
 Moto G20 Negro
@@ -110,6 +121,8 @@ Y7a
 S21 FE
 Redmi 9 x2
 Redmi 12
+Vivo Y20s
+Vivo Y30 / Y50
 Vivo V21
 ___________________________________
 MGSAFE:                           
@@ -135,6 +148,9 @@ ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pacha Moto G30
+Pacha A21s
+Logica de carga A04s
+Bateria P10 Lite / P20
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
