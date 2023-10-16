@@ -56,17 +56,17 @@ ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 A7 2018
-A21s Rosado
-A21s AzulRey
-A21s AzulOscuro
-A21s Morado
+ok A21s Rosado
+ok A21s AzulRey
+ok A21s AzulOscuro
+ok A21s Morado
 A21s Fucsia
 A32 5G Amarillo
 A32 5G Morado
 A33 5G Morado
-A33 5G AzulRey
+ok A33 5G AzulRey
 A34 VinoTinto
-A34 AzulRey
+ok A34 AzulRey
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
@@ -76,20 +76,20 @@ Moto G7 Power Negro
 Moto G20 morado
 Moto G20 Fucsia
 9a Negro
-9a AzulOscuro
+ok 9a AzulOscuro
 9a Fucsia
 9a Morado
-9a Lila
+ok 9a Lila
 9a Rojo
-Note 11 Fucsia
+ok Note 11 Fucsia
 Redmi 12 4G Rosa
-Redmi 12 4G Morado
-Note 12 Pro Rojo
-Note 12 Pro Amarillo
+ok Redmi 12 4G Morado
+ok Note 12 Pro Rojo
+ok Note 12 Pro Amarillo
 Realme 7i Negro
 Vivo Y22s
-Vivo Y30 / Y50 Rosa
-Vivo Y30 / Y50 Morado
+ok Vivo Y30 / Y50 Rosa
+ok Vivo Y30 / Y50 Morado
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -100,10 +100,10 @@ ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
-Cargadores Belkin ligthning
+ok Cargadores Belkin ligthning
 Cuellera L&M
-5D A22 5G
-5D Note 10 Pro
+ok 5D A22 5G
+ok 5D Note 10 Pro
 
 ___________________________________
 ARMADURA:                         
