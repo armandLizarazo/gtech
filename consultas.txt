@@ -41,10 +41,12 @@ ___________________________________
 TYD:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Forro audifonos Serie 3
+Cables TC Ligthning
 ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
+A7 2018
 iPhone 8
 Redmi 9T
 Vivo V21
@@ -53,6 +55,7 @@ Vivo Y22s / Y35 Caballero
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+A7 2018
 A21s Rosado
 A21s AzulRey
 A21s AzulOscuro
@@ -75,6 +78,9 @@ Moto G20 Fucsia
 9a Negro
 9a AzulOscuro
 9a Fucsia
+9a Morado
+9a Lila
+9a Rojo
 Note 11 Fucsia
 Redmi 12 4G Rosa
 Redmi 12 4G Morado
@@ -88,11 +94,17 @@ ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Parlantes Mini
+inpods Negros
+
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
+Cargadores Belkin ligthning
 Cuellera L&M
+5D A22 5G
+5D Note 10 Pro
+
 ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -104,7 +116,7 @@ TDT x4
 Secador Remington 5000w
 Cambiar Luces
 Parlante Cabina Grande
-Cepillo Secador Promo
+
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -147,6 +159,8 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Tapa Moto G30 Color Foto
+Pacha P20 Lite
 Pacha Moto G30
 Pacha A21s
 Logica de carga A04s
