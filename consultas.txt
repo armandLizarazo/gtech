@@ -74,15 +74,15 @@ Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
 Moto G20 morado
-Moto G20 Fucsia
-9a Negro
+ok Moto G20 Fucsia
+ok 9a Negro
 ok 9a AzulOscuro
 9a Fucsia
 9a Morado
 ok 9a Lila
 9a Rojo
 ok Note 11 Fucsia
-Redmi 12 4G Rosa
+ok pRedmi 12 4G Rosa
 ok Redmi 12 4G Morado
 ok Note 12 Pro Rojo
 ok Note 12 Pro Amarillo
@@ -120,17 +120,17 @@ Parlante Cabina Grande
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-A32 5G
+ok A32 5G
 A51
-A52
-A53
+ok A52
+ok A53
 iPhone 11 Negro
 iPhone 11 Lila
-Moto G20 Negro
-Moto G20 Lila
+ok Moto G20 Negro
+ok Moto G20 Lila
 Nova Y90
 Y7a
-S21 FE
+ok S21 FE
 Redmi 9 x2
 Redmi 12
 Vivo Y20s
