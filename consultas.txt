@@ -56,17 +56,11 @@ ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 A7 2018
-ok A21s Rosado
-ok A21s AzulRey
-ok A21s AzulOscuro
-ok A21s Morado
 A21s Fucsia
 A32 5G Amarillo
 A32 5G Morado
 A33 5G Morado
-ok A33 5G AzulRey
 A34 VinoTinto
-ok A34 AzulRey
 Y7 2018 Negro
 Y7 2018 Rojo
 Y7 2018 Lila
@@ -74,22 +68,11 @@ Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
 Moto G20 morado
-ok Moto G20 Fucsia
-ok 9a Negro
-ok 9a AzulOscuro
 9a Fucsia
 9a Morado
-ok 9a Lila
 9a Rojo
-ok Note 11 Fucsia
-ok pRedmi 12 4G Rosa
-ok Redmi 12 4G Morado
-ok Note 12 Pro Rojo
-ok Note 12 Pro Amarillo
 Realme 7i Negro
 Vivo Y22s
-ok Vivo Y30 / Y50 Rosa
-ok Vivo Y30 / Y50 Morado
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -100,10 +83,7 @@ ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
-ok Cargadores Belkin ligthning
 Cuellera L&M
-ok 5D A22 5G
-ok 5D Note 10 Pro
 
 ___________________________________
 ARMADURA:                         
@@ -120,17 +100,11 @@ Parlante Cabina Grande
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok A32 5G
 A51
-ok A52
-ok A53
 iPhone 11 Negro
 iPhone 11 Lila
-ok Moto G20 Negro
-ok Moto G20 Lila
 Nova Y90
 Y7a
-ok S21 FE
 Redmi 9 x2
 Redmi 12
 Vivo Y20s
@@ -159,12 +133,6 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Tapa Moto G30 Color Foto
-Pacha P20 Lite
-Pacha Moto G30
-Pacha A21s
-Logica de carga A04s
-Bateria P10 Lite / P20
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
