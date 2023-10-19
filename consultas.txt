@@ -3,9 +3,9 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte TV Brazo
 Soporte PC Cajita                  
-HDMI2VGA Cable
-Guantes Gamer
-Balaca Ramitech Conferencia
+ok HDMI2VGA Cable
+ok Guantes Gamer
+ok Balaca Ramitech Conferencia
 Teclado Gamer Sencillo Negro      
 ___________________________________
 PELO LILA:                        
@@ -48,7 +48,7 @@ ANTICHOQUES:
 J7 2017 Caballero
 A7 2018
 iPhone 8
-Moto One Caballero
+ok Moto One Caballero
 Redmi 9T
 Vivo V21
 
@@ -56,16 +56,16 @@ ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 A7 2018
-A13 Rosa
-A14 Lila
-A14 Rosado
-A20s Morado
-A21s Fucsia
-A22 4G Morado
-A32 5G Amarillo
+ok A13 Rosa
+ok A14 Lila
+ok A14 Rosado
+ok A20s Morado
+ok A21s Fucsia
+ok A22 4G Morado
+ok A32 5G Amarillo
 A32 5G Morado
-A33 5G Morado
-A34 VinoTinto
+ok A33 5G Morado
+ok A34 VinoTinto
 S22 Ultra Rojo
 S22 Ultra Negro
 Y7 2018 Negro
@@ -74,18 +74,18 @@ Y7 2018 Lila
 Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
-Moto G20 morado
-9a Rojo
-Redmi 10 Rosa
-Realme 7i Negro
+ok Moto G20 morado
+ok 9a Rojo
+ok Redmi 10 Rosa
+ok Realme 7i Negro
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Parlantes Mini
-Aro de Luz 30cm
-Garantia Inpods
-inpods Negros
+ok Aro de Luz 33cm
+ok Garantia Inpods
+ok inpods Negros
 inpods AzulOscuro
 ___________________________________
 ANDRES CAPITAL:                   
@@ -102,7 +102,7 @@ TIGERS NODO:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 TDT x4
 Secador Remington 5000w
-Cambiar Luces
+ok Cambiar Luces
 Parlante Cabina Grande
 
 ___________________________________
@@ -144,12 +144,12 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Pacha redmi 9a
-Pacha A02s/A03/A03s
-Pacha J2 Core
+ok Pacha redmi 9a
+ok Pacha A02s/A03/A03s
+ok Pacha J2 Core
 Pacha P30 Lite
 Pacha P40 Lite
-Bateria Ace 4
+ok Bateria Ace 4
 
 ___________________________________
 TABLET STORE:                     
@@ -160,8 +160,8 @@ VPG SAS:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯--
 Parlantes TG-294 Rojo
 Parlantes TG-294 Verde
-Parlantes TG-294 Negro
-Parlante TG-595 Rojo
+ok Parlantes TG-294 Negro
+ok Parlante TG-595 Rojo
 ___________________________________
 VIDEO JUEGOS:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
