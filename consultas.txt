@@ -64,7 +64,7 @@ Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
 Redmi Note 12s Rojo
-Redmi Note 12s Lila
+ok Redmi Note 12s Lila
 Vivo Y22s
 ___________________________________
 JOMA:                             
@@ -76,7 +76,7 @@ ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
-5d Mi 11 Lite / Note 12s
+ok 5d Mi 11 Lite / Note 12s
 5d Mi a3
 ___________________________________
 ARMADURA:                         
@@ -92,14 +92,14 @@ Parlante Cabina Grande
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-A51
+okA51
 iPhone 11 Negro
 iPhone 11 Lila
-Nova Y90
+ok Nova Y90
 Y7a
-Redmi 9 x2
+ok Redmi 9 x2
 Redmi 12
-Vivo Y20s
+ok Vivo Y20s
 Vivo Y30 / Y50
 Vivo V21
 ___________________________________
