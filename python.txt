@@ -1,0 +1,56 @@
+Python: 
+	Lenguaje de proposito general	
+	Lenguaje de alto nivel
+	Facil de aprender
+	Tipado Dinamico
+	Orientado a Objetos
+	Lenguaje interpretado
+
+Porque Python:
+	Facil de leer
+	Resume el codigo (identacion)
+	Bibliotecas de codigo
+	Comunidad fuerte
+	Multiparadigma (multiples plataformas)
+	Salida laboral
+
+Que se puede hacer:
+	Desarrollo web servidor
+	Aplicaciones movile
+	Automatizacion de scripts
+	Desarrollo de software
+	Desarrollo de juegos
+
+Tipos de datos:
+	String texto: 
+		"texto" = Una sola linea
+		'texto' 
+		"""texto""" = Multiples lineas
+	Numeros:
+		int enteros = sin decimales
+		float flotantes = con decimales
+	Booleanos:
+		False = Falso
+		True = Verdadero
+	
+Variables:
+	Espacios que se almacenan en nuestro programa
+	Las variables se declaran:
+		variable
+	Las variables se definen:
+		variable = "variable"
+	Las variables son redefinibles modificar
+	
+
+Operadores:
+	De pertenencia:
+		in: Devuelve True si el valor se encuentra 
+		-en la secuencia. En caso contrario, 
+		-devuelve False.
+		not in: Devuelve True si el valor no se 
+		-encuentra en la secuencia. En caso contrario,
+		-devuelve False.
+		Son sensibles a mayusculas y minusculas
+		
+
+
