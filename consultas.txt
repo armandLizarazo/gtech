@@ -3,12 +3,9 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte TV Brazo
 Soporte PC Cajita                  
-ok Adaptador 3.5 a media
+tc Sata 3.0
 Adaptador 3.5 a media st
 Teclado Gamer Sencillo Negro
-ok Control X3
-ok Gatillos Ventilador
-@@@Control samsungtv      
 ___________________________________
 PELO LILA:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -49,9 +46,12 @@ ANTICHOQUES:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
 A7 2018
+A04e Caballero
 A03 dama
 iPhone 8
-Redmi 9T
+X7 Caballero
+Redmi 9T Dama x 2
+Redmi 9T Caballero x2
 Vivo V21
 
 ___________________________________
@@ -63,21 +63,34 @@ S22 Ultra Negro
 Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
+Moto G20 Rosa
+Note 11 Verde Biche
 Redmi Note 12s Rojo
-ok Redmi Note 12s Lila
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
+Pilas Recargables AAx2 IronBat
 Parlantes Mini
 inpods AzulOscuro
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
-ok 5d Mi 11 Lite / Note 12s
-5d Mi a3
+Simcares Claro
+5d Moto G20
+5d A21s
+5d Redmi 9a
+5d Y7a
+5d PSmart 2019
+5d Y6 2019
+5d Y9a
+5d Moto E7 Plus
+5d Moto G7 Power
+5d Moto G41
+Ceramico A12
+
 ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -92,14 +105,10 @@ Parlante Cabina Grande
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-okA51
 iPhone 11 Negro
 iPhone 11 Lila
-ok Nova Y90
 Y7a
-ok Redmi 9 x2
 Redmi 12
-ok Vivo Y20s
 Vivo Y30 / Y50
 Vivo V21
 ___________________________________
@@ -110,9 +119,11 @@ ___________________________________
 YOYOS CARACAS:
 Llavero Chicas Super Poderosas Verde
 Llavero Chicas Super Poderosas Azul
-Cabeza iphone TC
-Audifonos Pro60
-MagSafe iPhone 11
+Cargador EBS Solo Cabeza
+Gatillos sin mango
+Pilas Recargables Sony AAx2
+
+
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ___________________________________
 CHIWICELL:                        
@@ -128,10 +139,8 @@ ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pacha P30 Lite
-Ok Bateria Ace 4 Lite
-ok Pacha A03 / A03s / A02s
-ok Pacha J6 Plus / J4 Plus x2
-ok Tapa Moto One
+Pacha Moto G20
+
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -139,18 +148,9 @@ TABLET STORE:
 ___________________________________
 VPG SAS:                          
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯--
-Cambio Parlante distorsion
 Parlantes TG-294 Rojo
 Parlantes TG-294 Verde
 ___________________________________
 VIDEO JUEGOS:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-PS2 Emuladores
-360 Call of Duty
-360 Left 4 Live 2
-360 Fifas recientes
-360 Dragon Ball Z Burst Limit
-360 Grand Theft Auto San Andreas
-360 Minecraft Story Mode
-360 Resident Evil Operation Raccon Cty
 
