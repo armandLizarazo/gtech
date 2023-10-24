@@ -40,18 +40,17 @@ ___________________________________
 TYD:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Forro audifonos Serie 3
-Cables TC Ligthning
 ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
 A7 2018
-A04e Caballero
-A03 dama
+ok A04e Caballero
+ok A03 dama
 iPhone 8
-X7 Caballero
-Redmi 9T Dama x 2
-Redmi 9T Caballero x2
+ok X7 Caballero
+ok Redmi 9T Dama x 2
+ok Redmi 9T Caballero x2
 Vivo V21
 
 ___________________________________
@@ -119,9 +118,9 @@ ___________________________________
 YOYOS CARACAS:
 Llavero Chicas Super Poderosas Verde
 Llavero Chicas Super Poderosas Azul
-Cargador EBS Solo Cabeza
-Gatillos sin mango
-Pilas Recargables Sony AAx2
+ok Cargador EBS Solo Cabeza
+ok Gatillos sin mango
+ok Pilas Recargables Sony AAx2
 
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
