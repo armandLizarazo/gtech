@@ -2,6 +2,7 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Soporte PC Cajita                  
+Mouse Inalambrico Eco
 Adaptador 3.5 a media st
 Teclado Gamer Sencillo Negro
 ___________________________________
@@ -13,6 +14,10 @@ ___________________________________
 ATRAS PR:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯                    
 Cargador 5v doble punta                      
+Cable Optico
+Cable 2 a 1 1.5m
+
+Adaptador Optico
 Pila CR2016                       
 
 ___________________________________
@@ -38,6 +43,8 @@ ___________________________________
 TYD:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Forro audifonos Serie 3
+Bateria Magsafe 
+
 ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -50,20 +57,41 @@ ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 A7 2018
+iphone 11 lila
+
 Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
+Moto G60s Morado
+Oppo A54 vinotinto
+Mi 11T Rojo
+Mi 11T Morado
+Mi 11T Verde
+Note 10s Rojo
 Note 11 Verde Biche
+Note 12 Amarillo
+Redmi 8A
+Redmi note 8 Rosa
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Control PS3 Blanco
 Aro de luz 33cm
 Parlantes Mini
+Controles TV
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
+Manos Libres caja Eco Negro
+memorias 128gb
+Memorias 256Gb
+5D Nova 9 9se
+5D PSmart 2019
+5D A34
+5D Y7 2018
+5D Y6 2018
 
 ___________________________________
 ARMADURA:                         
@@ -73,8 +101,9 @@ ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 TDT x4
+Cinta con cargador
+Microfono Condensador
 Secador Remington 5000w
-Parlante Cabina Grande
 
 ___________________________________
 SPACE:                            
@@ -82,6 +111,8 @@ SPACE:
 iPhone 11 Negro
 iPhone 11 Lila
 Y7a
+Moto G20 x2
+X7 x2
 Redmi 12
 Vivo Y30 / Y50
 Vivo V21
@@ -91,6 +122,8 @@ MGSAFE:
 
 ___________________________________
 YOYOS CARACAS:
+Audifonos Pro x2
+Cables USB ligthning
 Llavero Chicas Super Poderosas Verde
 Llavero Chicas Super Poderosas Azul
 
@@ -111,6 +144,7 @@ EKADI:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pacha P30 Lite
 Pacha A7 2018
+Pacha Note 12
 Altavoz Moto One
 
 ___________________________________
