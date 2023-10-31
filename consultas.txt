@@ -36,7 +36,7 @@ Forros Agua
 ___________________________________
 TYD:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Garantia Bateria Magsafe 
+ok Garantia Bateria Magsafe 
 
 ___________________________________
 ANTICHOQUES:                      
@@ -55,17 +55,17 @@ Moto G7 Power Morado
 Moto G7 Power Negro
 Oppo A54 vinotinto
 Mi 11T Verde
-Note 9s Negro
+ok Note 9s Negro
 Note 11 Verde Biche
-Note 12a Rojo
-Note 12 Amarillo
+ok Note 12a Rojo
+ok Note 12 Amarillo
 Redmi 8A
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
-Pilas recargables AAX4 x2
+ok Pilas recargables AAX4 x2
 
 ___________________________________
 ANDRES CAPITAL:                   
@@ -85,8 +85,8 @@ TIGERS NODO:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 TDT x4
 Teatro TG-200
-Faja mano Izquiera
-En Proceso Garantia TG-300
+ok Faja mano Izquiera
+ok Garantia TG-300
 
 ___________________________________
 SPACE:                            
@@ -124,10 +124,10 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Pacha Redmi 9a x2
-Pacha moto One Action / Vision
-Cambiar Bandeja Mi 10 Lite
-Visor Camara iPhone 8 Plus
+ok Pacha Redmi 9a x2
+ok Pacha moto One Action / Vision
+ok Cambiar Bandeja Mi 10 Lite
+ok Visor Camara iPhone 8 Plus
 Pacha P30 Lite
 ___________________________________
 TABLET STORE:                     
