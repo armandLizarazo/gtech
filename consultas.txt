@@ -36,7 +36,6 @@ Forros Agua
 ___________________________________
 TYD:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Garantia Bateria Magsafe 
 
 ___________________________________
 ANTICHOQUES:                      
@@ -55,21 +54,21 @@ Moto G7 Power Morado
 Moto G7 Power Negro
 Oppo A54 vinotinto
 Mi 11T Verde
-ok Note 9s Negro
 Note 11 Verde Biche
-ok Note 12a Rojo
-ok Note 12 Amarillo
 Redmi 8A
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
-ok Pilas recargables AAX4 x2
 
 ___________________________________
 ANDRES CAPITAL:                   
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Manos libres S6 Blanco
+Manos librea J5 Blanco
+Cargadores Belkin TC x5
+Cargadores Belkin V8 x5
 Balaca Naisu ST-437 Negro
 Manos Libres caja Eco Negro
 memorias 128gb
@@ -85,12 +84,11 @@ TIGERS NODO:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 TDT x4
 Teatro TG-200
-ok Faja mano Izquiera
-ok Garantia TG-300
 
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+iphone 8 Plus x3
 iPhone 11 Negro
 iPhone 11 Lila
 A54
@@ -124,10 +122,9 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok Pacha Redmi 9a x2
-ok Pacha moto One Action / Vision
-ok Cambiar Bandeja Mi 10 Lite
-ok Visor Camara iPhone 8 Plus
+Pacha A02s / A03
+Logica Oppo A54
+Altavoz Moto One Action
 Pacha P30 Lite
 ___________________________________
 TABLET STORE:                     
