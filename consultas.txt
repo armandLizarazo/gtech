@@ -2,6 +2,8 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Adaptador 3.5 a media st
+Cargador PC HP Punta Azul
+Cargador Lenovo Idea Pad 3
 Pilas Carbon AA
 Pilas Carbon AAA
 Teclado Gamer Sencillo Negro
@@ -52,8 +54,15 @@ A7 2018
 Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
-Oppo A54 vinotinto
+Moto E22 Rojo
+Moto E22 Negro
+Moto E22 Morado
+Oppo A54 Vinotinto
 Mi 11T Verde
+Redmi Note 12 Rojo
+Redmi note 12 Morado
+Redmi note 12 Rosado
+Redmi note 12 Verde
 Note 11 Verde Biche
 Redmi 8A
 Vivo Y22s
@@ -95,6 +104,7 @@ A54
 Moto E7 2020
 Moto G20 Lila x2
 Y7a
+Redmi Note 12 Lila
 Vivo Y30 / Y50
 Vivo V21
 ___________________________________
@@ -123,6 +133,7 @@ ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pacha A02s / A03
+Pacha J5 Prime Blanco
 Logica Oppo A54
 Altavoz Moto One Action
 Pacha P30 Lite
