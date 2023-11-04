@@ -2,11 +2,11 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Adaptador 3.5 a media st
-Cargador PC HP Punta Azul
-Cargador Lenovo Idea Pad 3
-Pilas Carbon AA
+ok Cargador PC HP Punta Azul
+ok Cargador Lenovo Idea Pad 3
+ok Pilas Carbon AA
 Pilas Carbon AAA
-Audifonos Conf Ramitech x2
+ok Audifonos Conf Ramitech x2
 Teclado Gamer Sencillo Negro
 Control DVD LG
 ___________________________________
@@ -87,8 +87,8 @@ ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
-Garantia TV BOX
-TV BOX
+en proceso Garantia TV BOX
+ok TV BOX
 
 
 ___________________________________
