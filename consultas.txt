@@ -2,13 +2,8 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Adaptador 3.5 a media st
-ok Cargador PC HP Punta Azul
-ok Cargador Lenovo Idea Pad 3
-ok Pilas Carbon AA
 Pilas Carbon AAA
-ok Audifonos Conf Ramitech x2
 Teclado Gamer Sencillo Negro
-Control DVD LG
 ___________________________________
 PELO LILA:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -47,48 +42,25 @@ ANTICHOQUES:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 J7 2017 Caballero
 A7 2018
-ok A10s Dama
-ok Y6 2019 Caballero x3
 iPhone 8
 Vivo V21
 
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok iPhone 8+ Rosa
-ok iPhone 8+ Morado
-ok iPhone 8+ Azul Rey
 A7 2018
 S21 ultra Negro
 S21 ultra Morado
 Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
-ok Moto E22 Rojo
-ok Moto E22 Negro
-ok Moto E22 Morado
-ok Moto G51 Amarillo 
-ok Moto G51 Rosa
-ok Moto G51 Lila
-ok Moto G51 Morado
-ok Poco X3 GT
-ok Oppo A16 Negro
-ok Oppo A16 Amarillo 
-ok Oppo A54 Vinotinto
-ok Mi 11T Verde
-ok Redmi Note 12 4G Rojo
-ok Redmi note 12 4G Morado
-ok Redmi note 12 4G Rosado
-ok Redmi note 12 4G Verde
 Note 11 Verde Biche
-ok Redmi 8A
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
 en proceso Garantia TV BOX
-ok TV BOX
 
 
 ___________________________________
@@ -102,17 +74,8 @@ Balaca Naisu ST-437 Negro
 Manos Libres caja Eco Negro
 memorias 128gb
 Memorias 256Gb
-ok 5D Nova 9 9se
-ok 5D Note 8
-ok 5D Redmi 10
-ok 5D iPhone 12
-ok 5D iPhone 8 Negro
-ok 5D iPhone 7 Plus Blanco
-ok 5D Mi 11 Lite / Note 12s
 5D iPhone 15
-ok Ceramico Nova se
 Ceramico Moto G8 Power / Mi9T
-ok Ceramico iPhone 7 Blanco
 Ceramico iPhone 14
 Ceramico iPhone 15
 
@@ -123,28 +86,18 @@ Redmi 10c
 ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok TDT x4
-ok TV BOX
-ok tableros magicos 
 Teatro TG-200
 
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-ok iphone 8 Plus x3
-ok iPhone 11 Negro
-ok iPhone 11 Lila
-ok A24 x2
 M14
-ok A51
-ok A54 x2
 Magic 5 Lite
 Moto E7 2020
 Moto G20 Lila x2
 Moto G50
 Y7a
 Oppo A16
-ok Redmi 12 4G
 Redmi Note 12 4G Lila
 Vivo Y30 / Y50
 Vivo V21
@@ -155,10 +108,6 @@ iPhone 8 Plus
 iPhone 8
 ___________________________________
 YOYOS CARACAS:
-ok Garantia pwerbnk soplado
-ok Cargador Solo Cabeza x3
-ok M10 x2
-ok Audifonos bluethoot rosa
 Llavero Chicas Super Poderosas Verde
 Llavero Chicas Super Poderosas Azul
 
@@ -177,12 +126,7 @@ Pin de carga Samsung A10s
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Bandeja sim Redmi Note 8
-Pacha A02s / A03
-ok Pacha J5 Prime Blanco
-ok Pacha Moto E22i
-Logica Oppo A54
-Altavoz Moto One Action
+Cambiar Bandeja sim Redmi Note 8
 Pacha P30 Lite
 ___________________________________
 TABLET STORE:                     
