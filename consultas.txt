@@ -75,23 +75,23 @@ Vivo V21
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-iPhone 6s Rojo 
-iPhone 6s Lila
+ok iPhone 6s Rojo 
+ok iPhone 6s Lila
 iPhone 6s Morado
-iPhone 7+ Lila
+ok iPhone 7+ Lila
 A7 2018
-A13 Rojo
+ok A13 Rojo
 A13 Lila
-A13 Fuccia
-A30s Lila
-A30s Fuccia
-A30s Morado
+ok A13 Fuccia
+ok A30s Lila
+ok A30s Fuccia
+ok A30s Morado
 Moto G22 Rojo
 Moto G32 Morado
 Moto G32 Verde
 Nokia C20 Negro
-P30 Lite Lila
-P30 Lite Negro
+ok P30 Lite Lila
+ok P30 Lite Negro
 S9 Rosa
 S9 Morado
 S9 Rojo
@@ -135,7 +135,7 @@ Redmi 10c
 ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Teatro TG-200
+ok garantía Teatro TG-200
 
 ___________________________________
 SPACE:                            
@@ -147,9 +147,9 @@ Moto G32 x2
 Moto G20 Lila x2
 Moto G50
 Y7a
-Note 10s x2
+ok Note 10s x2
 Oppo A16
-Note 12 Negro
+Note 12 4G Negro
 Note 12 4G Lila
 Vivo Y30 / Y50
 Vivo V21
@@ -179,10 +179,10 @@ ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pachas iPhone
-Pacha P30 Lite
+ok Pacha P30 Lite
 Tapa P30 Lite Azul
-Tapa Y9 2019 Rosa
-Camara A21s
+ok Tapa Y9 2019 Rosa
+ok Camara A21s
 Visor Camara 9a
 Protector camara S22
 Protector camara S23 Plus
