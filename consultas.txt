@@ -4,6 +4,7 @@
 Adaptador 3.5 a media st
 Cargador PC 8 Puntas
 Pilas Carbon AAA
+HDTV2VGA cable
 Cable 3 a 1 TV
 Teclado Gamer Sencillo Negro
 ___________________________________
@@ -31,6 +32,7 @@ MEMORIAS MUSICA:
 ___________________________________
 BATRI CARACAS:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Cadena Pompon
 Forro Cables
 Forros Agua
 Pop Socket Anillo
@@ -40,14 +42,34 @@ TYD:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 En Proceso Garantia Powerbank soplado
 cables eco V8 
-Cables Eco TV
+Cables Eco TC
 ___________________________________
 ANTICHOQUES:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+J6 Plus
 J7 2017 Caballero
 A7 2018
-Moto g7 Caballero
+A01 Core Dama x3
+A21s Dama x4
+A14 Caballero x2
+A24 Dama x3
+A24 Caballero x3
+A54 Dama x3
+A54 Caballero x3
+P30 Lite Dama
+Y5 2018 Dama x3
+Y5 2018 Caballero x2
+Moto G4
+Moto G7 Caballero
+Moto One Fusion Dama x3
+Moto One Fusion Caballero x2
 iPhone 8
+Note 9 Caballero x2
+Redmi 10 Oscuros x2
+Redmi 10c Dama x2
+Note 11 Dama x2
+Note 11 Caballero x2
+Y20s 
 Vivo V21
 
 ___________________________________
@@ -68,6 +90,11 @@ Moto G22 Rojo
 Moto G32 Morado
 Moto G32 Verde
 Nokia C20 Negro
+P30 Lite Lila
+P30 Lite Negro
+S9 Rosa
+S9 Morado
+S9 Rojo
 S21 ultra Negro
 S21 ultra Morado
 Moto G7 Power AzulOscuro
@@ -103,7 +130,7 @@ ___________________________________
 ARMADURA:                         
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Moto E22
-Note 11
+Moto G41 Rojo
 Redmi 10c
 ___________________________________
 TIGERS NODO:                      
@@ -152,12 +179,20 @@ ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pachas iPhone
+Pacha P30 Lite
+Tapa P30 Lite Azul
+Tapa Y9 2019 Rosa
 Camara A21s
+Visor Camara 9a
+Protector camara S22
+Protector camara S23 Plus
+Protector Full 13 Pro max
 Caja Hydrogel
 ___________________________________
 TABLET STORE:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Forros PC
+Vidrio Templado 9"
 
 ___________________________________
 VPG SAS:                          
