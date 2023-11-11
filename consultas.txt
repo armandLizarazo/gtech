@@ -2,11 +2,12 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Adaptador 3.5 a media st
-Cargador PC 8 Puntas
+ok Cargador PC 8 Puntas
 Pilas Carbon AAA
-HDTV2VGA cable
-Cable 3 a 1 TV
+ok HDTV2VGA cable
+ok Cable 3 a 1 TV
 Teclado Gamer Sencillo Negro
+Garantia Parlante
 ___________________________________
 PELO LILA:                        
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -92,8 +93,8 @@ Moto G32 Verde
 Nokia C20 Negro
 ok P30 Lite Lila
 ok P30 Lite Negro
-S9 Rosa
-S9 Morado
+ok ok S9 Rosa
+ok ok S9 Morado
 S9 Rojo
 S21 ultra Negro
 S21 ultra Morado
@@ -108,7 +109,7 @@ JOMA:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
 Garantia Minikeyboard
-En proceso Garantia TV BOX
+ok Garantia TV BOX
 
 
 ___________________________________
@@ -116,7 +117,7 @@ ANDRES CAPITAL:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
 Cargador Belkin TC
-USB Kingston 4GB
+ok USB Kingston 4GB
 Manos Libres Pronix Ligthning
 Memorias 128gb
 Memorias 256Gb
