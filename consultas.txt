@@ -5,7 +5,7 @@ Adaptador 3.5 a media st
 Adaptador Europeo Goma
 Cargador PC 8 Puntas
 Parlantes pc eco
-Pilas Carbon AAA
+ok Pilas Carbon AAA
 Teclado Gamer Sencillo Negro
 Garantia Parlante Rubiani
 ___________________________________
@@ -51,7 +51,7 @@ ANTICHOQUES:
 J6 Plus
 J7 2017 Caballero
 A7 2018
-A30 Caballero
+ok A30 Caballero
 A30 Dama
 ok A24 Dama x3
 Y5 2018 Dama x3
@@ -60,23 +60,22 @@ Moto G4
 Moto G7 Caballero
 ok 9a Dama
 iPhone 8
-Y20s 
+ok Y20s 
 Vivo V21
 
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 iPhone 6s Morado
-Xs Max Rosa
-Xs Max Negro
-Xs Max Morado
+ok Xs Max Rosa
+ok Xs Max Negro
+ok Xs Max Morado
 A7 2018
-ok A13 Rojo
 A13 Lila
 Moto Edge 30
 Moto Edge 40
-Moto G22 Rojo
-Moto G32 Morado
+ok Moto G22 Rojo
+ok Moto G32 Morado
 Moto G32 Verde
 Nokia C20 Negro
 S9 Rojo
@@ -87,8 +86,8 @@ Moto G7 Power Morado
 Moto G7 Power Negro
 Note 8 Pro Verde
 Note 11 Verde Biche
-Redmi 9c Rosa
-Redmi 10c Lila
+ok Redmi 9c Rosa
+ok Redmi 10c Lila
 Y21s Lila
 Vivo Y22s
 ___________________________________
