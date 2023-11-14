@@ -2,9 +2,9 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Adaptador 3.5 a media st
-Adaptador Europeo Goma
-Cargador PC 8 Puntas
-Parlantes pc eco
+ok Adaptador Europeo Goma
+ok Cargador PC 8 Puntas
+ok Parlantes pc eco
 ok Pilas Carbon AAA
 Teclado Gamer Sencillo Negro
 Garantia Parlante Rubiani
