@@ -126,9 +126,9 @@ ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Tablet 10"
-Tablets Kids
-Parlante TG-8011C
-Parlante Teatro TG-300
+ok 4 Tablets Kids
+ok Parlante Azul TG-8011C
+ok Parlante Teatro TG-300
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -174,8 +174,10 @@ Pacha iPhone 11
 Pacha iPhone 11 Pro Max
 Pacha iPhone 7+
 Pacha iPhone 7
-Visor Camara 9c
-Táctil del Zte Blade A3 Lite
+ok Pacha Moto G8 Power Lite
+ok Pacha Moto One
+ok Visor Camara 9c
+ok Táctil del Zte Blade A3 Lite
 Protector camara S22
 Protector camara S23 Plus
 Protector Full 13 Pro max
