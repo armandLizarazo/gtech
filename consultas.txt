@@ -53,12 +53,12 @@ J7 2017 Caballero
 A7 2018
 A30 Caballero
 A30 Dama
-A24 Dama x3
+ok A24 Dama x3
 Y5 2018 Dama x3
-Moto G22 Dama
+ok Moto G22 Dama
 Moto G4
 Moto G7 Caballero
-9a Dama
+ok 9a Dama
 iPhone 8
 Y20s 
 Vivo V21
@@ -112,7 +112,7 @@ Memorias 256Gb
 5D Lg K42s
 5D Y21s
 5D Redmni 10C
-Ceramico Moto G8 Power / Mi9T
+ok Ceramico Moto G8 Power / Mi9T
 Ceramico iPhone 14
 Ceramico iPhone 15
 
@@ -121,7 +121,7 @@ ARMADURA:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Moto E22
 Moto G41 Rojo
-Redmi 10c
+ok Redmi 10c
 ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
