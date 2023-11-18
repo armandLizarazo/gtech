@@ -2,10 +2,6 @@
            CHICAGO 107:           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Adaptador 3.5 a media st
-ok Adaptador Europeo Goma
-ok Cargador PC 8 Puntas
-ok Parlantes pc eco
-ok Pilas Carbon AAA
 Teclado Gamer Sencillo Negro
 Garantia Parlante Rubiani
 ___________________________________
@@ -22,6 +18,8 @@ ___________________________________
 RACO:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pilas AAA  Recargables con cargador
+Powerbank mas fino
+Garantia Powerbank
 ___________________________________
 SAFARI:                           
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -51,31 +49,36 @@ ANTICHOQUES:
 J6 Plus
 J7 2017 Caballero
 A7 2018
-ok A30 Caballero
-A30 Dama
-ok A24 Dama x3
+A10 Dama x3
+A30 Dama x2
 Y5 2018 Dama x3
-ok Moto G22 Dama
 Moto G4
 Moto G7 Caballero
-ok 9a Dama
-iPhone 8
-ok Y20s 
-Vivo V21
+Moto G9 Power Dama
+Moto G9 Power Caballero
+Redmi Note 8 Dama x3
+Redmi 9a Caballero x3
+Redmi 10a Caballero x2
+
+Y21s Dama x2
+
 
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 iPhone 6s Morado
-ok Xs Max Rosa
-ok Xs Max Negro
-ok Xs Max Morado
 A7 2018
+A12 Verde
+A12 Verde Militar
 A13 Lila
+A21s Lila
+A21s Verde
+A21s Negro Prt-Cam
+A21s Rojo Prt-Cam
+Huawei X9a Rojo
+Huawei X9a Lila
 Moto Edge 30
 Moto Edge 40
-ok Moto G22 Rojo
-ok Moto G32 Morado
 Moto G32 Verde
 Nokia C20 Negro
 S9 Rojo
@@ -85,16 +88,30 @@ Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
 Note 8 Pro Verde
+Note 11 Rojo
+Note 11 Rosado
+Note 11 AzulRey
 Note 11 Verde Biche
-ok Redmi 9c Rosa
-ok Redmi 10c Lila
+Redmi 10 Negro
+Redmi 10 Verde
+Redmi 12c Verde
 Y21s Lila
 Vivo Y22s
 ___________________________________
 JOMA:                             
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Aro de luz 33cm
-Garantia Minikeyboard
+Spliter 1 a 4 
+Spliter 1 a 2
+Inpods Negro x5
+ipnpods Verde x3
+impods Gris x2
+impods Blanco x3
+
+Garantias... 
+Inpods solo prende uno
+Spliter 1 a 2 pieza suelta
+Minikeyboard Bateria no carga
 
 ___________________________________
 ANDRES CAPITAL:                   
@@ -111,7 +128,6 @@ Memorias 256Gb
 5D Lg K42s
 5D Y21s
 5D Redmni 10C
-ok Ceramico Moto G8 Power / Mi9T
 Ceramico iPhone 14
 Ceramico iPhone 15
 
@@ -120,18 +136,20 @@ ARMADURA:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Moto E22
 Moto G41 Rojo
-ok Redmi 10c
 ___________________________________
 TIGERS NODO:                      
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Tablet 10"
-ok 4 Tablets Kids
-ok Parlante Azul TG-8011C
-ok Parlante Teatro TG-300
+
+Garantias
+Tablet Kids Verde Usada no audio
+Parlante TG-8011C No audio falta Cable y micro
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+iPhone Xs Max
 M14
+A04e x2
 Magic 5 Lite
 Moto E7 2020
 Moto G32 x2
@@ -166,17 +184,25 @@ ___________________________________
 CELUFLEX F&R:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Pin de cargar J5 Prime
+Pin de carga otro (Bolsa)
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Reclamacion Precios tapas
+Cambiar Pacha Moto G8 Power Lite
+Pacha A12 / M12 x2
+Logica de carga A51
+Visor ZTE L8
+Pacha Note 10 Note 10s
+Pacha Moto G9 Power
+Pacha Redmi 10a / 9a
+Pacha Moto E40
+Huella Redmi Note 10
 Pacha iPhone 11
 Pacha iPhone 11 Pro Max
 Pacha iPhone 7+
 Pacha iPhone 7
-ok Pacha Moto G8 Power Lite
-ok Pacha Moto One
-ok Visor Camara 9c
-ok Táctil del Zte Blade A3 Lite
+Pacha A12 / M12 x2
 Protector camara S22
 Protector camara S23 Plus
 Protector Full 13 Pro max
@@ -191,7 +217,8 @@ VPG SAS:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯--
 Parlantes TG-294 Rojo
 Parlantes TG-294 Verde
-
+Parlantes TG-294 Negro
+Pila Parlante 2600 mah
 ___________________________________
 VIDEO JUEGOS:                     
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
