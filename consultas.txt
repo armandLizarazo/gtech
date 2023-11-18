@@ -68,7 +68,7 @@ SILICONE CASE:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 iPhone 6s Morado
 A7 2018
-A12 Verde
+ok A12 Verde
 A12 Verde Militar
 A13 Lila
 A21s Lila
@@ -89,13 +89,13 @@ Moto G7 Power Morado
 Moto G7 Power Negro
 Note 8 Pro Verde
 Note 11 Rojo
-Note 11 Rosado
+ok Note 11 Rosado
 Note 11 AzulRey
 Note 11 Verde Biche
-Redmi 10 Negro
-Redmi 10 Verde
+ok Redmi 10 Negro
+ok Redmi 10 Verde
 Redmi 12c Verde
-Y21s Lila
+ok Y21s Lila
 Vivo Y22s
 ___________________________________
 JOMA:                             
@@ -189,16 +189,16 @@ Pin de carga otro (Bolsa)
 ___________________________________
 EKADI:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-Reclamacion Precios tapas
-Cambiar Pacha Moto G8 Power Lite
-Pacha A12 / M12 x2
+ok Reclamacion Precios tapas
+ok Cambiar Pacha Moto G8 Power Lite
+ok Pacha A12 / M12 x2
 Logica de carga A51
 Visor ZTE L8
-Pacha Note 10 Note 10s
-Pacha Moto G9 Power
-Pacha Redmi 10a / 9a
-Pacha Moto E40
-Huella Redmi Note 10
+ok Pacha Note 10 Note 10s
+ok Pacha Moto G9 Power
+ok Pacha Redmi 10a / 9a
+ok Pacha Moto E40
+ok Huella Redmi Note 10
 Pacha iPhone 11
 Pacha iPhone 11 Pro Max
 Pacha iPhone 7+
