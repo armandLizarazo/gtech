@@ -53,13 +53,8 @@ A10 Dama x3
 A30 Dama x2
 Y5 2018 Dama x3
 Moto G4
-Moto G7 Caballero
 Moto G9 Power Dama
 Moto G9 Power Caballero
-Redmi Note 8 Dama x3
-Redmi 9a Caballero x3
-Redmi 10a Caballero x2
-
 Y21s Dama x2
 
 
@@ -68,7 +63,6 @@ SILICONE CASE:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 iPhone 6s Morado
 A7 2018
-ok A12 Verde
 A12 Verde Militar
 A13 Lila
 A21s Lila
@@ -89,13 +83,9 @@ Moto G7 Power Morado
 Moto G7 Power Negro
 Note 8 Pro Verde
 Note 11 Rojo
-ok Note 11 Rosado
 Note 11 AzulRey
 Note 11 Verde Biche
-ok Redmi 10 Negro
-ok Redmi 10 Verde
 Redmi 12c Verde
-ok Y21s Lila
 Vivo Y22s
 ___________________________________
 JOMA:                             
@@ -148,13 +138,10 @@ Parlante TG-8011C No audio falta Cable y micro
 ___________________________________
 SPACE:                            
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-iPhone Xs Max
 M14
-A04e x2
 Magic 5 Lite
 Moto E7 2020
 Moto G32 x2
-Moto G20 Rosa
 Moto G20 Lila x2
 Moto G50
 Y7a
