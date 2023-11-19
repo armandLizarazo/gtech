@@ -61,31 +61,36 @@ Y21s Dama x2
 ___________________________________
 SILICONE CASE:                    
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-iPhone 6s Morado
+ok iPhone 6s Morado
 A7 2018
 A12 Verde Militar
-A13 Lila
-A21s Lila
+ok A13 Lila
+ok A21s Lila
 A21s Verde
-A21s Negro Prt-Cam
+ok ok A21s Negro Prt-Cam
 A21s Rojo Prt-Cam
 Huawei X9a Rojo
 Huawei X9a Lila
-Moto Edge 30
-Moto Edge 40
+ok Moto Edge 30
+ok Moto Edge 40
 Moto G32 Verde
 Nokia C20 Negro
 S9 Rojo
-S21 ultra Negro
-S21 ultra Morado
+ok S21 ultra Negro
+ok S21 ultra Morado
 Moto G7 Power AzulOscuro
 Moto G7 Power Morado
 Moto G7 Power Negro
 Note 8 Pro Verde
-Note 11 Rojo
-Note 11 AzulRey
+ok Note 11 Rojo
+ok Note 11 AzulRey
 Note 11 Verde Biche
 Redmi 12c Verde
+reno 10 lila
+reno 10 amarillo
+reno 10 rosa
+reno 10 morado
+
 Vivo Y22s
 ___________________________________
 JOMA:                             
@@ -109,16 +114,16 @@ ANDRES CAPITAL:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Balaca Naisu ST-437 Negro
 Cargador Belkin V8
-Cargador Belkin TC
+okCargador Belkin TC
 Manos Libres Pronix Ligthning
 Memorias 128gb
 Memorias 256Gb
 5D Moto Edge 30
-5D Moto G20
+ok 5D Moto G20
 5D iPhone 15
 5D Lg K42s
 5D Y21s
-5D Redmni 10C
+ok 5D Redmni 10C
 Ceramico iPhone 14
 Ceramico iPhone 15
 
